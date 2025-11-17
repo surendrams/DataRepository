@@ -1,0 +1,138 @@
+[
+  {
+    "grade": "7",
+    "subject": "Mathematics",
+    "majorTopics": [
+      {
+        "topicName": "Integers & Rational Numbers",
+        "subTopics": [
+          "Understanding integers and opposites",
+          "Absolute value",
+          "Adding integers",
+          "Subtracting integers",
+          "Multiplying integers",
+          "Dividing integers",
+          "Rational numbers",
+          "Adding and subtracting rational numbers",
+          "Multiplying and dividing rational numbers",
+          "Operations with fractions and decimals",
+          "The coordinate plane"
+        ]
+      },
+      {
+        "topicName": "Equations & Inequalities",
+        "subTopics": [
+          "Solving equations using addition or subtraction",
+          "Solving equations using multiplication or division",
+          "Solving two-step equations",
+          "Solving multi-step equations",
+          "Solving equations with variables on both sides",
+          "Writing and solving equations",
+          "Solving inequalities by addition or subtraction",
+          "Solving inequalities by multiplication or division",
+          "Graphing inequalities on a number line",
+          "Real-world problem solving with equations"
+        ]
+      },
+      {
+        "topicName": "Ratios, Rates & Proportions",
+        "subTopics": [
+          "Understanding ratios and rates",
+          "Unit rates and complex fractions",
+          "Proportional and nonproportional relationships",
+          "Solving proportions",
+          "Writing proportions",
+          "Proportional reasoning",
+          "Scale and scale models",
+          "Converting between measurement systems",
+          "Constant rate of change",
+          "Slope",
+          "Direct variation",
+          "Inverse variation"
+        ]
+      },
+      {
+        "topicName": "Percents & Financial Literacy",
+        "subTopics": [
+          "The percent equation",
+          "Percent of a number",
+          "Percent and estimation",
+          "The percent proportion",
+          "Percent of change",
+          "Percent of increase and decrease",
+          "Sales tax and tips",
+          "Markups and discounts",
+          "Simple interest",
+          "Financial applications"
+        ]
+      },
+      {
+        "topicName": "Geometry & Similarity",
+        "subTopics": [
+          "Identifying similar figures",
+          "Scale factors and similarity",
+          "Perimeter and area of similar figures",
+          "Circumference and area of circles",
+          "Surface area",
+          "Volume",
+          "Surface areas and volumes of similar solids",
+          "Transformations (reflection, rotation, translation)",
+          "Congruent and similar triangles",
+          "Real-world geometric applications"
+        ]
+      },
+      {
+        "topicName": "Algebraic Expressions & Properties",
+        "subTopics": [
+          "Variables and expressions",
+          "Writing and evaluating expressions",
+          "Properties of operations (commutative, associative, distributive)",
+          "Combining like terms",
+          "Order of operations",
+          "Simplifying expressions",
+          "Expanding and factoring expressions"
+        ]
+      },
+      {
+        "topicName": "Data Analysis & Statistical Measures",
+        "subTopics": [
+          "Data collection and organization",
+          "Stem-and-leaf plots",
+          "Mean (average)",
+          "Median",
+          "Mode",
+          "Range",
+          "Measures of variation",
+          "Mean absolute deviation",
+          "Quartiles and interquartile range"
+        ]
+      },
+      {
+        "topicName": "Data Displays & Interpretation",
+        "subTopics": [
+          "Bar graphs and line graphs",
+          "Histograms",
+          "Circle graphs and pie charts",
+          "Box plots",
+          "Choosing appropriate data displays",
+          "Interpreting and analyzing graphs",
+          "Samples and populations",
+          "Bias in data collection"
+        ]
+      },
+      {
+        "topicName": "Probability",
+        "subTopics": [
+          "Introduction to probability",
+          "Theoretical probability",
+          "Experimental probability",
+          "Sample spaces and outcomes",
+          "Independent and dependent events",
+          "Compound probability",
+          "Predicting outcomes",
+          "Comparing theoretical and experimental probability"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "grade": "12",
+    "subject": "AP Calculus AB/BC",
+    "majorTopics": [
+      {
+        "topicName": "Limits and Continuity",
+        "subTopics": [
+          "Limits of functions (properties and notation)",
+          "Evaluating limits numerically, graphically, and algebraically",
+          "Limits of indeterminate forms",
+          "Continuity and discontinuity",
+          "Types of discontinuities (removable, jump, infinite)",
+          "Intermediate value theorem",
+          "Squeeze theorem",
+          "Infinite limits and asymptotes"
+        ]
+      },
+      {
+        "topicName": "Differentiation - Definition and Basic Rules",
+        "subTopics": [
+          "Average rate of change and the difference quotient",
+          "Instantaneous rate of change and derivative definition",
+          "Derivative as a limit",
+          "Continuity and differentiability relationship",
+          "Power rule",
+          "Product rule",
+          "Quotient rule",
+          "Sum and difference rules",
+          "Basic trigonometric derivatives"
+        ]
+      },
+      {
+        "topicName": "Differentiation - Composite, Implicit, and Inverse Functions",
+        "subTopics": [
+          "Chain rule",
+          "Implicit differentiation",
+          "Derivatives of inverse functions",
+          "Inverse trigonometric derivatives",
+          "Logarithmic differentiation",
+          "Higher-order derivatives",
+          "Second derivative and concavity"
+        ]
+      },
+      {
+        "topicName": "Contextual Applications of Differentiation",
+        "subTopics": [
+          "Position, velocity, and acceleration",
+          "Instantaneous rate of change in real contexts",
+          "Related rates problems",
+          "Local linear approximation and tangent lines",
+          "Mean value theorem",
+          "Rolle's theorem"
+        ]
+      },
+      {
+        "topicName": "Analytical Applications of Differentiation",
+        "subTopics": [
+          "Extreme value theorem",
+          "Finding critical points and extrema",
+          "First derivative test",
+          "Second derivative test",
+          "Analyzing function behavior using derivatives",
+          "Curve sketching",
+          "Optimization problems",
+          "L'Hôpital's rule (AB: limits only; BC: limits and indeterminate forms)"
+        ]
+      },
+      {
+        "topicName": "Integration and Accumulation of Change",
+        "subTopics": [
+          "Antiderivatives and indefinite integrals",
+          "Riemann sums (left, right, midpoint, trapezoidal)",
+          "Definite integrals",
+          "Fundamental theorem of calculus (parts 1 and 2)",
+          "Properties of integrals",
+          "U-substitution method",
+          "Integration by parts (BC only)",
+          "Partial fractions (BC only)"
+        ]
+      },
+      {
+        "topicName": "Differential Equations",
+        "subTopics": [
+          "Slope fields and solution curves",
+          "Separable differential equations",
+          "Particular solutions and initial value problems",
+          "Exponential growth and decay models",
+          "Logistic differential equations and models",
+          "Solutions to differential equations",
+          "Real-world applications of differential equations"
+        ]
+      },
+      {
+        "topicName": "Applications of Integration",
+        "subTopics": [
+          "Area between curves",
+          "Area under curves",
+          "Volume of solids of revolution (disk and washer methods)",
+          "Shell method (BC only)",
+          "Length of curves (arc length) (BC only)",
+          "Density and improper integrals (BC only)",
+          "Accumulation functions",
+          "Net change and total accumulation"
+        ]
+      },
+      {
+        "topicName": "Parametric Equations, Polar Coordinates, and Vector-Valued Functions (BC Only)",
+        "subTopics": [
+          "Parametric curves and equations",
+          "Parametric differentiation and integration",
+          "Polar coordinates and polar curves",
+          "Slopes of polar curves",
+          "Area in polar coordinates",
+          "Vector-valued functions",
+          "Derivatives of vector-valued functions",
+          "Velocity and acceleration vectors"
+        ]
+      },
+      {
+        "topicName": "Infinite Sequences and Series (BC Only)",
+        "subTopics": [
+          "Sequences and convergence",
+          "Infinite series and convergence tests",
+          "Geometric series",
+          "P-series",
+          "Divergence test",
+          "Integral test",
+          "Comparison tests",
+          "Ratio and root tests",
+          "Power series",
+          "Taylor and Maclaurin series",
+          "Radius and interval of convergence",
+          "Taylor polynomial approximations"
+        ]
+      }
+    ]
+  }
+]

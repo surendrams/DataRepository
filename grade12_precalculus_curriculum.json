@@ -1,0 +1,214 @@
+[
+  {
+    "grade": "12",
+    "subject": "Precalculus",
+    "majorTopics": [
+      {
+        "topicName": "Linear Relations & Functions",
+        "subTopics": [
+          "Relations and functions",
+          "Function composition",
+          "Graphing linear equations",
+          "Writing linear equations",
+          "Slope and linear functions",
+          "Modeling real-world data with linear functions",
+          "Piecewise functions",
+          "Graphing linear inequalities"
+        ]
+      },
+      {
+        "topicName": "Quadratic & Other Functions",
+        "subTopics": [
+          "Quadratic functions and parabolas",
+          "Graphing quadratic functions",
+          "Transformations of quadratic functions",
+          "Solving quadratic equations",
+          "Applications of quadratic functions",
+          "Power functions",
+          "Polynomial functions",
+          "Graphing polynomial functions"
+        ]
+      },
+      {
+        "topicName": "Polynomial & Rational Functions",
+        "subTopics": [
+          "Polynomial division",
+          "Synthetic division",
+          "Remainder and factor theorems",
+          "Zeros of polynomials",
+          "End behavior of polynomials",
+          "Rational functions",
+          "Simplifying rational expressions",
+          "Graphing rational functions",
+          "Asymptotes and discontinuities",
+          "Operations with rational functions"
+        ]
+      },
+      {
+        "topicName": "Exponential & Logarithmic Functions",
+        "subTopics": [
+          "Exponential functions",
+          "Exponential growth and decay",
+          "Compound interest",
+          "The natural exponential function (e)",
+          "Continuous compounding",
+          "Inverse of exponential functions",
+          "Logarithmic functions",
+          "Properties of logarithms",
+          "Solving exponential equations",
+          "Solving logarithmic equations",
+          "Change of base formula"
+        ]
+      },
+      {
+        "topicName": "Trigonometric Functions",
+        "subTopics": [
+          "Angles and angle measurement",
+          "Radians and degrees",
+          "Unit circle",
+          "Trigonometric ratios",
+          "Reference angles",
+          "Graphs of sine and cosine functions",
+          "Graphs of tangent and cotangent functions",
+          "Graphs of secant and cosecant functions",
+          "Transformations of trigonometric functions",
+          "Periodic functions",
+          "Trigonometric identities"
+        ]
+      },
+      {
+        "topicName": "Inverse Trigonometric Functions",
+        "subTopics": [
+          "Inverse sine (arcsin)",
+          "Inverse cosine (arccos)",
+          "Inverse tangent (arctan)",
+          "Other inverse trigonometric functions",
+          "Graphs of inverse trigonometric functions",
+          "Evaluating inverse trigonometric functions",
+          "Applications of inverse trigonometric functions"
+        ]
+      },
+      {
+        "topicName": "Trigonometric Equations & Identities",
+        "subTopics": [
+          "Solving trigonometric equations",
+          "Fundamental trigonometric identities",
+          "Sum and difference formulas",
+          "Double angle formulas",
+          "Half angle formulas",
+          "Product-to-sum formulas",
+          "Verifying trigonometric identities",
+          "Applications of trigonometric equations"
+        ]
+      },
+      {
+        "topicName": "Solving Triangles",
+        "subTopics": [
+          "Law of sines",
+          "Law of cosines",
+          "Solving triangles (SSS, SAS, ASA, AAS)",
+          "Area of triangles using trigonometry",
+          "Applications of triangle solving",
+          "Ambiguous case (SSA)",
+          "Navigation and surveying applications"
+        ]
+      },
+      {
+        "topicName": "Complex Numbers & Polar Coordinates",
+        "subTopics": [
+          "Complex numbers",
+          "Operations with complex numbers",
+          "Complex conjugates",
+          "Absolute value of complex numbers",
+          "Polar form of complex numbers",
+          "Converting between rectangular and polar forms",
+          "De Moivre's theorem",
+          "Roots of complex numbers",
+          "Polar equations"
+        ]
+      },
+      {
+        "topicName": "Conic Sections",
+        "subTopics": [
+          "Circles",
+          "Ellipses",
+          "Hyperbolas",
+          "Parabolas",
+          "Equations of conic sections",
+          "Graphing conic sections",
+          "Parametric equations",
+          "Applications of conic sections"
+        ]
+      },
+      {
+        "topicName": "Systems & Matrices",
+        "subTopics": [
+          "Systems of linear equations",
+          "Systems of nonlinear equations",
+          "Matrix operations",
+          "Determinants",
+          "Matrix inverses",
+          "Solving systems using matrices",
+          "Gaussian elimination",
+          "Applications of systems and matrices"
+        ]
+      },
+      {
+        "topicName": "Sequences & Series",
+        "subTopics": [
+          "Sequences and summation notation",
+          "Arithmetic sequences",
+          "Arithmetic series",
+          "Geometric sequences",
+          "Geometric series",
+          "Infinite geometric series",
+          "Mathematical induction",
+          "The binomial theorem",
+          "Applications of sequences and series"
+        ]
+      },
+      {
+        "topicName": "Combinatorics & Probability",
+        "subTopics": [
+          "Counting principles",
+          "Permutations",
+          "Combinations",
+          "Binomial coefficients",
+          "Probability",
+          "Independent and dependent events",
+          "Conditional probability",
+          "Binomial probability",
+          "Expected value"
+        ]
+      },
+      {
+        "topicName": "Vectors",
+        "subTopics": [
+          "Vector representation",
+          "Vector operations (addition, subtraction)",
+          "Scalar multiplication",
+          "Dot product",
+          "Cross product",
+          "Magnitude and direction",
+          "Unit vectors",
+          "Applications of vectors",
+          "3D vectors"
+        ]
+      },
+      {
+        "topicName": "Limits & Introduction to Calculus",
+        "subTopics": [
+          "Limits and continuity",
+          "Evaluating limits algebraically",
+          "Evaluating limits graphically",
+          "Infinite limits and vertical asymptotes",
+          "Limits at infinity and horizontal asymptotes",
+          "The derivative as a limit",
+          "Rates of change",
+          "Tangent lines",
+          "Introduction to integration"
+        ]
+      }
+    ]
+  }
+]

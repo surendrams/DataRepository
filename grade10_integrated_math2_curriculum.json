@@ -1,0 +1,201 @@
+[
+  {
+    "grade": "10",
+    "subject": "Integrated Math II",
+    "majorTopics": [
+      {
+        "topicName": "Exploring Algebraic & Geometric Relationships",
+        "subTopics": [
+          "Systems of linear equations",
+          "Solving systems by graphing, substitution, and elimination",
+          "Systems with special solutions",
+          "Modeling situations with linear systems",
+          "Linear inequalities and their graphs",
+          "Systems of linear inequalities",
+          "Real-world optimization problems"
+        ]
+      },
+      {
+        "topicName": "Quadratic Expressions & Equations",
+        "subTopics": [
+          "Quadratic expressions and polynomials",
+          "Factoring quadratic expressions",
+          "Solving quadratic equations by factoring",
+          "Quadratic formula",
+          "Solving quadratic equations by graphing",
+          "Completing the square",
+          "Discriminant and nature of roots",
+          "Applications of quadratic equations"
+        ]
+      },
+      {
+        "topicName": "Quadratic Functions & Relations",
+        "subTopics": [
+          "Quadratic functions and parabolas",
+          "Graphing quadratic functions",
+          "Vertex form of quadratic functions",
+          "Axis of symmetry and vertex",
+          "Properties of parabolas (direction, width, stretch)",
+          "Transformations of quadratic functions",
+          "Comparing quadratic and linear functions",
+          "Real-world modeling with quadratic functions"
+        ]
+      },
+      {
+        "topicName": "Exponential & Logarithmic Functions",
+        "subTopics": [
+          "Exponential functions",
+          "Exponential growth and decay",
+          "Compound interest",
+          "Graphing exponential functions",
+          "Transformations of exponential functions",
+          "Comparing exponential and linear growth",
+          "Inverse of exponential functions (logarithms)",
+          "Logarithmic functions and equations",
+          "Real-world applications"
+        ]
+      },
+      {
+        "topicName": "Reasoning & Proof",
+        "subTopics": [
+          "Inductive reasoning",
+          "Deductive reasoning",
+          "Conditional statements and logic",
+          "Postulates and theorems",
+          "Basic geometric proofs",
+          "Proof writing",
+          "Two-column proofs",
+          "Algebraic proofs"
+        ]
+      },
+      {
+        "topicName": "Congruent Triangles",
+        "subTopics": [
+          "Triangle congruence postulates (SSS, SAS, ASA, AAS)",
+          "Using congruence to prove statements",
+          "Corresponding parts of congruent triangles",
+          "Isosceles and equilateral triangles",
+          "Properties of special triangles",
+          "Right triangle congruence",
+          "CPCTC (Corresponding Parts of Congruent Triangles are Congruent)"
+        ]
+      },
+      {
+        "topicName": "Relationships in Triangles",
+        "subTopics": [
+          "Triangle inequality theorem",
+          "Medians and centroids",
+          "Altitudes and orthocenters",
+          "Perpendicular bisectors",
+          "Angle bisectors",
+          "Circumcenters and incenters",
+          "Midsegment theorem",
+          "Relationships between angles and sides"
+        ]
+      },
+      {
+        "topicName": "Quadrilaterals",
+        "subTopics": [
+          "Properties of parallelograms",
+          "Properties of rectangles",
+          "Properties of rhombuses",
+          "Properties of squares",
+          "Properties of trapezoids",
+          "Properties of kites",
+          "Classifying quadrilaterals",
+          "Proving properties using coordinate geometry"
+        ]
+      },
+      {
+        "topicName": "Proportions & Similarity",
+        "subTopics": [
+          "Ratios and proportions",
+          "Similar figures",
+          "AA, SSS, and SAS similarity postulates",
+          "Using similarity to solve problems",
+          "Scale factors",
+          "Proportional segments in triangles",
+          "Side-splitter theorem",
+          "Geometric mean"
+        ]
+      },
+      {
+        "topicName": "Right Triangles & Trigonometry",
+        "subTopics": [
+          "Pythagorean theorem and applications",
+          "Special right triangles (45-45-90 and 30-60-90)",
+          "Sine, cosine, and tangent ratios",
+          "Solving right triangles using trigonometry",
+          "Inverse trigonometric functions",
+          "Angles of elevation and depression",
+          "Law of sines and law of cosines",
+          "Trigonometric applications in real-world problems"
+        ]
+      },
+      {
+        "topicName": "Circles",
+        "subTopics": [
+          "Circle terminology (center, radius, diameter, chord)",
+          "Circumference and area",
+          "Arc length and sector area",
+          "Central angles and inscribed angles",
+          "Tangent lines and properties",
+          "Secant lines and angles",
+          "Chords and their properties",
+          "Angles formed by intersecting chords, secants, and tangents",
+          "Circle equations"
+        ]
+      },
+      {
+        "topicName": "Extending Surface Area & Volume",
+        "subTopics": [
+          "Surface area of prisms and pyramids",
+          "Surface area of cylinders, cones, and spheres",
+          "Volume of prisms and pyramids",
+          "Volume of cylinders, cones, and spheres",
+          "Similar solids and ratios",
+          "Scaling relationships for surface area and volume",
+          "Composite solids",
+          "Real-world applications of surface area and volume"
+        ]
+      },
+      {
+        "topicName": "Probability & Measurement",
+        "subTopics": [
+          "Sample spaces and counting principles",
+          "Theoretical and experimental probability",
+          "Compound probability",
+          "Independent and dependent events",
+          "Conditional probability",
+          "Permutations and combinations",
+          "Binomial probability",
+          "Geometric probability",
+          "Real-world probability applications"
+        ]
+      },
+      {
+        "topicName": "Justification & Similarity",
+        "subTopics": [
+          "Geometric justifications and proofs",
+          "Proving similarity relationships",
+          "Congruence and similarity in proofs",
+          "Using properties of similar triangles",
+          "Coordinate geometry proofs",
+          "Transformational geometry justifications"
+        ]
+      },
+      {
+        "topicName": "Factoring & More Trigonometry",
+        "subTopics": [
+          "Advanced factoring techniques",
+          "Factoring polynomials completely",
+          "Using factoring to solve equations",
+          "Trigonometric identities",
+          "Solving trigonometric equations",
+          "Graphing trigonometric functions",
+          "Applications of advanced trigonometry"
+        ]
+      }
+    ]
+  }
+]

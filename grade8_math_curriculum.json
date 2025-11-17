@@ -1,0 +1,174 @@
+[
+  {
+    "grade": "8",
+    "subject": "Mathematics",
+    "majorTopics": [
+      {
+        "topicName": "Real Numbers & Operations",
+        "subTopics": [
+          "Rational and irrational numbers",
+          "Powers and exponents",
+          "Multiply and divide monomials",
+          "Powers of monomials",
+          "Negative exponents",
+          "Scientific notation",
+          "Computing with scientific notation",
+          "Roots and estimating roots",
+          "Comparing real numbers",
+          "Square roots and perfect squares",
+          "Cube roots"
+        ]
+      },
+      {
+        "topicName": "Equations & Solving Equations",
+        "subTopics": [
+          "Solving simple equations",
+          "Solving multi-step equations",
+          "Solving equations with variables on both sides",
+          "Solving equations with rational coefficients",
+          "Two-step equations",
+          "Writing equations",
+          "Rewriting equations and formulas",
+          "Converting units of measure",
+          "Real-world problem solving"
+        ]
+      },
+      {
+        "topicName": "Linear Equations & Graphing",
+        "subTopics": [
+          "Graphing linear equations",
+          "Slope of a line",
+          "Finding slope from points",
+          "Slope-intercept form",
+          "Standard form of linear equations",
+          "Graphing using intercepts",
+          "Writing linear equations",
+          "Writing equations in slope-intercept form",
+          "Writing equations in standard form",
+          "Solving equations by graphing"
+        ]
+      },
+      {
+        "topicName": "Systems of Linear Equations",
+        "subTopics": [
+          "Systems of linear equations",
+          "Solving systems by graphing",
+          "Solving systems algebraically",
+          "Substitution method",
+          "Elimination method",
+          "Special systems (no solution and infinite solutions)",
+          "Real-world applications of systems",
+          "Constant rate of change"
+        ]
+      },
+      {
+        "topicName": "Functions",
+        "subTopics": [
+          "Understanding functions",
+          "Function notation",
+          "Representing functions",
+          "Linear functions",
+          "Nonlinear functions",
+          "Function families",
+          "Domain and range",
+          "Analyzing functions",
+          "Writing and graphing functions"
+        ]
+      },
+      {
+        "topicName": "Geometry & Transformations",
+        "subTopics": [
+          "Lines and geometric proofs",
+          "Angles of triangles",
+          "Polygons and angles",
+          "The Pythagorean theorem",
+          "Using the Pythagorean theorem",
+          "Distance on the coordinate plane",
+          "Translations",
+          "Reflections",
+          "Rotations",
+          "Dilations",
+          "Congruence and transformations",
+          "Congruent triangles",
+          "Similarity and transformations",
+          "Similar figures and scale factors"
+        ]
+      },
+      {
+        "topicName": "Triangles & the Pythagorean Theorem",
+        "subTopics": [
+          "Lines and line segments",
+          "Geometric proof",
+          "Angles of triangles",
+          "Polygons and angle relationships",
+          "The Pythagorean theorem",
+          "Proofs of the Pythagorean theorem",
+          "Applications of Pythagorean theorem",
+          "Distance on the coordinate plane"
+        ]
+      },
+      {
+        "topicName": "Volume & Surface Area",
+        "subTopics": [
+          "Volume and surface area of prisms",
+          "Volume and surface area of pyramids",
+          "Volume and surface area of cylinders",
+          "Volume and surface area of cones",
+          "Volume and surface area of spheres",
+          "Composite solids",
+          "Similar solids",
+          "Surface areas and volumes of similar solids",
+          "Real-world applications"
+        ]
+      },
+      {
+        "topicName": "Data Analysis & Statistics",
+        "subTopics": [
+          "Data collection and organization",
+          "Stem-and-leaf plots",
+          "Mean (average)",
+          "Median",
+          "Mode",
+          "Range",
+          "Measures of variation",
+          "Mean absolute deviation",
+          "Quartiles and interquartile range",
+          "Box plots",
+          "Scatter plots",
+          "Lines of best fit",
+          "Interpreting statistical measures",
+          "Identifying bias in data"
+        ]
+      },
+      {
+        "topicName": "Data Displays",
+        "subTopics": [
+          "Bar graphs and histograms",
+          "Line graphs",
+          "Circle graphs and pie charts",
+          "Box plots",
+          "Scatter plots",
+          "Choosing appropriate displays",
+          "Interpreting data displays",
+          "Comparing data displays",
+          "Real-world data representations"
+        ]
+      },
+      {
+        "topicName": "Probability",
+        "subTopics": [
+          "Introduction to probability",
+          "Theoretical probability",
+          "Experimental probability",
+          "Sample spaces and outcomes",
+          "Independent events",
+          "Dependent events",
+          "Compound probability",
+          "Predicting outcomes",
+          "Comparing theoretical and experimental probability",
+          "Real-world probability applications"
+        ]
+      }
+    ]
+  }
+]

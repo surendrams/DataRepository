@@ -1,0 +1,194 @@
+[
+  {
+    "grade": "11",
+    "subject": "Algebra 2",
+    "majorTopics": [
+      {
+        "topicName": "Functions & Transformations",
+        "subTopics": [
+          "Parent functions and their properties",
+          "Transformations of functions (translations, reflections, dilations)",
+          "Absolute value functions",
+          "Function notation and evaluation",
+          "Domain and range",
+          "Piecewise functions",
+          "Function composition",
+          "One-to-one functions"
+        ]
+      },
+      {
+        "topicName": "Linear Functions & Systems",
+        "subTopics": [
+          "Linear functions",
+          "Slope and y-intercept",
+          "Writing equations of lines",
+          "Parallel and perpendicular lines",
+          "Systems of linear equations",
+          "Solving systems by graphing, substitution, and elimination",
+          "Systems with special solutions",
+          "Applications of linear systems",
+          "Linear inequalities and systems of inequalities"
+        ]
+      },
+      {
+        "topicName": "Quadratic Functions & Equations",
+        "subTopics": [
+          "Quadratic functions",
+          "Parabolas and their properties",
+          "Transformations of quadratic functions",
+          "Vertex form of quadratic functions",
+          "Standard form and intercept form",
+          "Solving quadratic equations by graphing",
+          "Solving by factoring",
+          "Completing the square",
+          "Quadratic formula and discriminant",
+          "Applications of quadratic equations",
+          "Quadratic inequalities"
+        ]
+      },
+      {
+        "topicName": "Polynomial Functions",
+        "subTopics": [
+          "Polynomial expressions",
+          "Adding, subtracting, and multiplying polynomials",
+          "Dividing polynomials (long division and synthetic division)",
+          "Factoring polynomials",
+          "Remainder and factor theorems",
+          "Polynomial functions and their graphs",
+          "End behavior and degree",
+          "Zeros and roots",
+          "Analyzing polynomial functions",
+          "Fundamental theorem of algebra"
+        ]
+      },
+      {
+        "topicName": "Rational Exponents & Radical Functions",
+        "subTopics": [
+          "Nth roots and rational exponents",
+          "Properties of rational exponents and radicals",
+          "Simplifying radical expressions",
+          "Operations with radicals",
+          "Solving radical equations",
+          "Graphing radical functions",
+          "Function operations (sum, difference, product, quotient)",
+          "Inverse functions",
+          "Solving equations involving radicals and exponents"
+        ]
+      },
+      {
+        "topicName": "Exponential & Logarithmic Functions",
+        "subTopics": [
+          "Exponential functions",
+          "Exponential growth and decay",
+          "Graphing exponential functions",
+          "Compound interest",
+          "Continuous compounding and the number e",
+          "Inverse of exponential functions (logarithms)",
+          "Logarithmic functions",
+          "Properties of logarithms",
+          "Solving exponential equations",
+          "Solving logarithmic equations",
+          "Change of base formula",
+          "Real-world applications"
+        ]
+      },
+      {
+        "topicName": "Rational Functions & Equations",
+        "subTopics": [
+          "Rational expressions",
+          "Simplifying rational expressions",
+          "Multiplying and dividing rational expressions",
+          "Adding and subtracting rational expressions",
+          "Rational equations",
+          "Solving rational equations",
+          "Rational functions",
+          "Asymptotes (vertical, horizontal, oblique)",
+          "Graphing rational functions",
+          "Discontinuities and holes"
+        ]
+      },
+      {
+        "topicName": "Complex Numbers",
+        "subTopics": [
+          "Imaginary and complex numbers",
+          "Operations with complex numbers (addition, subtraction, multiplication)",
+          "Dividing complex numbers",
+          "Complex conjugates",
+          "Powers of the imaginary unit",
+          "Solving equations with complex solutions",
+          "Applications of complex numbers"
+        ]
+      },
+      {
+        "topicName": "Conic Sections",
+        "subTopics": [
+          "Circles",
+          "Parabolas",
+          "Ellipses",
+          "Hyperbolas",
+          "Equations of conic sections",
+          "Graphing conic sections",
+          "Applications of conics",
+          "Identifying conic sections",
+          "Transformations of conic sections"
+        ]
+      },
+      {
+        "topicName": "Matrices & Systems",
+        "subTopics": [
+          "Matrix operations (addition, subtraction, multiplication)",
+          "Scalar multiplication",
+          "Matrix inverses",
+          "Determinants",
+          "Solving systems using matrices",
+          "Row reduction and Gaussian elimination",
+          "Applications of matrices",
+          "Systems with more than two variables"
+        ]
+      },
+      {
+        "topicName": "Sequences & Series",
+        "subTopics": [
+          "Sequences",
+          "Arithmetic sequences and series",
+          "Geometric sequences and series",
+          "Explicit and recursive formulas",
+          "Summation notation",
+          "Infinite geometric series",
+          "Applications of sequences and series"
+        ]
+      },
+      {
+        "topicName": "Probability & Counting",
+        "subTopics": [
+          "Counting principles",
+          "Permutations",
+          "Combinations",
+          "Binomial theorem and binomial coefficients",
+          "Probability",
+          "Theoretical and experimental probability",
+          "Compound events",
+          "Independent and dependent events",
+          "Conditional probability",
+          "Probability distributions",
+          "Expected value"
+        ]
+      },
+      {
+        "topicName": "Statistics",
+        "subTopics": [
+          "Organizing and displaying data",
+          "Measures of central tendency (mean, median, mode)",
+          "Measures of variation (range, quartiles, standard deviation)",
+          "Box plots and whisker plots",
+          "Normal distributions and z-scores",
+          "Correlation and regression",
+          "Linear regression analysis",
+          "Residuals and goodness of fit",
+          "Two-way frequency tables",
+          "Comparing distributions"
+        ]
+      }
+    ]
+  }
+]

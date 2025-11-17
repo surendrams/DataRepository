@@ -1,0 +1,193 @@
+[
+  {
+    "grade": "10",
+    "subject": "Geometry",
+    "majorTopics": [
+      {
+        "topicName": "Basics of Geometry",
+        "subTopics": [
+          "Points, lines, and planes",
+          "Line segments and rays",
+          "Measuring segments",
+          "Midpoint and distance formula",
+          "Angles and angle measurement",
+          "Angle bisectors",
+          "Perimeter and area on the coordinate plane",
+          "Geometric constructions"
+        ]
+      },
+      {
+        "topicName": "Reasoning & Proof",
+        "subTopics": [
+          "Inductive reasoning",
+          "Deductive reasoning",
+          "Conditional statements and logic",
+          "Properties of equality and congruence",
+          "Postulates and theorems",
+          "Two-column proofs",
+          "Geometric proof writing",
+          "Algebraic proof"
+        ]
+      },
+      {
+        "topicName": "Parallel & Perpendicular Lines",
+        "subTopics": [
+          "Relationships of parallel and perpendicular lines",
+          "Angles formed by intersecting lines",
+          "Angles formed by parallel lines and transversals",
+          "Parallel line theorems",
+          "Proving lines parallel",
+          "Slope and parallel lines",
+          "Slope and perpendicular lines",
+          "Equations of parallel and perpendicular lines"
+        ]
+      },
+      {
+        "topicName": "Congruent Triangles",
+        "subTopics": [
+          "Triangle congruence postulates (SSS, SAS, ASA, AAS)",
+          "Right triangle congruence (HL)",
+          "Corresponding parts of congruent triangles",
+          "CPCTC (Corresponding Parts of Congruent Triangles are Congruent)",
+          "Using congruence to prove statements",
+          "Isosceles and equilateral triangles",
+          "Properties of special triangles"
+        ]
+      },
+      {
+        "topicName": "Relationships Within Triangles",
+        "subTopics": [
+          "Medians, centroids, and midpoints",
+          "Altitudes and orthocenters",
+          "Perpendicular bisectors",
+          "Circumcenters",
+          "Angle bisectors and incenters",
+          "Triangle inequality theorem",
+          "Relationships between angles and sides in triangles",
+          "Midsegment theorem"
+        ]
+      },
+      {
+        "topicName": "Proportions & Similarity",
+        "subTopics": [
+          "Ratios and proportions",
+          "Similar figures",
+          "Similar triangle postulates (AA, SSS, SAS)",
+          "Proving triangle similarity",
+          "Proportional segments",
+          "Side-splitter theorem",
+          "Geometric mean and altitude-on-hypotenuse theorem",
+          "Scale factors and real-world applications"
+        ]
+      },
+      {
+        "topicName": "Right Triangles & Trigonometry",
+        "subTopics": [
+          "Pythagorean theorem",
+          "Pythagorean theorem applications",
+          "Special right triangles (45-45-90 and 30-60-90)",
+          "Sine, cosine, and tangent ratios",
+          "Solving right triangles",
+          "Inverse trigonometric functions",
+          "Angles of elevation and depression",
+          "Law of sines and law of cosines",
+          "Real-world trigonometry applications"
+        ]
+      },
+      {
+        "topicName": "Transformations",
+        "subTopics": [
+          "Translations and reflections",
+          "Rotations",
+          "Dilations",
+          "Similarity and transformations",
+          "Congruence and transformations",
+          "Symmetry (line and rotational)",
+          "Composition of transformations",
+          "Real-world applications of transformations"
+        ]
+      },
+      {
+        "topicName": "Quadrilaterals & Other Polygons",
+        "subTopics": [
+          "Properties of parallelograms",
+          "Properties of rectangles",
+          "Properties of rhombuses",
+          "Properties of squares",
+          "Properties of trapezoids",
+          "Properties of kites",
+          "Angle measures in polygons",
+          "Perimeter and area of quadrilaterals",
+          "Classifying quadrilaterals"
+        ]
+      },
+      {
+        "topicName": "Circles",
+        "subTopics": [
+          "Circle terminology (center, radius, diameter, chord)",
+          "Circumference and area of circles",
+          "Arc length and sector area",
+          "Central angles",
+          "Inscribed angles",
+          "Angles formed by secants, tangents, and chords",
+          "Tangent lines and properties",
+          "Chords and their properties",
+          "Circle equations and graphs"
+        ]
+      },
+      {
+        "topicName": "Areas of Polygons & Circles",
+        "subTopics": [
+          "Area of rectangles and parallelograms",
+          "Area of triangles",
+          "Area of trapezoids and kites",
+          "Area of regular polygons",
+          "Area of circles and sectors",
+          "Composite figures",
+          "Relationship between area and scale factors",
+          "Real-world area applications"
+        ]
+      },
+      {
+        "topicName": "Surface Area",
+        "subTopics": [
+          "Surface area of prisms",
+          "Surface area of pyramids",
+          "Surface area of cylinders",
+          "Surface area of cones",
+          "Surface area of spheres",
+          "Composite solids",
+          "Relationship between surface area and scale factors",
+          "Real-world surface area applications"
+        ]
+      },
+      {
+        "topicName": "Volume",
+        "subTopics": [
+          "Volume of prisms",
+          "Volume of pyramids",
+          "Volume of cylinders",
+          "Volume of cones",
+          "Volume of spheres",
+          "Composite solids",
+          "Similar solids and volume relationships",
+          "Real-world volume applications"
+        ]
+      },
+      {
+        "topicName": "Probability",
+        "subTopics": [
+          "Sample spaces and outcomes",
+          "Theoretical probability",
+          "Experimental probability",
+          "Compound probability",
+          "Independent and dependent events",
+          "Conditional probability",
+          "Permutations and combinations",
+          "Geometric probability",
+          "Real-world probability applications"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "grade": "9",
+    "subject": "Integrated Math I",
+    "majorTopics": [
+      {
+        "topicName": "Connections to Algebra & Foundations",
+        "subTopics": [
+          "Variables and expressions",
+          "Order of operations",
+          "Real numbers and properties",
+          "Absolute value",
+          "Exponents and powers",
+          "Square roots and cube roots",
+          "Scientific notation",
+          "Rational and irrational numbers"
+        ]
+      },
+      {
+        "topicName": "Solving Linear Equations",
+        "subTopics": [
+          "Simple equations",
+          "Multi-step equations",
+          "Equations with variables on both sides",
+          "Equations with fractions and decimals",
+          "Formulas and rewriting equations",
+          "Applications and problem solving",
+          "Solving for a variable in formulas"
+        ]
+      },
+      {
+        "topicName": "Functions & Relations",
+        "subTopics": [
+          "Relations and functions",
+          "Domain and range",
+          "Function notation",
+          "Analyzing functions",
+          "Linear functions",
+          "Function families",
+          "Arithmetic sequences",
+          "Modeling functions from real-world situations"
+        ]
+      },
+      {
+        "topicName": "Linear Equations & Graphing",
+        "subTopics": [
+          "Graphing linear equations",
+          "Slope of a line",
+          "Finding slope from two points",
+          "Slope-intercept form (y = mx + b)",
+          "Standard form (Ax + By = C)",
+          "Graphing using intercepts",
+          "Graphing linear functions",
+          "Transformations of linear graphs"
+        ]
+      },
+      {
+        "topicName": "Writing Linear Equations",
+        "subTopics": [
+          "Writing equations in slope-intercept form",
+          "Writing equations in point-slope form",
+          "Writing equations in standard form",
+          "Parallel and perpendicular lines",
+          "Scatter plots and lines of fit",
+          "Analyzing lines of fit",
+          "Predicting with linear models"
+        ]
+      },
+      {
+        "topicName": "Linear Inequalities",
+        "subTopics": [
+          "Simple inequalities",
+          "Multi-step inequalities",
+          "Compound inequalities",
+          "Absolute value inequalities",
+          "Graphing linear inequalities in two variables",
+          "Systems of linear inequalities"
+        ]
+      },
+      {
+        "topicName": "Systems of Linear Equations & Inequalities",
+        "subTopics": [
+          "Systems of linear equations",
+          "Solving systems by graphing",
+          "Solving systems by substitution",
+          "Solving systems by elimination",
+          "Special systems (no solution, infinite solutions)",
+          "Systems of linear inequalities",
+          "Graphing systems of inequalities",
+          "Real-world applications"
+        ]
+      },
+      {
+        "topicName": "Exponents & Exponential Functions",
+        "subTopics": [
+          "Properties of exponents",
+          "Multiplying and dividing monomials",
+          "Powers of monomials",
+          "Negative and zero exponents",
+          "Scientific notation",
+          "Exponential functions",
+          "Exponential growth and decay",
+          "Compound interest applications"
+        ]
+      },
+      {
+        "topicName": "Radical Functions & Connections to Geometry",
+        "subTopics": [
+          "Square roots and cube roots",
+          "Nth roots and rational exponents",
+          "Radical expressions",
+          "Simplifying radicals",
+          "Operations with radicals",
+          "Solving radical equations",
+          "Pythagorean theorem",
+          "Distance formula",
+          "Midpoint formula"
+        ]
+      },
+      {
+        "topicName": "Tools of Geometry",
+        "subTopics": [
+          "Points, lines, and planes",
+          "Line segments and rays",
+          "Angles and angle relationships",
+          "Perpendicular and parallel lines",
+          "Properties of triangles",
+          "Properties of quadrilaterals",
+          "Angle measures and proofs",
+          "Geometric constructions"
+        ]
+      },
+      {
+        "topicName": "Parallel & Perpendicular Lines",
+        "subTopics": [
+          "Properties of parallel lines",
+          "Angles formed by parallel lines and transversals",
+          "Proving lines parallel",
+          "Slope relationships for parallel and perpendicular lines",
+          "Properties of perpendicular lines",
+          "Angle relationships"
+        ]
+      },
+      {
+        "topicName": "Congruent Triangles",
+        "subTopics": [
+          "Congruence and congruent triangles",
+          "Triangle congruence postulates (SSS, SAS, ASA)",
+          "Using congruence in proofs",
+          "Isosceles and equilateral triangles",
+          "Properties of congruent triangles",
+          "Corresponding parts of congruent triangles"
+        ]
+      },
+      {
+        "topicName": "Similarity, Transformations & Symmetry",
+        "subTopics": [
+          "Similar figures and scale factors",
+          "Triangle similarity postulates (AA, SSS, SAS)",
+          "Proportions in similar triangles",
+          "Transformations (reflection, rotation, translation)",
+          "Dilations",
+          "Symmetry (line and rotational)",
+          "Congruence and similarity transformations",
+          "Real-world applications"
+        ]
+      },
+      {
+        "topicName": "Circles",
+        "subTopics": [
+          "Circle terminology",
+          "Circumference and area",
+          "Arc length and sector area",
+          "Chords and inscribed angles",
+          "Angles formed by secants and tangents",
+          "Properties of circles",
+          "Circle equations"
+        ]
+      },
+      {
+        "topicName": "Quadrilaterals",
+        "subTopics": [
+          "Properties of parallelograms",
+          "Properties of rectangles, rhombuses, and squares",
+          "Properties of trapezoids",
+          "Classifying quadrilaterals",
+          "Angle measures in quadrilaterals",
+          "Using properties in proofs and problem-solving"
+        ]
+      },
+      {
+        "topicName": "Statistics & Probability",
+        "subTopics": [
+          "Data collection and sampling",
+          "Measures of central tendency (mean, median, mode)",
+          "Measures of variation (range, quartiles, standard deviation)",
+          "Box plots and whisker plots",
+          "Scatter plots and correlation",
+          "Two-way frequency tables",
+          "Probability basics",
+          "Theoretical and experimental probability",
+          "Compound probability",
+          "Independent and dependent events"
+        ]
+      }
+    ]
+  }
+]

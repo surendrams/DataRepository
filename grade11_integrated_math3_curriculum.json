@@ -1,0 +1,190 @@
+[
+  {
+    "grade": "11",
+    "subject": "Integrated Math III",
+    "majorTopics": [
+      {
+        "topicName": "Investigations & Functions",
+        "subTopics": [
+          "Function properties and characteristics",
+          "Function investigations and exploration",
+          "Representing points of intersection",
+          "Modeling geometric relationships",
+          "Describing and analyzing data",
+          "Functions in context",
+          "Piecewise functions",
+          "Function composition and inverses"
+        ]
+      },
+      {
+        "topicName": "Transformations of Parent Graphs",
+        "subTopics": [
+          "Modeling with functions",
+          "Transforming parent functions",
+          "Translations, reflections, and dilations",
+          "Completing the square",
+          "Vertex form of quadratic functions",
+          "Effects of transformations on parameters",
+          "Graphical and algebraic transformations",
+          "Real-world modeling applications"
+        ]
+      },
+      {
+        "topicName": "Solving Equations & Inequalities",
+        "subTopics": [
+          "Solving systems of linear equations",
+          "Solving systems of linear inequalities",
+          "Solving systems with quadratic equations",
+          "Solutions of linear and nonlinear systems",
+          "Graphical and algebraic solutions",
+          "Special cases (no solution, infinite solutions)",
+          "Parametric equations",
+          "Real-world applications of systems"
+        ]
+      },
+      {
+        "topicName": "Normal Distributions & Geometric Modeling",
+        "subTopics": [
+          "Sampling methods and bias",
+          "Experimental design",
+          "Observational studies vs experiments",
+          "Normal distributions",
+          "Standard deviation and z-scores",
+          "Properties of normal curves",
+          "Probability and normal distributions",
+          "Geometric modeling and solids"
+        ]
+      },
+      {
+        "topicName": "Inverses & Logarithms",
+        "subTopics": [
+          "Inverse functions",
+          "Finding inverses algebraically and graphically",
+          "Exponential functions",
+          "Logarithmic functions",
+          "Properties of logarithms",
+          "Solving exponential equations",
+          "Solving logarithmic equations",
+          "Applications of exponential and logarithmic functions"
+        ]
+      },
+      {
+        "topicName": "Simulating Sampling Variability",
+        "subTopics": [
+          "Simulations and variability",
+          "Sampling distributions",
+          "Confidence intervals",
+          "Margin of error",
+          "Statistical inference",
+          "Hypothesis testing basics",
+          "Interpreting results",
+          "Experimental design in practice"
+        ]
+      },
+      {
+        "topicName": "Sequences & Series",
+        "subTopics": [
+          "Arithmetic sequences",
+          "Geometric sequences",
+          "Explicit formulas",
+          "Recursive formulas",
+          "Series and summation",
+          "Arithmetic series",
+          "Geometric series",
+          "Applications of sequences and series"
+        ]
+      },
+      {
+        "topicName": "Trigonometry",
+        "subTopics": [
+          "Unit circle",
+          "Radian and degree measure",
+          "Trigonometric ratios",
+          "Trigonometric functions",
+          "Graphing trigonometric functions",
+          "Transformations of trigonometric functions",
+          "Inverse trigonometric functions",
+          "Solving trigonometric equations",
+          "Applications of trigonometry"
+        ]
+      },
+      {
+        "topicName": "Polynomial Functions",
+        "subTopics": [
+          "Polynomial expressions",
+          "Operations with polynomials",
+          "Factoring polynomials",
+          "Polynomial division",
+          "Remainder and factor theorems",
+          "Zeros and roots of polynomials",
+          "Graphing polynomial functions",
+          "End behavior and multiplicities"
+        ]
+      },
+      {
+        "topicName": "Rational Functions & Equations",
+        "subTopics": [
+          "Rational expressions",
+          "Simplifying rational expressions",
+          "Operations with rational expressions",
+          "Rational equations",
+          "Solving rational equations",
+          "Rational functions and asymptotes",
+          "Graphing rational functions",
+          "Real-world applications"
+        ]
+      },
+      {
+        "topicName": "Complex Numbers & Quadratic Equations",
+        "subTopics": [
+          "Complex numbers",
+          "Operations with complex numbers",
+          "Complex conjugates",
+          "Powers of imaginary unit",
+          "Quadratic equations with complex solutions",
+          "Discriminant and nature of roots",
+          "Quadratic formula applications"
+        ]
+      },
+      {
+        "topicName": "Counting & Probability",
+        "subTopics": [
+          "Counting principles",
+          "Permutations and combinations",
+          "Fundamental counting principle",
+          "Binomial probability",
+          "Conditional probability",
+          "Independence and dependence",
+          "Probability distributions",
+          "Expected value and variance"
+        ]
+      },
+      {
+        "topicName": "Data Analysis & Statistics",
+        "subTopics": [
+          "Organizing and displaying data",
+          "Descriptive statistics",
+          "Measures of central tendency",
+          "Measures of variation",
+          "Correlation and regression",
+          "Linear regression analysis",
+          "Residual analysis",
+          "Comparing distributions"
+        ]
+      },
+      {
+        "topicName": "Geometric Modeling & Solids",
+        "subTopics": [
+          "Properties of two-dimensional figures",
+          "Three-dimensional solids",
+          "Volume of solids",
+          "Surface area",
+          "Cross-sections",
+          "Scaling and similarity",
+          "Coordinate geometry in 3D",
+          "Real-world applications of geometry"
+        ]
+      }
+    ]
+  }
+]

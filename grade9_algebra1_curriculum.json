@@ -2,6 +2,7 @@
   {
     "grade": "9",
     "subject": "Algebra 1",
+    "reference":"Big Ideas Math Algebra 1, 2015 / ISBN 9781608408382 / Big Ideas Math Algebra 1 A Bridge to Success / ISBN 9781680331141 / Big Ideas Math Algebra 1 Texas / ISBN 9781608408146 / Big Ideas Math Algebra 1 Virginia / ISBN 9781635981230 / Core Connections Algebra 1, 2013 / ISBN 9781603281010 / McGraw Hill Glencoe Algebra 1, 2012 / ISBN 9780076639236 / McGraw Hill Glencoe Algebra 1, 2017 / ISBN 9780079039897 / McGraw Hill Glencoe Algebra 1 Texas, 2016 / ISBN 9780021402465 / Pearson Algebra 1 Common Core, 2011 / ISBN 9780133185485 / Pearson Algebra 1 Common Core, 2015 / ISBN 9780133281149",
     "majorTopics": [
       {
         "topicName": "Foundations & Real Numbers",

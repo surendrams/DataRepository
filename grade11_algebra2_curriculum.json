@@ -2,6 +2,7 @@
   {
     "grade": "11",
     "subject": "Algebra 2",
+    "reference" : "Big Ideas Math Algebra 2, 2014 / ISBN 9781608408405 / Big Ideas Math Algebra 2 Virginia Edition, 2019 / ISBN 9781635981414 / Big Ideas Math Algebra 2 A Bridge to Success / ISBN 9781680331165 / Big Ideas Math Algebra 2 Texas / ISBN 9781608408160 / Core Connections Algebra 2, 2013 / ISBN 9781603281157 / McGraw Hill Glencoe Algebra 2, 2012 / ISBN 9780076639908 / McGraw Hill Glencoe Algebra 2 Texas, 2016	/ ISBN 9780021392568 / McGraw Hill Glencoe Algebra 2, 2017	/ ISBN 9780079039903 / Pearson Algebra 2 Common Core, 2011	/ ISBN 9780133186024 / Pearson Algebra 2 Common Core, 2013 / ISBN 9780133281163",
     "majorTopics": [
       {
         "topicName": "Functions & Transformations",

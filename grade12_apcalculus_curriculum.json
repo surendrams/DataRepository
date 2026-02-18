@@ -2,6 +2,7 @@
   {
     "grade": "12",
     "subject": "AP Calculus AB/BC",
+    "reference": "Calculus: Graphical, Numerical, Algebraic, 5th Edition / ISBN 9780133178579 / AP Calculus with Limits, Larson 8th Edition / ISBN 9781337275361",
     "majorTopics": [
       {
         "topicName": "Limits and Continuity",

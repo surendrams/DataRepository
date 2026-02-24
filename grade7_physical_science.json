@@ -1,0 +1,295 @@
+[
+  {
+    "grade": "7",
+    "subject": "Physical Science",
+    "reference": "Physical Science Concepts, Grade 7 / ISBN 9780133628173 / Prentice Hall",
+    "majorTopics": [
+      {
+        "topicName": "Nature of Science & Scientific Inquiry",
+        "subTopics": [
+          "What is physical science?",
+          "Scientific methods and inquiry process",
+          "Forming hypotheses and testable questions",
+          "Designing and conducting experiments",
+          "Independent, dependent, and controlled variables",
+          "Collecting, recording, and organizing data",
+          "Analyzing data and drawing conclusions",
+          "Communicating scientific results",
+          "Scientific models and their uses",
+          "Measurement and SI units",
+          "Accuracy, precision, and significant figures",
+          "Tools and technology in physical science",
+          "Safety rules and practices in the laboratory"
+        ]
+      },
+      {
+        "topicName": "Matter & Its Properties",
+        "subTopics": [
+          "Definition and properties of matter",
+          "Physical properties of matter",
+          "Chemical properties of matter",
+          "Mass, volume, and density",
+          "Calculating density",
+          "Physical changes in matter",
+          "Chemical changes in matter",
+          "Evidence of chemical change",
+          "Law of conservation of mass",
+          "Pure substances vs. mixtures",
+          "Homogeneous and heterogeneous mixtures",
+          "Separating mixtures (filtration, distillation, chromatography, evaporation)"
+        ]
+      },
+      {
+        "topicName": "Atomic Structure & the Periodic Table",
+        "subTopics": [
+          "Early atomic models and history of atomic theory",
+          "Structure of the atom (protons, neutrons, electrons)",
+          "Atomic number and mass number",
+          "Isotopes and atomic mass",
+          "Electron configuration (introduction)",
+          "Valence electrons",
+          "Organization of the periodic table",
+          "Periods and groups",
+          "Metals, nonmetals, and metalloids",
+          "Properties and trends in the periodic table",
+          "Families of elements (alkali metals, alkaline earth metals, halogens, noble gases, transition metals)",
+          "Radioactive elements and radioactive decay (introduction)"
+        ]
+      },
+      {
+        "topicName": "Chemical Bonding & Compounds",
+        "subTopics": [
+          "Why atoms form chemical bonds",
+          "Ionic bonds and ionic compounds",
+          "Covalent bonds and molecules",
+          "Polar and nonpolar covalent bonds",
+          "Metallic bonds",
+          "Properties of ionic vs. covalent compounds",
+          "Chemical formulas and naming compounds",
+          "Diatomic molecules",
+          "Polyatomic ions",
+          "Network solids (introduction)",
+          "Intermolecular forces (introduction)",
+          "Real-world applications of chemical bonding"
+        ]
+      },
+      {
+        "topicName": "Chemical Reactions",
+        "subTopics": [
+          "What is a chemical reaction?",
+          "Reactants and products",
+          "Writing and interpreting chemical equations",
+          "Balancing chemical equations",
+          "Law of conservation of mass in reactions",
+          "Types of chemical reactions (synthesis, decomposition, single replacement, double replacement, combustion)",
+          "Exothermic reactions and energy release",
+          "Endothermic reactions and energy absorption",
+          "Activation energy",
+          "Reaction rates",
+          "Factors affecting reaction rates (temperature, concentration, surface area, catalysts)",
+          "Catalysts and inhibitors",
+          "Real-world applications of chemical reactions"
+        ]
+      },
+      {
+        "topicName": "Solutions, Acids & Bases",
+        "subTopics": [
+          "Solutions and their properties",
+          "Solute, solvent, and the dissolving process",
+          "Factors affecting solubility (temperature, pressure, surface area)",
+          "Concentration and molarity (introduction)",
+          "Saturated, unsaturated, and supersaturated solutions",
+          "Suspensions and colloids",
+          "Properties of acids",
+          "Properties of bases",
+          "The pH scale and measuring pH",
+          "Neutralization reactions",
+          "Salts and their formation",
+          "Indicators and their uses",
+          "Real-world applications of acids and bases"
+        ]
+      },
+      {
+        "topicName": "Motion",
+        "subTopics": [
+          "Describing motion and reference frames",
+          "Distance and displacement",
+          "Speed and average speed",
+          "Velocity",
+          "Acceleration",
+          "Calculating acceleration",
+          "Distance-time graphs",
+          "Velocity-time graphs",
+          "Projectile motion (introduction)",
+          "Relative motion",
+          "Real-world examples of motion"
+        ]
+      },
+      {
+        "topicName": "Forces",
+        "subTopics": [
+          "What is a force?",
+          "Measuring force and units (Newtons)",
+          "Net force and free body diagrams",
+          "Balanced and unbalanced forces",
+          "Newton's first law of motion (inertia)",
+          "Newton's second law of motion (F = ma)",
+          "Newton's third law of motion (action-reaction pairs)",
+          "Gravity and gravitational force",
+          "Weight vs. mass",
+          "Friction and its types (static, kinetic, rolling)",
+          "Air resistance and terminal velocity",
+          "Centripetal force",
+          "Real-world applications of Newton's laws"
+        ]
+      },
+      {
+        "topicName": "Work, Power & Simple Machines",
+        "subTopics": [
+          "Definition and calculation of work (W = F × d)",
+          "Conditions required for work to be done",
+          "Power and its calculation (P = W/t)",
+          "Units of work and power",
+          "What is a machine?",
+          "Mechanical advantage",
+          "Efficiency of machines",
+          "Levers and their three classes",
+          "Pulleys (fixed, movable, compound)",
+          "Wheel and axle",
+          "Inclined plane",
+          "Wedge and screw",
+          "Compound machines and real-world applications"
+        ]
+      },
+      {
+        "topicName": "Energy",
+        "subTopics": [
+          "What is energy?",
+          "Kinetic energy and its calculation",
+          "Gravitational potential energy and its calculation",
+          "Elastic potential energy",
+          "Mechanical energy",
+          "Thermal energy",
+          "Chemical energy",
+          "Electrical energy",
+          "Radiant (light) energy",
+          "Nuclear energy",
+          "Energy transformations and conversions",
+          "Law of conservation of energy",
+          "Energy efficiency",
+          "Real-world examples of energy transformations"
+        ]
+      },
+      {
+        "topicName": "Thermal Energy & Heat",
+        "subTopics": [
+          "Thermal energy and temperature",
+          "Difference between heat and temperature",
+          "Measuring temperature (Celsius, Fahrenheit, Kelvin)",
+          "Specific heat capacity",
+          "Calculating heat transfer",
+          "Methods of heat transfer (conduction, convection, radiation)",
+          "Conductors and insulators",
+          "Thermal expansion of solids, liquids, and gases",
+          "Changes of state and latent heat",
+          "Heating and cooling curves",
+          "Thermodynamics (introduction)",
+          "Real-world applications of thermal energy"
+        ]
+      },
+      {
+        "topicName": "Waves & Sound",
+        "subTopics": [
+          "What is a wave?",
+          "Parts of a wave (crest, trough, wavelength, amplitude)",
+          "Wave frequency and period",
+          "Wave speed and the wave equation",
+          "Transverse and longitudinal waves",
+          "Mechanical vs. electromagnetic waves",
+          "Wave interactions (reflection, refraction, diffraction, interference)",
+          "Resonance",
+          "Properties of sound waves",
+          "Speed of sound in different media",
+          "Pitch and frequency",
+          "Loudness and intensity (decibels)",
+          "The Doppler effect",
+          "Echolocation and sonar",
+          "Musical instruments and sound"
+        ]
+      },
+      {
+        "topicName": "Electromagnetic Waves & Light",
+        "subTopics": [
+          "The electromagnetic spectrum",
+          "Properties of electromagnetic waves",
+          "Radio waves and microwaves",
+          "Infrared and ultraviolet radiation",
+          "Visible light",
+          "X-rays and gamma rays",
+          "Behavior of light (reflection, refraction, diffraction, absorption)",
+          "Law of reflection",
+          "Refraction and Snell's law (introduction)",
+          "Types of mirrors (plane, concave, convex)",
+          "Types of lenses (converging, diverging)",
+          "Color and the visible spectrum",
+          "Color mixing (additive and subtractive)",
+          "Optical instruments (microscopes, telescopes)",
+          "Real-world applications of light and optics"
+        ]
+      },
+      {
+        "topicName": "Electricity",
+        "subTopics": [
+          "Electric charge and the law of electric charges",
+          "Static electricity and static discharge",
+          "Electric force and electric fields",
+          "Electric potential energy and voltage",
+          "Electric current (AC and DC)",
+          "Conductors, insulators, and semiconductors",
+          "Resistance and Ohm's law (V = IR)",
+          "Electric circuits (series and parallel)",
+          "Circuit diagrams and symbols",
+          "Electric power and calculating power (P = IV)",
+          "Electric energy and cost",
+          "Sources of electrical energy (batteries, generators)",
+          "Electrical safety",
+          "Real-world applications of electricity"
+        ]
+      },
+      {
+        "topicName": "Magnetism & Electromagnetism",
+        "subTopics": [
+          "Properties of magnets",
+          "Magnetic poles and magnetic force",
+          "Magnetic fields and field lines",
+          "Types of magnets (permanent, temporary, electromagnets)",
+          "Earth's magnetic field",
+          "Relationship between electricity and magnetism",
+          "Electromagnets and their applications",
+          "Electromagnetic induction",
+          "Electric motors",
+          "Electric generators",
+          "Transformers and power transmission",
+          "Real-world applications of electromagnetism"
+        ]
+      },
+      {
+        "topicName": "Nuclear Science & Modern Physics",
+        "subTopics": [
+          "Structure of the nucleus",
+          "Nuclear forces",
+          "Radioactivity and types of radiation (alpha, beta, gamma)",
+          "Half-life and radioactive decay",
+          "Nuclear fission",
+          "Nuclear fusion",
+          "Nuclear energy and power plants",
+          "Uses of radioactive isotopes (medicine, dating)",
+          "Effects of radiation on living things",
+          "Introduction to quantum theory",
+          "The Standard Model of particle physics (introduction)",
+          "Future of nuclear science and energy"
+        ]
+      }
+    ]
+  }
+]

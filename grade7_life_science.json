@@ -1,0 +1,286 @@
+[
+  {
+    "grade": "7",
+    "subject": "Life Science",
+    "reference": "Life Science, Grade 7 / ISBN 9780133684829 / Pearson",
+    "majorTopics": [
+      {
+        "topicName": "Nature of Life Science & Scientific Inquiry",
+        "subTopics": [
+          "What is life science?",
+          "Scientific methods and inquiry",
+          "Forming hypotheses and testable questions",
+          "Designing and conducting investigations",
+          "Independent, dependent, and controlled variables",
+          "Collecting, recording, and analyzing data",
+          "Drawing conclusions and communicating results",
+          "Models and their uses in life science",
+          "Measurement and SI units",
+          "Tools and technology used in life science",
+          "Safety practices in the laboratory"
+        ]
+      },
+      {
+        "topicName": "Cell Structure & Function",
+        "subTopics": [
+          "Characteristics of living things",
+          "Cell theory and its history",
+          "Prokaryotic and eukaryotic cells",
+          "Animal cell structure and organelles",
+          "Plant cell structure and organelles",
+          "Cell membrane structure and function",
+          "Nucleus and genetic material",
+          "Mitochondria and energy production",
+          "Chloroplasts and photosynthesis",
+          "Cell wall, vacuoles, and other organelles",
+          "Specialized cells and their functions",
+          "Microscopy and observing cells"
+        ]
+      },
+      {
+        "topicName": "Cell Processes & Energy",
+        "subTopics": [
+          "Photosynthesis and its importance",
+          "Reactants and products of photosynthesis",
+          "Cellular respiration",
+          "Aerobic and anaerobic respiration",
+          "Fermentation",
+          "Relationship between photosynthesis and respiration",
+          "Cell transport (diffusion and osmosis)",
+          "Active and passive transport",
+          "Homeostasis in cells",
+          "Enzymes and their role in cell processes",
+          "Energy flow in living systems"
+        ]
+      },
+      {
+        "topicName": "Cell Division & Reproduction",
+        "subTopics": [
+          "The cell cycle",
+          "Phases of mitosis (prophase, metaphase, anaphase, telophase)",
+          "Cytokinesis",
+          "Cell division in plants vs. animals",
+          "Asexual reproduction",
+          "Types of asexual reproduction (binary fission, budding, fragmentation, vegetative reproduction)",
+          "Sexual reproduction",
+          "Meiosis and the formation of sex cells",
+          "Fertilization",
+          "Advantages and disadvantages of asexual vs. sexual reproduction",
+          "Cancer and uncontrolled cell division"
+        ]
+      },
+      {
+        "topicName": "Genetics & Heredity",
+        "subTopics": [
+          "Introduction to heredity",
+          "Gregor Mendel and his experiments",
+          "Genes, alleles, and traits",
+          "Law of segregation",
+          "Law of independent assortment",
+          "Dominant and recessive alleles",
+          "Punnett squares and probability",
+          "Genotype and phenotype",
+          "Homozygous and heterozygous genotypes",
+          "Incomplete dominance and codominance",
+          "Multiple alleles and polygenic inheritance",
+          "Sex determination and sex-linked traits",
+          "Environmental effects on traits"
+        ]
+      },
+      {
+        "topicName": "DNA & Modern Genetics",
+        "subTopics": [
+          "Structure of DNA (double helix)",
+          "DNA replication",
+          "Genes and proteins",
+          "Protein synthesis (transcription and translation)",
+          "RNA types and their functions",
+          "Mutations and their effects",
+          "Types of mutations (point, frameshift, chromosomal)",
+          "Genetic disorders and inheritance",
+          "Pedigree charts",
+          "Biotechnology and genetic engineering",
+          "Selective breeding and its applications",
+          "Cloning and stem cell research (introduction)",
+          "Ethical issues in modern genetics"
+        ]
+      },
+      {
+        "topicName": "Classification of Living Things",
+        "subTopics": [
+          "Need for classification in science",
+          "Taxonomy and the work of Carolus Linnaeus",
+          "Binomial nomenclature",
+          "Levels of classification (domain, kingdom, phylum, class, order, family, genus, species)",
+          "Three domains of life (Bacteria, Archaea, Eukarya)",
+          "Six kingdoms overview",
+          "Using dichotomous keys",
+          "Cladograms and phylogenetic trees",
+          "Evolutionary relationships among organisms",
+          "Changes in classification due to new discoveries"
+        ]
+      },
+      {
+        "topicName": "Viruses, Bacteria & Protists",
+        "subTopics": [
+          "Characteristics and structure of viruses",
+          "How viruses replicate (lytic and lysogenic cycles)",
+          "Viral diseases and the immune response",
+          "Characteristics of bacteria",
+          "Structure of bacterial cells",
+          "Beneficial bacteria and their roles",
+          "Harmful bacteria and bacterial diseases",
+          "Antibiotic resistance",
+          "Characteristics and diversity of protists",
+          "Animal-like protists (protozoa)",
+          "Plant-like protists (algae)",
+          "Fungus-like protists",
+          "Ecological roles of protists"
+        ]
+      },
+      {
+        "topicName": "Fungi & Plants",
+        "subTopics": [
+          "Characteristics and structure of fungi",
+          "Reproduction in fungi (spores, budding)",
+          "Major groups of fungi",
+          "Ecological roles of fungi (decomposers, mycorrhizae)",
+          "Lichens and mutualistic relationships",
+          "Characteristics of plants",
+          "Vascular and nonvascular plants",
+          "Seedless plants (mosses, liverworts, ferns, horsetails)",
+          "Seed plants (gymnosperms and angiosperms)",
+          "Plant structures (roots, stems, leaves, flowers, seeds)",
+          "Photosynthesis and transpiration in plants",
+          "Plant reproduction (sexual and asexual)",
+          "Plant responses to stimuli (tropisms, photoperiodism)",
+          "Plant adaptations to different environments"
+        ]
+      },
+      {
+        "topicName": "Invertebrates",
+        "subTopics": [
+          "Characteristics of animals",
+          "Invertebrates vs. vertebrates",
+          "Sponges (Porifera)",
+          "Cnidarians (jellyfish, corals, hydra)",
+          "Flatworms (Platyhelminthes)",
+          "Roundworms (Nematoda)",
+          "Segmented worms (Annelida)",
+          "Mollusks (gastropods, bivalves, cephalopods)",
+          "Echinoderms (sea stars, sea urchins)",
+          "Arthropods (insects, arachnids, crustaceans, myriapods)",
+          "Insect life cycles and metamorphosis",
+          "Adaptations of invertebrates",
+          "Ecological roles of invertebrates"
+        ]
+      },
+      {
+        "topicName": "Vertebrates",
+        "subTopics": [
+          "Characteristics of vertebrates",
+          "Fish (jawless, cartilaginous, bony fish)",
+          "Amphibians and their adaptations",
+          "Reptiles and their characteristics",
+          "Birds and adaptations for flight",
+          "Mammals and their characteristics",
+          "Monotremes, marsupials, and placental mammals",
+          "Endothermy vs. ectothermy",
+          "Vertebrate body systems overview",
+          "Vertebrate reproduction and development",
+          "Vertebrate behaviors (migration, hibernation, communication)",
+          "Endangered vertebrate species and conservation"
+        ]
+      },
+      {
+        "topicName": "Human Body Systems",
+        "subTopics": [
+          "Levels of organization (cells, tissues, organs, organ systems)",
+          "Skeletal system structure and function",
+          "Muscular system and types of muscle",
+          "Digestive system and nutrient absorption",
+          "Circulatory system (heart, blood vessels, blood)",
+          "Respiratory system and gas exchange",
+          "Excretory system and waste removal",
+          "Nervous system and the brain",
+          "Endocrine system and hormones",
+          "Immune system and disease defense",
+          "Reproductive system (introduction)",
+          "Integumentary system (skin, hair, nails)",
+          "Interactions among body systems",
+          "Maintaining homeostasis"
+        ]
+      },
+      {
+        "topicName": "Ecosystems & Ecology",
+        "subTopics": [
+          "Biotic and abiotic factors in ecosystems",
+          "Populations, communities, and ecosystems",
+          "Ecological niches and habitats",
+          "Food chains, food webs, and energy pyramids",
+          "Energy flow and trophic levels",
+          "Producers, consumers, and decomposers",
+          "Water cycle",
+          "Carbon and oxygen cycle",
+          "Nitrogen cycle",
+          "Symbiotic relationships (mutualism, commensalism, parasitism)",
+          "Predator-prey relationships",
+          "Competition within and between species",
+          "Major biomes of the world",
+          "Aquatic ecosystems (freshwater and marine)"
+        ]
+      },
+      {
+        "topicName": "Population Dynamics & Communities",
+        "subTopics": [
+          "Population characteristics (size, density, distribution)",
+          "Population growth models (exponential and logistic)",
+          "Carrying capacity",
+          "Limiting factors (biotic and abiotic)",
+          "Density-dependent and density-independent factors",
+          "Predator-prey population cycles",
+          "Succession (primary and secondary)",
+          "Pioneer species and climax communities",
+          "Invasive species and their ecological impact",
+          "Endangered and extinct species",
+          "Causes of biodiversity loss",
+          "Conservation biology and habitat protection"
+        ]
+      },
+      {
+        "topicName": "Evolution & Natural Selection",
+        "subTopics": [
+          "Introduction to the theory of evolution",
+          "Evidence for evolution (fossil record, comparative anatomy, embryology, DNA)",
+          "Charles Darwin and the voyage of the Beagle",
+          "Natural selection and survival of the fittest",
+          "Variation and adaptation in populations",
+          "Types of natural selection (directional, stabilizing, disruptive)",
+          "Artificial selection and selective breeding",
+          "Speciation and geographic isolation",
+          "Reproductive isolation",
+          "Extinction and its causes",
+          "Geologic time scale and the history of life",
+          "Human evolution (introduction)"
+        ]
+      },
+      {
+        "topicName": "Human Impact on the Environment",
+        "subTopics": [
+          "Human population growth and its effects",
+          "Land use, deforestation, and habitat loss",
+          "Water pollution and freshwater scarcity",
+          "Air pollution and its health effects",
+          "Climate change and global warming",
+          "Loss of biodiversity",
+          "Overhunting and overfishing",
+          "Invasive species introduced by humans",
+          "Renewable and nonrenewable resource use",
+          "Sustainability and conservation strategies",
+          "Environmental protection laws and policies",
+          "Individual and community actions for environmental stewardship"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "grade": "7",
+    "subject": "General Science",
+    "reference": "Inspire Science, Grade 7 / ISBN 9780076876869 / McGraw-Hill",
+    "majorTopics": [
+      {
+        "topicName": "Nature of Science & Engineering Design",
+        "subTopics": [
+          "Scientific inquiry and investigation",
+          "Forming hypotheses and testable questions",
+          "Designing controlled experiments",
+          "Independent, dependent, and controlled variables",
+          "Collecting, organizing, and analyzing data",
+          "Drawing conclusions and communicating findings",
+          "Models in science",
+          "Engineering design process",
+          "Defining problems and criteria for solutions",
+          "Prototyping, testing, and improving designs",
+          "Measurement, SI units, and significant figures",
+          "Safety practices in the science lab"
+        ]
+      },
+      {
+        "topicName": "Matter & Atomic Structure",
+        "subTopics": [
+          "Properties of matter",
+          "Physical and chemical properties",
+          "Structure of the atom",
+          "Protons, neutrons, and electrons",
+          "Atomic number and mass number",
+          "Isotopes and atomic mass",
+          "History of atomic theory",
+          "Introduction to the periodic table",
+          "Periods, groups, and element families",
+          "Metals, nonmetals, and metalloids",
+          "Physical and chemical changes in matter",
+          "Law of conservation of mass"
+        ]
+      },
+      {
+        "topicName": "States of Matter & Energy",
+        "subTopics": [
+          "States of matter (solid, liquid, gas, plasma)",
+          "Kinetic molecular theory",
+          "Changes of state (melting, freezing, evaporation, condensation, sublimation)",
+          "Thermal energy and temperature",
+          "Heat transfer (conduction, convection, radiation)",
+          "Specific heat capacity",
+          "Thermal expansion",
+          "Conductors and insulators",
+          "Gas laws (introduction)",
+          "Real-world applications of states of matter"
+        ]
+      },
+      {
+        "topicName": "Chemical Reactions & Substances",
+        "subTopics": [
+          "Elements, compounds, and mixtures",
+          "Separating mixtures",
+          "Solutions, solutes, and solvents",
+          "Solubility and concentration",
+          "Acids and bases",
+          "The pH scale",
+          "Chemical reactions and evidence of change",
+          "Reactants and products",
+          "Balancing chemical equations",
+          "Types of chemical reactions",
+          "Exothermic and endothermic reactions",
+          "Real-world applications of chemical reactions"
+        ]
+      },
+      {
+        "topicName": "Forces & Motion",
+        "subTopics": [
+          "Describing motion and reference frames",
+          "Distance, displacement, speed, and velocity",
+          "Acceleration",
+          "Distance-time and velocity-time graphs",
+          "Newton's first law of motion (inertia)",
+          "Newton's second law of motion (F = ma)",
+          "Newton's third law of motion (action-reaction)",
+          "Gravity and gravitational force",
+          "Friction and air resistance",
+          "Balanced and unbalanced forces",
+          "Net force and free body diagrams",
+          "Real-world applications of forces and motion"
+        ]
+      },
+      {
+        "topicName": "Energy & Its Transformations",
+        "subTopics": [
+          "Forms of energy",
+          "Kinetic and potential energy",
+          "Mechanical energy",
+          "Thermal energy",
+          "Chemical energy",
+          "Electrical energy",
+          "Radiant and nuclear energy",
+          "Law of conservation of energy",
+          "Energy transformations and transfer",
+          "Work and power",
+          "Simple machines and mechanical advantage",
+          "Energy efficiency and real-world applications"
+        ]
+      },
+      {
+        "topicName": "Waves, Sound & Light",
+        "subTopics": [
+          "Properties of waves (wavelength, frequency, amplitude, speed)",
+          "Transverse and longitudinal waves",
+          "Wave interactions (reflection, refraction, diffraction, interference)",
+          "Sound waves and their properties",
+          "Speed of sound in different media",
+          "Pitch, loudness, and the Doppler effect",
+          "The electromagnetic spectrum",
+          "Properties and behavior of light",
+          "Reflection and refraction of light",
+          "Lenses and mirrors",
+          "Color and light absorption",
+          "Technology using waves (sonar, ultrasound, fiber optics)"
+        ]
+      },
+      {
+        "topicName": "Electricity & Magnetism",
+        "subTopics": [
+          "Electric charge and static electricity",
+          "Electric current and circuits",
+          "Voltage, resistance, and Ohm's law",
+          "Series and parallel circuits",
+          "Electric power and energy usage",
+          "Sources of electrical energy",
+          "Properties of magnets and magnetic fields",
+          "Electromagnetism",
+          "Electric motors and generators",
+          "Transformers and power transmission",
+          "Real-world applications of electricity and magnetism"
+        ]
+      },
+      {
+        "topicName": "Cells & Life Processes",
+        "subTopics": [
+          "Characteristics of living things",
+          "Cell theory",
+          "Prokaryotic and eukaryotic cells",
+          "Cell organelles and their functions",
+          "Plant vs. animal cells",
+          "Cell membrane and transport (diffusion, osmosis)",
+          "Active and passive transport",
+          "Photosynthesis",
+          "Cellular respiration",
+          "Cell division and mitosis",
+          "The cell cycle",
+          "Homeostasis in living organisms"
+        ]
+      },
+      {
+        "topicName": "Genetics & Heredity",
+        "subTopics": [
+          "Introduction to heredity",
+          "Genes, alleles, and traits",
+          "DNA structure and function",
+          "Chromosomes and the genome",
+          "Mendel's laws of heredity",
+          "Dominant and recessive traits",
+          "Punnett squares and probability",
+          "Genotype and phenotype",
+          "Incomplete dominance and codominance",
+          "Sex-linked traits",
+          "Mutations and genetic variation",
+          "Biotechnology and genetic engineering (introduction)"
+        ]
+      },
+      {
+        "topicName": "Ecosystems & Interactions",
+        "subTopics": [
+          "Biotic and abiotic factors",
+          "Populations, communities, and ecosystems",
+          "Habitats and ecological niches",
+          "Food chains and food webs",
+          "Energy flow and trophic levels",
+          "Producers, consumers, and decomposers",
+          "Symbiotic relationships (mutualism, commensalism, parasitism)",
+          "Predation and competition",
+          "Water cycle, carbon cycle, and nitrogen cycle",
+          "Biomes of the world",
+          "Biodiversity and ecosystem stability",
+          "Human impact on ecosystems"
+        ]
+      },
+      {
+        "topicName": "Earth's Systems & Plate Tectonics",
+        "subTopics": [
+          "Earth's layers and internal structure",
+          "Theory of plate tectonics",
+          "Types of plate boundaries",
+          "Earthquakes and seismic waves",
+          "Volcanoes and volcanic activity",
+          "Rocks and the rock cycle",
+          "Weathering, erosion, and deposition",
+          "Soil formation and composition",
+          "Hydrosphere and the water cycle",
+          "Atmosphere layers and composition",
+          "Interactions among Earth's spheres",
+          "Geologic time scale"
+        ]
+      },
+      {
+        "topicName": "Weather, Climate & the Atmosphere",
+        "subTopics": [
+          "Composition and structure of the atmosphere",
+          "Energy from the Sun and atmospheric heating",
+          "Wind patterns and atmospheric circulation",
+          "Water cycle and humidity",
+          "Cloud formation and types",
+          "Weather patterns and severe weather",
+          "Reading and interpreting weather maps",
+          "Climate vs. weather",
+          "Factors affecting climate",
+          "Climate zones and biomes",
+          "Climate change and global warming",
+          "Human impact on the atmosphere"
+        ]
+      },
+      {
+        "topicName": "Earth's Resources & Human Impact",
+        "subTopics": [
+          "Renewable and nonrenewable resources",
+          "Fossil fuels and their environmental impact",
+          "Alternative and renewable energy sources",
+          "Land use and deforestation",
+          "Water resources and water pollution",
+          "Air quality and air pollution",
+          "Soil degradation and conservation",
+          "Biodiversity loss and habitat destruction",
+          "Climate change and its effects",
+          "Sustainability and conservation strategies",
+          "Engineering solutions to environmental problems",
+          "Individual and community actions for sustainability"
+        ]
+      },
+      {
+        "topicName": "Space Science & the Universe",
+        "subTopics": [
+          "Earth's motions (rotation and revolution)",
+          "Seasons and the tilt of Earth's axis",
+          "Moon phases and eclipses",
+          "Tides and gravitational effects",
+          "The solar system and its structure",
+          "Planets, moons, asteroids, and comets",
+          "The Sun and its energy",
+          "Stars, their properties, and life cycles",
+          "Galaxies and the structure of the universe",
+          "The Big Bang theory (introduction)",
+          "Space exploration and technology",
+          "Scale and distance in space"
+        ]
+      }
+    ]
+  }
+]

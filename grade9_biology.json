@@ -1,0 +1,371 @@
+[
+  {
+    "grade": "9",
+    "subject": "Biology",
+    "reference": "Inspire Science: Biology, Grades 9-12 / ISBN 9780021452620 / McGraw-Hill",
+    "majorTopics": [
+      {
+        "topicName": "Nature of Science & Biological Inquiry",
+        "subTopics": [
+          "What is biology and why does it matter?",
+          "Scientific methods and the inquiry process",
+          "Forming hypotheses and testable questions",
+          "Designing controlled experiments",
+          "Independent, dependent, and controlled variables",
+          "Collecting, organizing, and interpreting data",
+          "Statistical analysis in biology",
+          "Drawing conclusions and communicating findings",
+          "Scientific models, theories, and laws",
+          "Measurement and SI units in biology",
+          "Accuracy, precision, and percent error",
+          "Tools and technology in biology (microscopes, PCR, imaging, bioinformatics)",
+          "Engineering design and its connection to biology",
+          "Laboratory safety rules and practices"
+        ]
+      },
+      {
+        "topicName": "Chemistry of Life",
+        "subTopics": [
+          "Structure of the atom and chemical bonding",
+          "Properties of water and its biological importance",
+          "Hydrogen bonding and cohesion/adhesion",
+          "Solutions, acids, and bases in living systems",
+          "The pH scale and buffers",
+          "Organic molecules and functional groups",
+          "Carbohydrates (monosaccharides, disaccharides, polysaccharides)",
+          "Lipids (fats, phospholipids, sterols)",
+          "Proteins and amino acids",
+          "Protein structure (primary, secondary, tertiary, quaternary)",
+          "Nucleic acids (DNA and RNA)",
+          "Enzymes and activation energy",
+          "Enzyme activity, inhibition, and regulation",
+          "Real-world applications of biochemistry"
+        ]
+      },
+      {
+        "topicName": "Cell Structure & Function",
+        "subTopics": [
+          "Cell theory and its historical development",
+          "Prokaryotic vs. eukaryotic cells",
+          "Animal cell organelles and their functions",
+          "Plant cell organelles and their functions",
+          "Cell membrane structure (fluid mosaic model)",
+          "Membrane proteins and their roles",
+          "Cell wall, vacuoles, and plastids",
+          "Nucleus and nuclear envelope",
+          "Mitochondria and energy production",
+          "Chloroplasts and photosynthesis",
+          "Endomembrane system (ER, Golgi, vesicles, lysosomes)",
+          "Cytoskeleton (microtubules, microfilaments, intermediate filaments)",
+          "Cell junctions (tight junctions, desmosomes, gap junctions, plasmodesmata)",
+          "Cell size and surface area-to-volume ratio"
+        ]
+      },
+      {
+        "topicName": "Cell Transport & Homeostasis",
+        "subTopics": [
+          "Selective permeability of the cell membrane",
+          "Passive transport and diffusion",
+          "Osmosis and osmotic pressure",
+          "Facilitated diffusion and channel proteins",
+          "Active transport and ATP",
+          "Sodium-potassium pump",
+          "Endocytosis (phagocytosis, pinocytosis, receptor-mediated)",
+          "Exocytosis",
+          "Electrochemical gradients",
+          "Tonicity (hypotonic, hypertonic, isotonic solutions)",
+          "Homeostasis and feedback mechanisms",
+          "Negative and positive feedback loops",
+          "Real-world applications of cell transport"
+        ]
+      },
+      {
+        "topicName": "Photosynthesis",
+        "subTopics": [
+          "Overview of photosynthesis and its importance",
+          "Chloroplast structure and function",
+          "Photosynthetic pigments (chlorophyll, carotenoids)",
+          "Light-dependent reactions and the thylakoid membrane",
+          "Photosystems I and II",
+          "Electron transport chain in photosynthesis",
+          "ATP synthesis and photophosphorylation",
+          "Light-independent reactions (Calvin cycle)",
+          "Carbon fixation and the role of RuBisCO",
+          "Products of the Calvin cycle",
+          "Factors affecting the rate of photosynthesis",
+          "C3, C4, and CAM plants (introduction)",
+          "Chemosynthesis as an alternative to photosynthesis"
+        ]
+      },
+      {
+        "topicName": "Cellular Respiration & Fermentation",
+        "subTopics": [
+          "Overview of cellular respiration",
+          "ATP structure and the role of ATP in cells",
+          "Glycolysis and its products",
+          "Pyruvate oxidation and acetyl-CoA formation",
+          "Krebs cycle (citric acid cycle) and its products",
+          "Electron transport chain and oxidative phosphorylation",
+          "ATP synthesis by ATP synthase (chemiosmosis)",
+          "Total ATP yield from aerobic respiration",
+          "Anaerobic respiration",
+          "Lactic acid fermentation",
+          "Alcohol fermentation",
+          "Comparison of aerobic and anaerobic pathways",
+          "Regulation of cellular respiration",
+          "Real-world applications (exercise physiology, food science)"
+        ]
+      },
+      {
+        "topicName": "Cell Division: Mitosis & Meiosis",
+        "subTopics": [
+          "The cell cycle (G1, S, G2, M phases)",
+          "DNA replication during the S phase",
+          "Mitosis phases (prophase, prometaphase, metaphase, anaphase, telophase)",
+          "Cytokinesis in animal and plant cells",
+          "Regulation of the cell cycle (checkpoints, cyclins, CDKs)",
+          "Proto-oncogenes, tumor suppressor genes, and cancer",
+          "Meiosis I and meiosis II phases",
+          "Synapsis and crossing over (genetic recombination)",
+          "Independent assortment of chromosomes",
+          "Comparing mitosis and meiosis",
+          "Chromosome number (haploid vs. diploid)",
+          "Sources of genetic variation (crossing over, independent assortment, fertilization)",
+          "Nondisjunction and chromosomal abnormalities"
+        ]
+      },
+      {
+        "topicName": "Mendelian Genetics & Heredity",
+        "subTopics": [
+          "Gregor Mendel's experiments and contributions",
+          "Law of segregation",
+          "Law of independent assortment",
+          "Dominant and recessive alleles",
+          "Genotype and phenotype",
+          "Homozygous and heterozygous genotypes",
+          "Monohybrid crosses and Punnett squares",
+          "Dihybrid crosses",
+          "Test crosses",
+          "Probability in genetics",
+          "Incomplete dominance",
+          "Codominance and multiple alleles (ABO blood types)",
+          "Polygenic inheritance",
+          "Pleiotropy",
+          "Environmental effects on phenotype"
+        ]
+      },
+      {
+        "topicName": "Chromosomal Genetics & Sex Linkage",
+        "subTopics": [
+          "Chromosomes and chromosome structure",
+          "Sex chromosomes (X and Y) and sex determination",
+          "X-linked traits and X-linked inheritance",
+          "Y-linked traits",
+          "Pedigree analysis",
+          "Autosomal dominant and recessive disorders",
+          "X-linked dominant and recessive disorders",
+          "Chromosomal mutations (deletions, duplications, inversions, translocations)",
+          "Changes in chromosome number (aneuploidy, polyploidy)",
+          "Common chromosomal disorders (Down syndrome, Turner syndrome, Klinefelter syndrome)",
+          "Gene linkage and crossing over",
+          "Chromosome mapping and linkage maps",
+          "Genomic imprinting and epigenetics (introduction)"
+        ]
+      },
+      {
+        "topicName": "Molecular Genetics: DNA & RNA",
+        "subTopics": [
+          "Discovery of DNA as genetic material (Griffith, Avery, Hershey-Chase, Franklin, Watson and Crick)",
+          "DNA double helix structure and nucleotide composition",
+          "Base pairing rules (Chargaff's rules)",
+          "DNA replication (semiconservative model)",
+          "Enzymes in DNA replication (helicase, primase, DNA polymerase, ligase)",
+          "Differences between DNA and RNA",
+          "Types of RNA (mRNA, tRNA, rRNA)",
+          "Transcription process and RNA polymerase",
+          "RNA processing (capping, polyadenylation, splicing)",
+          "Translation and the ribosome",
+          "The genetic code and codons",
+          "tRNA structure and anticodons",
+          "Regulation of gene expression (promoters, enhancers, repressors)",
+          "Operons (lac operon and trp operon)"
+        ]
+      },
+      {
+        "topicName": "Mutations & Biotechnology",
+        "subTopics": [
+          "Types of mutations (point, frameshift, chromosomal)",
+          "Silent, missense, and nonsense mutations",
+          "Causes of mutations (mutagens, replication errors, radiation)",
+          "Effects of mutations on proteins and organisms",
+          "Introduction to biotechnology",
+          "Restriction enzymes and recombinant DNA",
+          "Gel electrophoresis and its applications",
+          "Polymerase chain reaction (PCR)",
+          "DNA cloning and vectors",
+          "Genetic engineering and transgenic organisms",
+          "CRISPR-Cas9 gene editing",
+          "DNA fingerprinting and forensic science",
+          "Human Genome Project and genomics",
+          "Ethical, legal, and social implications of biotechnology"
+        ]
+      },
+      {
+        "topicName": "Evolution & Natural Selection",
+        "subTopics": [
+          "Early ideas about evolution (Lamarck, Darwin, Wallace)",
+          "Charles Darwin and the voyage of the Beagle",
+          "Natural selection and its four principles",
+          "Variation, heredity, and fitness",
+          "Types of natural selection (directional, stabilizing, disruptive)",
+          "Sexual selection",
+          "Evidence for evolution (fossil record, comparative anatomy, embryology, biogeography, molecular biology)",
+          "Homologous, analogous, and vestigial structures",
+          "Molecular evidence and phylogenetics",
+          "Hardy-Weinberg equilibrium and population genetics",
+          "Mechanisms of evolutionary change (genetic drift, gene flow, mutation, natural selection)",
+          "Founder effect and bottleneck effect",
+          "Speciation (allopatric and sympatric)",
+          "Reproductive isolation mechanisms",
+          "Macroevolution, adaptive radiation, and extinction"
+        ]
+      },
+      {
+        "topicName": "Classification & Phylogenetics",
+        "subTopics": [
+          "History of biological classification",
+          "Carolus Linnaeus and binomial nomenclature",
+          "Levels of classification (domain, kingdom, phylum, class, order, family, genus, species)",
+          "Three domains of life (Bacteria, Archaea, Eukarya)",
+          "Cladistics and cladograms",
+          "Phylogenetic trees and evolutionary relationships",
+          "Shared derived characteristics",
+          "Molecular systematics and DNA barcoding",
+          "Kingdom Bacteria and Archaea",
+          "Kingdom Protista (diversity and classification)",
+          "Kingdom Fungi (major phyla)",
+          "Kingdom Plantae (major divisions)",
+          "Kingdom Animalia (major phyla)",
+          "Changes in classification due to new evidence"
+        ]
+      },
+      {
+        "topicName": "Viruses, Bacteria & Immune System",
+        "subTopics": [
+          "Characteristics and structure of viruses",
+          "Lytic and lysogenic cycles of bacteriophages",
+          "Animal viruses and replication",
+          "Retroviruses and HIV/AIDS",
+          "Viral diseases and epidemics",
+          "Vaccines and herd immunity",
+          "Characteristics of bacteria (structure, metabolism, reproduction)",
+          "Beneficial and harmful bacteria",
+          "Antibiotic mechanisms and resistance",
+          "Innate immunity (physical barriers, phagocytes, inflammation, fever)",
+          "Adaptive immunity (humoral and cell-mediated)",
+          "B cells, T cells, and antibodies",
+          "Primary and secondary immune responses",
+          "Autoimmune disorders and allergies"
+        ]
+      },
+      {
+        "topicName": "Plant Structure, Function & Reproduction",
+        "subTopics": [
+          "Characteristics and evolutionary history of plants",
+          "Nonvascular plants (bryophytes)",
+          "Seedless vascular plants (ferns, horsetails, club mosses)",
+          "Gymnosperms and their characteristics",
+          "Angiosperms (monocots vs. dicots)",
+          "Root anatomy and functions (absorption, anchorage, storage)",
+          "Stem anatomy and functions (support, vascular transport)",
+          "Leaf anatomy and functions (photosynthesis, gas exchange, transpiration)",
+          "Xylem and phloem (water and nutrient transport)",
+          "Transpiration and the cohesion-tension theory",
+          "Alternation of generations in plants",
+          "Sexual reproduction (flowers, pollination, fertilization, seeds, fruits)",
+          "Asexual reproduction in plants",
+          "Plant hormones (auxins, gibberellins, cytokinins, ethylene, abscisic acid)",
+          "Plant responses (tropisms, photoperiodism, dormancy, defense mechanisms)"
+        ]
+      },
+      {
+        "topicName": "Animal Diversity & Body Systems",
+        "subTopics": [
+          "Characteristics and diversity of animals",
+          "Major invertebrate phyla (Porifera, Cnidaria, Platyhelminthes, Nematoda, Annelida, Mollusca, Echinodermata, Arthropoda)",
+          "Arthropod diversity and adaptations",
+          "Insect life cycles and metamorphosis",
+          "Characteristics and diversity of vertebrates",
+          "Fish, amphibians, reptiles, birds, and mammals",
+          "Endothermy vs. ectothermy",
+          "Animal body plans (symmetry, coelom, segmentation)",
+          "Digestive system strategies in animals",
+          "Respiratory system adaptations",
+          "Circulatory system types (open, closed, single, double)",
+          "Nervous system organization and complexity",
+          "Reproductive strategies (sexual, asexual, internal, external fertilization)",
+          "Animal behavior (instinct, learning, communication, social behavior)"
+        ]
+      },
+      {
+        "topicName": "Human Body Systems & Homeostasis",
+        "subTopics": [
+          "Levels of organization in the human body",
+          "Integumentary system (skin, hair, nails, glands)",
+          "Skeletal system (bone structure, joints, cartilage)",
+          "Muscular system (skeletal, smooth, cardiac muscle; sliding filament model)",
+          "Digestive system (organs, enzymes, nutrient absorption)",
+          "Circulatory system (heart anatomy, cardiac cycle, blood vessels, blood components)",
+          "Respiratory system (gas exchange, breathing mechanics)",
+          "Excretory system (kidneys, nephron function, urine formation)",
+          "Nervous system (CNS, PNS, neurons, synaptic transmission, brain regions)",
+          "Endocrine system (glands, hormones, feedback loops)",
+          "Immune system (innate and adaptive immunity)",
+          "Reproductive system and human development",
+          "Lymphatic system",
+          "Interactions among body systems",
+          "Maintaining homeostasis through negative feedback"
+        ]
+      },
+      {
+        "topicName": "Ecology & Ecosystems",
+        "subTopics": [
+          "Levels of ecological organization (organism, population, community, ecosystem, biome, biosphere)",
+          "Biotic and abiotic factors",
+          "Ecological niches and the competitive exclusion principle",
+          "Food chains, food webs, and trophic levels",
+          "Energy flow and the 10% rule",
+          "Ecological pyramids (energy, biomass, numbers)",
+          "Primary productivity and its measurement",
+          "Water cycle",
+          "Carbon cycle",
+          "Nitrogen cycle",
+          "Phosphorus cycle",
+          "Symbiotic relationships (mutualism, commensalism, parasitism)",
+          "Predator-prey dynamics",
+          "Terrestrial biomes (tundra, taiga, temperate forest, tropical rainforest, grassland, desert, chaparral)",
+          "Aquatic biomes (freshwater, marine, estuaries, coral reefs)"
+        ]
+      },
+      {
+        "topicName": "Population Ecology & Conservation Biology",
+        "subTopics": [
+          "Population characteristics (size, density, distribution, age structure)",
+          "Exponential and logistic population growth models",
+          "Carrying capacity and limiting factors",
+          "Density-dependent and density-independent factors",
+          "Predator-prey population cycles",
+          "Interspecific competition and competitive exclusion",
+          "Ecological succession (primary and secondary)",
+          "Disturbance ecology and the intermediate disturbance hypothesis",
+          "Biodiversity (species richness, evenness, genetic diversity)",
+          "Endangered and threatened species",
+          "Causes of biodiversity loss (habitat destruction, climate change, overexploitation, invasive species, pollution)",
+          "Conservation biology strategies (protected areas, corridors, captive breeding, restoration ecology)",
+          "Sustainability and ecosystem services",
+          "Human population growth and its environmental impact"
+        ]
+      }
+    ]
+  }
+]

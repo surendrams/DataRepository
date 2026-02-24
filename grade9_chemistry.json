@@ -1,0 +1,338 @@
+[
+  {
+    "grade": "9",
+    "subject": "Chemistry",
+    "reference": "Inspire Physical Science with Earth, Grades 9-12 / ISBN 9780076716852 / McGraw-Hill",
+    "majorTopics": [
+      {
+        "topicName": "Nature of Science & Scientific Inquiry",
+        "subTopics": [
+          "What is chemistry and its branches?",
+          "Scientific methods and the inquiry process",
+          "Forming hypotheses and testable questions",
+          "Designing and conducting controlled experiments",
+          "Independent, dependent, and controlled variables",
+          "Collecting, organizing, and interpreting data",
+          "Statistical analysis and data representation",
+          "Drawing conclusions and communicating findings",
+          "Scientific models, theories, and laws",
+          "Measurement and SI units",
+          "Accuracy, precision, and percent error",
+          "Significant figures and scientific notation",
+          "Dimensional analysis and unit conversions",
+          "Tools and technology in chemistry",
+          "Laboratory safety rules and practices"
+        ]
+      },
+      {
+        "topicName": "Matter & Its Properties",
+        "subTopics": [
+          "Definition and classification of matter",
+          "Physical properties and their measurement",
+          "Chemical properties of matter",
+          "Extensive vs. intensive properties",
+          "Mass, volume, and density",
+          "Calculating and applying density",
+          "Physical changes in matter",
+          "Chemical changes and evidence of reaction",
+          "Law of conservation of mass",
+          "Pure substances vs. mixtures",
+          "Elements, compounds, and mixtures",
+          "Homogeneous and heterogeneous mixtures",
+          "Separating mixtures (filtration, distillation, chromatography, crystallization, evaporation)",
+          "Real-world applications of matter properties"
+        ]
+      },
+      {
+        "topicName": "States of Matter & Gas Laws",
+        "subTopics": [
+          "The four states of matter (solid, liquid, gas, plasma)",
+          "Kinetic molecular theory and its postulates",
+          "Properties of solids (crystalline and amorphous)",
+          "Properties of liquids (surface tension, viscosity, capillarity)",
+          "Properties of gases and ideal gas behavior",
+          "Changes of state (melting, freezing, vaporization, condensation, sublimation, deposition)",
+          "Heating and cooling curves",
+          "Latent heat of fusion and vaporization",
+          "Vapor pressure and boiling point",
+          "Boyle's law (pressure-volume relationship)",
+          "Charles's law (temperature-volume relationship)",
+          "Gay-Lussac's law (temperature-pressure relationship)",
+          "The combined gas law",
+          "The ideal gas law (PV = nRT)",
+          "Dalton's law of partial pressures",
+          "Real gases and deviations from ideal behavior"
+        ]
+      },
+      {
+        "topicName": "Atomic Structure & Theory",
+        "subTopics": [
+          "Early atomic models (Dalton's model)",
+          "Thomson's cathode ray tube experiment and the electron",
+          "Rutherford's gold foil experiment and the nuclear model",
+          "Bohr's planetary model and atomic spectra",
+          "The quantum mechanical model of the atom",
+          "Atomic orbitals (s, p, d, f)",
+          "Quantum numbers (principal, angular, magnetic, spin)",
+          "Electron configuration using the Aufbau principle",
+          "Hund's rule and the Pauli exclusion principle",
+          "Valence electrons and Lewis dot structures",
+          "Atomic number, mass number, and isotopes",
+          "Calculating average atomic mass from isotopes",
+          "Electromagnetic radiation and the photoelectric effect",
+          "Atomic emission spectra and their significance",
+          "Ions and ion formation (cations and anions)"
+        ]
+      },
+      {
+        "topicName": "The Periodic Table & Periodic Trends",
+        "subTopics": [
+          "History and development of the periodic table",
+          "Mendeleev's periodic law and contributions",
+          "Modern periodic table organization (periods and groups)",
+          "Metals, nonmetals, and metalloids",
+          "Properties and reactivity of metals",
+          "Properties and reactivity of nonmetals",
+          "Properties of metalloids (semiconductors)",
+          "Group 1: Alkali metals",
+          "Group 2: Alkaline earth metals",
+          "Groups 3–12: Transition metals and inner transition metals",
+          "Group 17: Halogens",
+          "Group 18: Noble gases",
+          "Periodic trend: atomic radius",
+          "Periodic trend: ionization energy",
+          "Periodic trend: electronegativity",
+          "Periodic trend: electron affinity",
+          "Periodic trend: ionic radius",
+          "Using the periodic table to predict chemical behavior"
+        ]
+      },
+      {
+        "topicName": "Chemical Bonding",
+        "subTopics": [
+          "Why atoms form chemical bonds",
+          "Valence electrons and the octet rule",
+          "Ionic bonds and the transfer of electrons",
+          "Formation, properties, and examples of ionic compounds",
+          "Lattice energy and stability of ionic compounds",
+          "Covalent bonds and the sharing of electrons",
+          "Single, double, and triple covalent bonds",
+          "Electronegativity and bond polarity",
+          "Polar and nonpolar covalent bonds",
+          "Properties of covalent (molecular) compounds",
+          "Metallic bonds and the electron sea model",
+          "Lewis dot structures for molecules and polyatomic ions",
+          "Resonance structures",
+          "Exceptions to the octet rule",
+          "VSEPR theory and molecular geometry",
+          "Bond angles and molecular polarity",
+          "Intermolecular forces (London dispersion, dipole-dipole, hydrogen bonding)",
+          "Relationship between intermolecular forces and physical properties"
+        ]
+      },
+      {
+        "topicName": "Chemical Formulas & Nomenclature",
+        "subTopics": [
+          "Chemical symbols and their significance",
+          "Writing and interpreting chemical formulas",
+          "Ionic compound formulas and charge balance",
+          "Naming binary ionic compounds",
+          "Naming ionic compounds with transition metals (Roman numerals)",
+          "Polyatomic ions and their formulas",
+          "Naming compounds with polyatomic ions",
+          "Naming binary covalent (molecular) compounds",
+          "Naming binary acids",
+          "Naming oxyacids",
+          "The mole concept and Avogadro's number",
+          "Molar mass calculations",
+          "Formula mass and molecular mass",
+          "Percent composition by mass",
+          "Empirical and molecular formulas"
+        ]
+      },
+      {
+        "topicName": "Chemical Reactions & Stoichiometry",
+        "subTopics": [
+          "What is a chemical reaction?",
+          "Evidence of a chemical reaction",
+          "Writing word and skeleton equations",
+          "Balancing chemical equations",
+          "Law of conservation of mass in chemical reactions",
+          "Types of chemical reactions (synthesis, decomposition, single replacement, double replacement, combustion)",
+          "Oxidation-reduction (redox) reactions",
+          "Oxidation numbers and assigning oxidation states",
+          "Activity series of metals and halogens",
+          "Solubility rules and precipitation reactions",
+          "Net ionic equations",
+          "Introduction to stoichiometry and mole ratios",
+          "Mole-to-mole calculations",
+          "Mole-to-mass and mass-to-mass calculations",
+          "Limiting reagents and excess reactants",
+          "Percent yield and theoretical yield",
+          "Real-world applications of stoichiometry"
+        ]
+      },
+      {
+        "topicName": "Reaction Rates & Chemical Equilibrium",
+        "subTopics": [
+          "What is reaction rate?",
+          "Measuring and expressing reaction rates",
+          "Collision theory and effective collisions",
+          "Activation energy and energy diagrams",
+          "Factors affecting reaction rates (temperature, concentration, surface area, catalysts)",
+          "Rate laws and rate constants (introduction)",
+          "Catalysts and their mechanism of action",
+          "Inhibitors",
+          "Exothermic reactions and enthalpy change",
+          "Endothermic reactions and enthalpy change",
+          "Hess's law (introduction)",
+          "Reversible reactions and chemical equilibrium",
+          "Equilibrium constant (Keq) and its significance",
+          "Le Chatelier's principle",
+          "Factors that shift equilibrium (concentration, temperature, pressure)",
+          "Solubility equilibrium and Ksp (introduction)"
+        ]
+      },
+      {
+        "topicName": "Solutions & Concentration",
+        "subTopics": [
+          "What is a solution?",
+          "Types of solutions (gaseous, liquid, solid)",
+          "Solute, solvent, and the dissolving process",
+          "Solvation and hydration",
+          "Like dissolves like (polarity and solubility)",
+          "Factors affecting solubility (temperature, pressure, polarity)",
+          "Solubility curves and their interpretation",
+          "Saturated, unsaturated, and supersaturated solutions",
+          "Concentration units (molarity, molality, percent by mass, mole fraction)",
+          "Calculating and preparing solutions of known concentration",
+          "Dilution calculations (C₁V₁ = C₂V₂)",
+          "Electrolytes and nonelectrolytes",
+          "Colligative properties (boiling point elevation, freezing point depression, osmotic pressure, vapor pressure lowering)",
+          "Suspensions, colloids, and the Tyndall effect",
+          "Real-world applications of solutions"
+        ]
+      },
+      {
+        "topicName": "Acids, Bases & Salts",
+        "subTopics": [
+          "Properties and characteristics of acids",
+          "Properties and characteristics of bases",
+          "Arrhenius definition of acids and bases",
+          "Brønsted-Lowry definition (proton donors and acceptors)",
+          "Lewis acid-base definition (introduction)",
+          "Conjugate acid-base pairs",
+          "Strong acids and their dissociation",
+          "Strong bases and their dissociation",
+          "Weak acids and equilibrium (Ka)",
+          "Weak bases and equilibrium (Kb)",
+          "The pH scale and calculating pH and pOH",
+          "Ion product constant for water (Kw)",
+          "Neutralization reactions",
+          "Titration and acid-base indicators",
+          "Formation and properties of salts",
+          "Buffers and their biological importance",
+          "Real-world applications of acids and bases"
+        ]
+      },
+      {
+        "topicName": "Thermochemistry",
+        "subTopics": [
+          "Energy and its forms",
+          "System and surroundings in thermochemistry",
+          "Endothermic and exothermic processes",
+          "Heat and temperature (distinction)",
+          "Specific heat capacity and calorimetry",
+          "Calorimetry calculations (q = mcΔT)",
+          "Enthalpy and enthalpy change (ΔH)",
+          "Standard enthalpy of formation",
+          "Hess's law and enthalpy calculations",
+          "Bond energies and estimating ΔH",
+          "Entropy (S) and disorder",
+          "Gibbs free energy (ΔG) and spontaneity",
+          "Relationship between ΔG, ΔH, and ΔS",
+          "Introduction to the laws of thermodynamics",
+          "Real-world applications of thermochemistry"
+        ]
+      },
+      {
+        "topicName": "Electrochemistry & Redox Reactions",
+        "subTopics": [
+          "Oxidation and reduction concepts",
+          "Assigning oxidation numbers",
+          "Identifying oxidizing and reducing agents",
+          "Balancing redox equations (half-reaction method)",
+          "Galvanic (voltaic) cells",
+          "Standard electrode potentials (E°)",
+          "Cell potential and spontaneity",
+          "Electrolytic cells and electrolysis",
+          "Faraday's laws of electrolysis",
+          "Corrosion and its electrochemical basis",
+          "Preventing corrosion (cathodic protection, coatings)",
+          "Batteries and fuel cells",
+          "Real-world applications of electrochemistry"
+        ]
+      },
+      {
+        "topicName": "Organic Chemistry",
+        "subTopics": [
+          "Introduction to organic chemistry and carbon bonding",
+          "Hydrocarbons (alkanes, alkenes, alkynes)",
+          "Naming hydrocarbons (IUPAC nomenclature)",
+          "Structural formulas, condensed formulas, and line structures",
+          "Isomers (structural and geometric)",
+          "Aromatic hydrocarbons and benzene",
+          "Functional groups and their properties",
+          "Alcohols and ethers",
+          "Aldehydes and ketones",
+          "Carboxylic acids and esters",
+          "Amines and amides",
+          "Organic reactions (substitution, addition, elimination, condensation)",
+          "Polymers and polymerization (addition and condensation polymers)",
+          "Natural polymers (carbohydrates, proteins, nucleic acids, lipids)",
+          "Real-world applications of organic chemistry (pharmaceuticals, plastics, fuels)"
+        ]
+      },
+      {
+        "topicName": "Nuclear Chemistry",
+        "subTopics": [
+          "Structure and stability of the atomic nucleus",
+          "Nuclear forces and binding energy",
+          "Radioactivity and types of radioactive decay",
+          "Alpha, beta, and gamma radiation",
+          "Writing and balancing nuclear equations",
+          "Half-life calculations",
+          "Radioactive dating (carbon-14 and uranium-lead dating)",
+          "Detecting and measuring radiation",
+          "Biological effects and safety from radiation",
+          "Nuclear fission and chain reactions",
+          "Critical mass and nuclear reactors",
+          "Nuclear fusion",
+          "Nuclear power plants and energy production",
+          "Uses of radioactive isotopes (medicine, industry, research)",
+          "Nuclear waste management and environmental concerns"
+        ]
+      },
+      {
+        "topicName": "Earth Science Connections to Chemistry",
+        "subTopics": [
+          "Chemical composition of Earth's crust, mantle, and core",
+          "Minerals and their chemical properties",
+          "Rocks and the rock cycle (chemical perspective)",
+          "Weathering and erosion as chemical processes",
+          "Chemical composition and layers of the atmosphere",
+          "Air pollution and atmospheric chemistry",
+          "The greenhouse effect and climate change chemistry",
+          "Ozone layer chemistry and depletion",
+          "Ocean chemistry and pH",
+          "Freshwater chemistry and water quality",
+          "Acid rain and its environmental effects",
+          "Geochemical cycles (carbon, nitrogen, sulfur, phosphorus)",
+          "Chemistry of soil formation",
+          "Fossil fuel formation and combustion chemistry",
+          "Green chemistry and sustainable practices"
+        ]
+      }
+    ]
+  }
+]

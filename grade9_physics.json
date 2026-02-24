@@ -1,0 +1,337 @@
+[
+  {
+    "grade": "9",
+    "subject": "Physics",
+    "reference": "Inspire Physical Science with Earth, Grades 9-12 / ISBN 9780076716852 / McGraw-Hill",
+    "majorTopics": [
+      {
+        "topicName": "Nature of Science & Scientific Inquiry",
+        "subTopics": [
+          "What is physics and its branches?",
+          "Scientific methods and the inquiry process",
+          "Forming hypotheses and testable questions",
+          "Designing and conducting controlled experiments",
+          "Independent, dependent, and controlled variables",
+          "Collecting, organizing, and interpreting data",
+          "Statistical analysis and graphical representation",
+          "Drawing conclusions and communicating findings",
+          "Scientific models, theories, and laws",
+          "Measurement and SI units",
+          "Accuracy, precision, and percent error",
+          "Significant figures and scientific notation",
+          "Dimensional analysis and unit conversions",
+          "Tools and technology in physics",
+          "Laboratory safety rules and practices"
+        ]
+      },
+      {
+        "topicName": "Mathematics of Physics",
+        "subTopics": [
+          "Scalars and vectors",
+          "Vector representation and notation",
+          "Adding and subtracting vectors (graphical method)",
+          "Adding and subtracting vectors (component method)",
+          "Resolving vectors into components",
+          "Trigonometry in physics (sine, cosine, tangent)",
+          "Graphing techniques (slope, area under a curve)",
+          "Direct, inverse, and quadratic relationships",
+          "Dimensional analysis in problem solving",
+          "Estimation and order-of-magnitude calculations",
+          "Error analysis and uncertainty in measurement",
+          "Using significant figures in calculations"
+        ]
+      },
+      {
+        "topicName": "Kinematics: Describing Motion",
+        "subTopics": [
+          "Reference frames and coordinate systems",
+          "Distance vs. displacement",
+          "Speed vs. velocity",
+          "Average speed and average velocity",
+          "Instantaneous speed and velocity",
+          "Acceleration and deceleration",
+          "Uniformly accelerated motion",
+          "Kinematic equations for constant acceleration",
+          "Free fall and acceleration due to gravity",
+          "Distance-time graphs and their interpretation",
+          "Velocity-time graphs and their interpretation",
+          "Acceleration-time graphs",
+          "Relative motion and frames of reference",
+          "Real-world examples of kinematics"
+        ]
+      },
+      {
+        "topicName": "Projectile & Two-Dimensional Motion",
+        "subTopics": [
+          "Independence of horizontal and vertical motion",
+          "Projectile motion definition and characteristics",
+          "Horizontal projectile motion",
+          "Angled projectile motion",
+          "Calculating range, maximum height, and time of flight",
+          "Symmetry of projectile motion",
+          "Effect of launch angle on range and height",
+          "Vectors in two-dimensional motion",
+          "Relative velocity in two dimensions",
+          "Uniform circular motion",
+          "Centripetal acceleration",
+          "Centripetal force and its direction",
+          "Real-world applications of two-dimensional motion"
+        ]
+      },
+      {
+        "topicName": "Forces & Newton's Laws of Motion",
+        "subTopics": [
+          "What is a force and its units (Newtons)?",
+          "Contact forces and field forces",
+          "Free body diagrams",
+          "Net force and resultant force",
+          "Newton's first law of motion (law of inertia)",
+          "Inertia and mass",
+          "Newton's second law of motion (F = ma)",
+          "Newton's third law of motion (action-reaction pairs)",
+          "Normal force and weight",
+          "Static friction and kinetic friction",
+          "Coefficient of friction",
+          "Air resistance and terminal velocity",
+          "Tension and applied forces",
+          "Equilibrium and balanced forces",
+          "Real-world applications of Newton's laws"
+        ]
+      },
+      {
+        "topicName": "Gravity & Circular Motion",
+        "subTopics": [
+          "Newton's law of universal gravitation",
+          "Gravitational force between two masses",
+          "Gravitational field strength",
+          "Weight vs. mass",
+          "Gravity on different planets and celestial bodies",
+          "Apparent weight and weightlessness",
+          "Uniform circular motion and centripetal acceleration",
+          "Centripetal force in circular motion",
+          "Orbital motion of satellites",
+          "Kepler's laws of planetary motion",
+          "Geosynchronous orbits",
+          "Tides and gravitational effects",
+          "Real-world applications of gravity and circular motion"
+        ]
+      },
+      {
+        "topicName": "Work, Energy & Power",
+        "subTopics": [
+          "Definition and calculation of work (W = Fd cosθ)",
+          "Conditions necessary for work to be done",
+          "Work done by a constant and variable force",
+          "Kinetic energy and its calculation (KE = ½mv²)",
+          "Work-energy theorem",
+          "Gravitational potential energy (PE = mgh)",
+          "Elastic potential energy",
+          "Mechanical energy and its conservation",
+          "Law of conservation of energy",
+          "Non-conservative forces and energy loss",
+          "Power and its calculation (P = W/t = Fv)",
+          "Units of work, energy, and power (joules, watts)",
+          "Energy efficiency",
+          "Real-world applications of work, energy, and power"
+        ]
+      },
+      {
+        "topicName": "Momentum & Collisions",
+        "subTopics": [
+          "Linear momentum (p = mv)",
+          "Impulse and impulse-momentum theorem",
+          "Impulse-momentum calculations",
+          "Conservation of linear momentum",
+          "Elastic collisions",
+          "Inelastic collisions",
+          "Perfectly inelastic collisions",
+          "Collisions in one dimension",
+          "Collisions in two dimensions (introduction)",
+          "Center of mass",
+          "Recoil and rocket propulsion",
+          "Angular momentum (introduction)",
+          "Real-world applications of momentum and collisions"
+        ]
+      },
+      {
+        "topicName": "Simple Machines, Work & Mechanical Advantage",
+        "subTopics": [
+          "What is a machine and its purpose?",
+          "Input force, output force, and mechanical advantage",
+          "Ideal mechanical advantage vs. actual mechanical advantage",
+          "Efficiency of machines",
+          "Levers and their three classes",
+          "Pulleys (fixed, movable, block and tackle)",
+          "Wheel and axle",
+          "Inclined plane",
+          "Wedge and screw",
+          "Compound machines",
+          "Power in machines",
+          "Real-world applications of simple machines"
+        ]
+      },
+      {
+        "topicName": "Thermal Energy, Heat & Thermodynamics",
+        "subTopics": [
+          "Thermal energy and particle motion",
+          "Temperature and thermometers (Celsius, Fahrenheit, Kelvin)",
+          "Difference between heat and temperature",
+          "Specific heat capacity and its calculation (q = mcΔT)",
+          "Calorimetry and heat transfer calculations",
+          "Methods of heat transfer (conduction, convection, radiation)",
+          "Conductors and insulators",
+          "Thermal expansion of solids, liquids, and gases",
+          "Changes of state and latent heat",
+          "Heating and cooling curves",
+          "First law of thermodynamics (conservation of energy)",
+          "Second law of thermodynamics (entropy)",
+          "Heat engines and their efficiency",
+          "Refrigerators and heat pumps (introduction)",
+          "Real-world applications of thermodynamics"
+        ]
+      },
+      {
+        "topicName": "Waves & Wave Properties",
+        "subTopics": [
+          "What is a wave and how is it produced?",
+          "Parts of a wave (crest, trough, wavelength, amplitude)",
+          "Wave frequency, period, and their relationship",
+          "Wave speed and the wave equation (v = fλ)",
+          "Transverse and longitudinal waves",
+          "Mechanical vs. electromagnetic waves",
+          "Wave reflection and the law of reflection",
+          "Wave refraction",
+          "Wave diffraction",
+          "Wave interference (constructive and destructive)",
+          "Standing waves and resonance",
+          "Nodes and antinodes",
+          "Wave energy and intensity",
+          "Real-world applications of wave properties"
+        ]
+      },
+      {
+        "topicName": "Sound & Acoustics",
+        "subTopics": [
+          "Production and propagation of sound waves",
+          "Sound as a longitudinal mechanical wave",
+          "Speed of sound in different media (solids, liquids, gases)",
+          "Factors affecting the speed of sound",
+          "Pitch and frequency",
+          "Loudness, intensity, and decibels",
+          "The decibel scale and hearing",
+          "The Doppler effect",
+          "Reflection of sound (echo and reverberation)",
+          "Resonance and natural frequencies",
+          "Harmonics and overtones",
+          "Beats and beat frequency",
+          "Echolocation and sonar applications",
+          "Ultrasound in medicine",
+          "Noise pollution and its effects"
+        ]
+      },
+      {
+        "topicName": "Electromagnetic Waves & Light",
+        "subTopics": [
+          "Electromagnetic waves and their properties",
+          "The electromagnetic spectrum (radio, microwave, infrared, visible, UV, X-ray, gamma)",
+          "Speed of light and its constancy",
+          "Wave-particle duality of light (introduction)",
+          "Reflection of light and the law of reflection",
+          "Refraction of light and Snell's law",
+          "Total internal reflection and critical angle",
+          "Dispersion and the prism",
+          "Diffraction and interference of light",
+          "Plane mirrors and image formation",
+          "Concave and convex mirrors",
+          "Mirror equation and magnification",
+          "Converging and diverging lenses",
+          "Lens equation and magnification",
+          "Color, light absorption, and the visible spectrum",
+          "Optical instruments (microscopes, telescopes, cameras)",
+          "Real-world applications of light and optics"
+        ]
+      },
+      {
+        "topicName": "Electricity",
+        "subTopics": [
+          "Electric charge and the law of electric charges",
+          "Charging by friction, conduction, and induction",
+          "Static electricity and static discharge",
+          "Coulomb's law and electric force",
+          "Electric fields and field lines",
+          "Electric potential energy and voltage",
+          "Electric current (direct and alternating current)",
+          "Conductors, insulators, and semiconductors",
+          "Ohm's law (V = IR)",
+          "Resistance and factors affecting resistance",
+          "Series circuits: current, voltage, and resistance",
+          "Parallel circuits: current, voltage, and resistance",
+          "Combined series-parallel circuits",
+          "Electric power (P = IV = I²R = V²/R)",
+          "Electric energy and cost calculations",
+          "Electrical safety and circuit protection (fuses, circuit breakers, grounding)",
+          "Real-world applications of electricity"
+        ]
+      },
+      {
+        "topicName": "Magnetism & Electromagnetism",
+        "subTopics": [
+          "Properties of magnets and magnetic poles",
+          "Magnetic force and its characteristics",
+          "Magnetic fields and field lines",
+          "Types of magnets (permanent, temporary, electromagnets)",
+          "Earth's magnetic field and its importance",
+          "Oersted's discovery: electricity producing magnetism",
+          "Magnetic force on a current-carrying conductor",
+          "Magnetic force on moving charges",
+          "Electromagnets and their applications",
+          "Electromagnetic induction and Faraday's law",
+          "Lenz's law",
+          "Electric generators (AC and DC)",
+          "Electric motors",
+          "Transformers and power transmission",
+          "Real-world applications of electromagnetism"
+        ]
+      },
+      {
+        "topicName": "Nuclear Physics & Modern Physics",
+        "subTopics": [
+          "Structure and stability of the atomic nucleus",
+          "Nuclear forces and binding energy",
+          "Radioactivity and types of radioactive decay (alpha, beta, gamma)",
+          "Writing and balancing nuclear equations",
+          "Half-life and radioactive decay calculations",
+          "Detecting and measuring radiation",
+          "Biological effects of radiation and safety",
+          "Nuclear fission and chain reactions",
+          "Critical mass and nuclear reactors",
+          "Nuclear fusion and its potential",
+          "Nuclear energy and power plants",
+          "Uses of radioactive isotopes (medicine, dating, industry)",
+          "Introduction to quantum theory and the photoelectric effect",
+          "Wave-particle duality",
+          "Special relativity (introduction): E = mc²"
+        ]
+      },
+      {
+        "topicName": "Earth Science Applications of Physics",
+        "subTopics": [
+          "Gravitational forces and Earth's structure",
+          "Seismic waves (P-waves and S-waves) and Earth's interior",
+          "Earthquakes and the physics of seismic activity",
+          "Plate tectonics and physical forces",
+          "Physical properties of Earth's atmosphere",
+          "Atmospheric pressure and weather patterns",
+          "Energy from the Sun and solar radiation",
+          "Electromagnetic spectrum in Earth science (remote sensing, GPS)",
+          "Heat transfer in Earth's systems (conduction, convection, radiation)",
+          "The greenhouse effect and climate change physics",
+          "Ocean waves and tidal forces",
+          "Orbital mechanics and satellite applications",
+          "Physics of renewable energy systems (solar, wind, hydroelectric)",
+          "Engineering solutions to Earth science challenges"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "grade": "6",
+    "subject": "General Science",
+    "reference": "Inspire Science, Grade 6 / ISBN 9780076789169 / McGraw-Hill",
+    "majorTopics": [
+      {
+        "topicName": "Nature of Science & Engineering",
+        "subTopics": [
+          "Scientific inquiry and investigation",
+          "Designing experiments",
+          "Collecting and analyzing data",
+          "Drawing conclusions",
+          "Science and engineering practices",
+          "Engineering design process",
+          "Identifying problems and defining criteria",
+          "Prototype development and testing",
+          "Evaluating and improving solutions",
+          "Measurement and SI units",
+          "Safety in science"
+        ]
+      },
+      {
+        "topicName": "Matter & Its Properties",
+        "subTopics": [
+          "Properties of matter",
+          "Physical and chemical properties",
+          "States of matter (solid, liquid, gas, plasma)",
+          "Changes of state",
+          "Density",
+          "Mixtures and solutions",
+          "Separating mixtures",
+          "Elements, compounds, and mixtures",
+          "Atoms and molecules (introduction)",
+          "Physical vs. chemical changes"
+        ]
+      },
+      {
+        "topicName": "Energy",
+        "subTopics": [
+          "Forms of energy",
+          "Kinetic and potential energy",
+          "Thermal energy and heat",
+          "Light energy",
+          "Sound energy",
+          "Electrical energy",
+          "Mechanical energy",
+          "Energy transformations",
+          "Law of conservation of energy",
+          "Energy transfer and efficiency"
+        ]
+      },
+      {
+        "topicName": "Forces & Motion",
+        "subTopics": [
+          "Describing motion",
+          "Speed, velocity, and acceleration",
+          "Distance-time graphs",
+          "Newton's laws of motion",
+          "Balanced and unbalanced forces",
+          "Gravity and friction",
+          "Magnetic and electric forces",
+          "Simple machines",
+          "Work and power",
+          "Real-world applications of forces"
+        ]
+      },
+      {
+        "topicName": "Waves & Information Transfer",
+        "subTopics": [
+          "Properties of waves",
+          "Wavelength, frequency, and amplitude",
+          "Transverse and longitudinal waves",
+          "Light waves and the electromagnetic spectrum",
+          "Sound waves",
+          "Reflection, refraction, and absorption",
+          "Wave interactions",
+          "Digital vs. analog signals",
+          "Information transfer through waves",
+          "Technologies using waves"
+        ]
+      },
+      {
+        "topicName": "Cells & Living Systems",
+        "subTopics": [
+          "Characteristics of living things",
+          "Cell theory",
+          "Cell structure and function",
+          "Prokaryotic and eukaryotic cells",
+          "Plant vs. animal cells",
+          "Cell organelles",
+          "Cell processes (photosynthesis, respiration, reproduction)",
+          "Unicellular and multicellular organisms",
+          "Levels of organization (cells, tissues, organs, systems)",
+          "Homeostasis"
+        ]
+      },
+      {
+        "topicName": "Body Systems",
+        "subTopics": [
+          "Skeletal and muscular systems",
+          "Digestive system",
+          "Circulatory and respiratory systems",
+          "Nervous system",
+          "Immune system",
+          "Reproductive system (introduction)",
+          "Interactions among body systems",
+          "Maintaining homeostasis",
+          "Effects of disease on body systems",
+          "Health and body system function"
+        ]
+      },
+      {
+        "topicName": "Ecosystems & Ecology",
+        "subTopics": [
+          "Biotic and abiotic factors",
+          "Populations and communities",
+          "Ecosystems and biomes",
+          "Food chains and food webs",
+          "Energy flow in ecosystems",
+          "Nutrient cycles (water, carbon, nitrogen)",
+          "Producers, consumers, and decomposers",
+          "Symbiosis and other species interactions",
+          "Ecosystem stability and change",
+          "Biodiversity and its importance"
+        ]
+      },
+      {
+        "topicName": "Earth's Systems",
+        "subTopics": [
+          "Earth's layers and structure",
+          "Plate tectonics",
+          "Earthquakes and volcanoes",
+          "Rocks and the rock cycle",
+          "Weathering, erosion, and deposition",
+          "Soil formation",
+          "Hydrosphere and water cycle",
+          "Atmosphere layers and composition",
+          "Weather and climate",
+          "Interactions among Earth's systems"
+        ]
+      },
+      {
+        "topicName": "Earth's Resources & Human Impact",
+        "subTopics": [
+          "Renewable and nonrenewable resources",
+          "Fossil fuels and their formation",
+          "Alternative energy sources",
+          "Land, water, and air resources",
+          "Human impact on ecosystems",
+          "Pollution and its effects",
+          "Climate change and global warming",
+          "Conservation and sustainability",
+          "Environmental solutions and engineering",
+          "Resource management"
+        ]
+      },
+      {
+        "topicName": "Space Science",
+        "subTopics": [
+          "Earth's place in the solar system",
+          "Motions of Earth (rotation and revolution)",
+          "Moon phases and eclipses",
+          "Tides",
+          "The solar system and its objects",
+          "Planets, moons, asteroids, and comets",
+          "Stars and the Sun",
+          "Galaxies and the universe",
+          "Space exploration and technology",
+          "Scale and distance in space"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,216 @@
+[
+  {
+    "grade": "6",
+    "subject": "Life Science",
+    "reference": "Interactive Science: Life Science / ISBN 9780133684812 / Pearson",
+    "majorTopics": [
+      {
+        "topicName": "Introduction to Life Science",
+        "subTopics": [
+          "What is science?",
+          "Scientific inquiry and the scientific method",
+          "Designing and conducting investigations",
+          "Collecting, recording, and analyzing data",
+          "Drawing conclusions and communicating results",
+          "Measurement and SI units",
+          "Tools and technology in science",
+          "Safety practices in the lab",
+          "Science and everyday life",
+          "Branches of life science"
+        ]
+      },
+      {
+        "topicName": "Cell Structure & Function",
+        "subTopics": [
+          "Characteristics of living things",
+          "Cell theory",
+          "Prokaryotic and eukaryotic cells",
+          "Plant cells vs. animal cells",
+          "Cell organelles and their functions",
+          "Cell membrane and cell wall",
+          "Nucleus and genetic material",
+          "Mitochondria and chloroplasts",
+          "Microscopy and observing cells",
+          "Specialized cells"
+        ]
+      },
+      {
+        "topicName": "Cell Processes",
+        "subTopics": [
+          "Photosynthesis",
+          "Cellular respiration",
+          "Fermentation",
+          "Energy flow in cells",
+          "Cell transport (diffusion and osmosis)",
+          "Active and passive transport",
+          "Homeostasis in cells",
+          "Cell growth",
+          "Cell division and mitosis",
+          "The cell cycle"
+        ]
+      },
+      {
+        "topicName": "Genetics & Heredity",
+        "subTopics": [
+          "Introduction to heredity",
+          "Genes and traits",
+          "DNA structure and function",
+          "Chromosomes",
+          "Mendel's laws of heredity",
+          "Dominant and recessive alleles",
+          "Punnett squares and probability",
+          "Genotype and phenotype",
+          "Incomplete dominance and codominance",
+          "Mutations and genetic variation",
+          "Inherited vs. acquired traits"
+        ]
+      },
+      {
+        "topicName": "Reproduction & Development",
+        "subTopics": [
+          "Asexual reproduction",
+          "Sexual reproduction",
+          "Meiosis",
+          "Fertilization",
+          "Life cycles of organisms",
+          "Plant reproduction (sexual and asexual)",
+          "Animal reproduction",
+          "Embryonic development",
+          "Growth and development in organisms",
+          "Metamorphosis"
+        ]
+      },
+      {
+        "topicName": "Classification of Living Things",
+        "subTopics": [
+          "Need for classification",
+          "Taxonomy and scientific naming",
+          "Binomial nomenclature",
+          "The six kingdoms",
+          "Domains of life (Bacteria, Archaea, Eukarya)",
+          "Classifying organisms using dichotomous keys",
+          "Kingdom Monera (Bacteria and Archaea)",
+          "Kingdom Protista",
+          "Kingdom Fungi",
+          "Kingdom Plantae",
+          "Kingdom Animalia",
+          "Evolutionary relationships and phylogeny"
+        ]
+      },
+      {
+        "topicName": "Viruses, Bacteria & Protists",
+        "subTopics": [
+          "What are viruses?",
+          "Structure and reproduction of viruses",
+          "How viruses cause disease",
+          "Bacteria structure and characteristics",
+          "Beneficial and harmful bacteria",
+          "Bacteria reproduction and growth",
+          "Archaea and extreme environments",
+          "Characteristics of protists",
+          "Animal-like protists (protozoa)",
+          "Plant-like protists (algae)",
+          "Fungus-like protists",
+          "Role of bacteria and protists in ecosystems"
+        ]
+      },
+      {
+        "topicName": "Fungi & Plants",
+        "subTopics": [
+          "Characteristics of fungi",
+          "Structure of fungi",
+          "Reproduction in fungi",
+          "Roles of fungi in ecosystems",
+          "Characteristics of plants",
+          "Vascular and nonvascular plants",
+          "Seedless plants (mosses, ferns)",
+          "Seed plants (gymnosperms and angiosperms)",
+          "Plant structures (roots, stems, leaves)",
+          "Photosynthesis in plants",
+          "Plant reproduction and life cycles",
+          "Plant responses and adaptations"
+        ]
+      },
+      {
+        "topicName": "Invertebrates & Vertebrates",
+        "subTopics": [
+          "Characteristics of animals",
+          "Invertebrates vs. vertebrates",
+          "Sponges and cnidarians",
+          "Worms (flatworms, roundworms, segmented worms)",
+          "Mollusks and echinoderms",
+          "Arthropods (insects, arachnids, crustaceans)",
+          "Characteristics of vertebrates",
+          "Fish and amphibians",
+          "Reptiles and birds",
+          "Mammals",
+          "Animal adaptations and behaviors",
+          "Animal reproduction and development"
+        ]
+      },
+      {
+        "topicName": "Ecosystems & Ecology",
+        "subTopics": [
+          "Biotic and abiotic factors",
+          "Populations, communities, and ecosystems",
+          "Habitats and niches",
+          "Food chains and food webs",
+          "Energy flow and trophic levels",
+          "Producers, consumers, and decomposers",
+          "Water cycle, carbon cycle, and nitrogen cycle",
+          "Symbiosis (mutualism, commensalism, parasitism)",
+          "Predation and competition",
+          "Biodiversity and ecosystem stability",
+          "Biomes of the world"
+        ]
+      },
+      {
+        "topicName": "Populations & Communities",
+        "subTopics": [
+          "Population characteristics",
+          "Population growth and limiting factors",
+          "Carrying capacity",
+          "Factors affecting population size",
+          "Species interactions within communities",
+          "Succession (primary and secondary)",
+          "Invasive species and their impact",
+          "Endangered and extinct species",
+          "Human impact on populations",
+          "Conservation of species and habitats"
+        ]
+      },
+      {
+        "topicName": "Human Body Systems",
+        "subTopics": [
+          "Levels of organization in the human body",
+          "Skeletal and muscular systems",
+          "Digestive system and nutrition",
+          "Circulatory and respiratory systems",
+          "Excretory system",
+          "Nervous system and sense organs",
+          "Endocrine system",
+          "Immune system and disease",
+          "Reproductive system (introduction)",
+          "Interactions among body systems",
+          "Maintaining homeostasis",
+          "Healthy lifestyle and body systems"
+        ]
+      },
+      {
+        "topicName": "Evolution & Natural Selection",
+        "subTopics": [
+          "Introduction to evolution",
+          "Evidence for evolution (fossil record, anatomy, DNA)",
+          "Charles Darwin and natural selection",
+          "Adaptations and survival",
+          "Variation within populations",
+          "Natural selection and environmental pressures",
+          "Speciation",
+          "Extinction",
+          "Geologic time scale and life on Earth",
+          "Common ancestry and evolutionary relationships"
+        ]
+      }
+    ]
+  }
+]

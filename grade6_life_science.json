@@ -3,11 +3,11 @@
     "grade": "6",
     "subject": "Life Science",
     "reference": "Interactive Science: Life Science / ISBN 9780133684812 / Pearson",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Introduction to Life Science",
-        "subTopics": [
-          "What is science?",
+        "topic_name": "Introduction to Life Science",
+        "sub_topics": [
+          "What is science",
           "Scientific inquiry and the scientific method",
           "Designing and conducting investigations",
           "Collecting, recording, and analyzing data",
@@ -20,8 +20,8 @@
         ]
       },
       {
-        "topicName": "Cell Structure & Function",
-        "subTopics": [
+        "topic_name": "Cell Structure & Function",
+        "sub_topics": [
           "Characteristics of living things",
           "Cell theory",
           "Prokaryotic and eukaryotic cells",
@@ -35,8 +35,8 @@
         ]
       },
       {
-        "topicName": "Cell Processes",
-        "subTopics": [
+        "topic_name": "Cell Processes",
+        "sub_topics": [
           "Photosynthesis",
           "Cellular respiration",
           "Fermentation",
@@ -50,8 +50,8 @@
         ]
       },
       {
-        "topicName": "Genetics & Heredity",
-        "subTopics": [
+        "topic_name": "Genetics & Heredity",
+        "sub_topics": [
           "Introduction to heredity",
           "Genes and traits",
           "DNA structure and function",
@@ -66,8 +66,8 @@
         ]
       },
       {
-        "topicName": "Reproduction & Development",
-        "subTopics": [
+        "topic_name": "Reproduction & Development",
+        "sub_topics": [
           "Asexual reproduction",
           "Sexual reproduction",
           "Meiosis",
@@ -81,8 +81,8 @@
         ]
       },
       {
-        "topicName": "Classification of Living Things",
-        "subTopics": [
+        "topic_name": "Classification of Living Things",
+        "sub_topics": [
           "Need for classification",
           "Taxonomy and scientific naming",
           "Binomial nomenclature",
@@ -98,9 +98,9 @@
         ]
       },
       {
-        "topicName": "Viruses, Bacteria & Protists",
-        "subTopics": [
-          "What are viruses?",
+        "topic_name": "Viruses, Bacteria & Protists",
+        "sub_topics": [
+          "What are viruses",
           "Structure and reproduction of viruses",
           "How viruses cause disease",
           "Bacteria structure and characteristics",
@@ -115,8 +115,8 @@
         ]
       },
       {
-        "topicName": "Fungi & Plants",
-        "subTopics": [
+        "topic_name": "Fungi & Plants",
+        "sub_topics": [
           "Characteristics of fungi",
           "Structure of fungi",
           "Reproduction in fungi",
@@ -132,8 +132,8 @@
         ]
       },
       {
-        "topicName": "Invertebrates & Vertebrates",
-        "subTopics": [
+        "topic_name": "Invertebrates & Vertebrates",
+        "sub_topics": [
           "Characteristics of animals",
           "Invertebrates vs. vertebrates",
           "Sponges and cnidarians",
@@ -149,8 +149,8 @@
         ]
       },
       {
-        "topicName": "Ecosystems & Ecology",
-        "subTopics": [
+        "topic_name": "Ecosystems & Ecology",
+        "sub_topics": [
           "Biotic and abiotic factors",
           "Populations, communities, and ecosystems",
           "Habitats and niches",
@@ -165,8 +165,8 @@
         ]
       },
       {
-        "topicName": "Populations & Communities",
-        "subTopics": [
+        "topic_name": "Populations & Communities",
+        "sub_topics": [
           "Population characteristics",
           "Population growth and limiting factors",
           "Carrying capacity",
@@ -180,8 +180,8 @@
         ]
       },
       {
-        "topicName": "Human Body Systems",
-        "subTopics": [
+        "topic_name": "Human Body Systems",
+        "sub_topics": [
           "Levels of organization in the human body",
           "Skeletal and muscular systems",
           "Digestive system and nutrition",
@@ -197,8 +197,8 @@
         ]
       },
       {
-        "topicName": "Evolution & Natural Selection",
-        "subTopics": [
+        "topic_name": "Evolution & Natural Selection",
+        "sub_topics": [
           "Introduction to evolution",
           "Evidence for evolution (fossil record, anatomy, DNA)",
           "Charles Darwin and natural selection",

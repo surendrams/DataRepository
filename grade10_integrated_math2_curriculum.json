@@ -3,10 +3,10 @@
     "grade": "10",
     "subject": "Integrated Math II",
     "reference" : "Big Ideas Math Integrated II / ISBN 9781680330687 / Core Connections Integrated II, 2015 / ISBN 9781603283489 / McGraw Hill Integrated II, 2012 / ISBN 9780076638611",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Exploring Algebraic & Geometric Relationships",
-        "subTopics": [
+        "topic_name": "Exploring Algebraic & Geometric Relationships",
+        "sub_topics": [
           "Systems of linear equations",
           "Solving systems by graphing, substitution, and elimination",
           "Systems with special solutions",
@@ -17,8 +17,8 @@
         ]
       },
       {
-        "topicName": "Quadratic Expressions & Equations",
-        "subTopics": [
+        "topic_name": "Quadratic Expressions & Equations",
+        "sub_topics": [
           "Quadratic expressions and polynomials",
           "Factoring quadratic expressions",
           "Solving quadratic equations by factoring",
@@ -30,8 +30,8 @@
         ]
       },
       {
-        "topicName": "Quadratic Functions & Relations",
-        "subTopics": [
+        "topic_name": "Quadratic Functions & Relations",
+        "sub_topics": [
           "Quadratic functions and parabolas",
           "Graphing quadratic functions",
           "Vertex form of quadratic functions",
@@ -43,8 +43,8 @@
         ]
       },
       {
-        "topicName": "Exponential & Logarithmic Functions",
-        "subTopics": [
+        "topic_name": "Exponential & Logarithmic Functions",
+        "sub_topics": [
           "Exponential functions",
           "Exponential growth and decay",
           "Compound interest",
@@ -57,8 +57,8 @@
         ]
       },
       {
-        "topicName": "Reasoning & Proof",
-        "subTopics": [
+        "topic_name": "Reasoning & Proof",
+        "sub_topics": [
           "Inductive reasoning",
           "Deductive reasoning",
           "Conditional statements and logic",
@@ -70,8 +70,8 @@
         ]
       },
       {
-        "topicName": "Congruent Triangles",
-        "subTopics": [
+        "topic_name": "Congruent Triangles",
+        "sub_topics": [
           "Triangle congruence postulates (SSS, SAS, ASA, AAS)",
           "Using congruence to prove statements",
           "Corresponding parts of congruent triangles",
@@ -82,8 +82,8 @@
         ]
       },
       {
-        "topicName": "Relationships in Triangles",
-        "subTopics": [
+        "topic_name": "Relationships in Triangles",
+        "sub_topics": [
           "Triangle inequality theorem",
           "Medians and centroids",
           "Altitudes and orthocenters",
@@ -95,8 +95,8 @@
         ]
       },
       {
-        "topicName": "Quadrilaterals",
-        "subTopics": [
+        "topic_name": "Quadrilaterals",
+        "sub_topics": [
           "Properties of parallelograms",
           "Properties of rectangles",
           "Properties of rhombuses",
@@ -108,8 +108,8 @@
         ]
       },
       {
-        "topicName": "Proportions & Similarity",
-        "subTopics": [
+        "topic_name": "Proportions & Similarity",
+        "sub_topics": [
           "Ratios and proportions",
           "Similar figures",
           "AA, SSS, and SAS similarity postulates",
@@ -121,8 +121,8 @@
         ]
       },
       {
-        "topicName": "Right Triangles & Trigonometry",
-        "subTopics": [
+        "topic_name": "Right Triangles & Trigonometry",
+        "sub_topics": [
           "Pythagorean theorem and applications",
           "Special right triangles (45-45-90 and 30-60-90)",
           "Sine, cosine, and tangent ratios",
@@ -134,8 +134,8 @@
         ]
       },
       {
-        "topicName": "Circles",
-        "subTopics": [
+        "topic_name": "Circles",
+        "sub_topics": [
           "Circle terminology (center, radius, diameter, chord)",
           "Circumference and area",
           "Arc length and sector area",
@@ -148,8 +148,8 @@
         ]
       },
       {
-        "topicName": "Extending Surface Area & Volume",
-        "subTopics": [
+        "topic_name": "Extending Surface Area & Volume",
+        "sub_topics": [
           "Surface area of prisms and pyramids",
           "Surface area of cylinders, cones, and spheres",
           "Volume of prisms and pyramids",
@@ -161,8 +161,8 @@
         ]
       },
       {
-        "topicName": "Probability & Measurement",
-        "subTopics": [
+        "topic_name": "Probability & Measurement",
+        "sub_topics": [
           "Sample spaces and counting principles",
           "Theoretical and experimental probability",
           "Compound probability",
@@ -175,8 +175,8 @@
         ]
       },
       {
-        "topicName": "Justification & Similarity",
-        "subTopics": [
+        "topic_name": "Justification & Similarity",
+        "sub_topics": [
           "Geometric justifications and proofs",
           "Proving similarity relationships",
           "Congruence and similarity in proofs",
@@ -186,8 +186,8 @@
         ]
       },
       {
-        "topicName": "Factoring & More Trigonometry",
-        "subTopics": [
+        "topic_name": "Factoring & More Trigonometry",
+        "sub_topics": [
           "Advanced factoring techniques",
           "Factoring polynomials completely",
           "Using factoring to solve equations",

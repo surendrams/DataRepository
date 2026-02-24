@@ -3,10 +3,10 @@
     "grade": "8",
     "subject": "Mathematics",
     "reference": "Big Ideas Math: Modeling Real Life, Grade 8 / ISBN 9781642086737 / Core Connections: Course 3 / ISBN 9781603280914 / Glencoe Math: Course 3, Volume 1 / ISBN 9780076615308 / Glencoe Math: Course 3, Volume 2 / ISBN 9780076619047 / Envision Math 2.0: Grade 8, Volume 1 / ISBN 9780328881901 / Envision Math 2.0: Grade 8, Volume 2 / ISBN 9780328881918",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Real Numbers & Operations",
-        "subTopics": [
+        "topic_name": "Real Numbers & Operations",
+        "sub_topics": [
           "Rational and irrational numbers",
           "Powers and exponents",
           "Multiply and divide monomials",
@@ -21,8 +21,8 @@
         ]
       },
       {
-        "topicName": "Equations & Solving Equations",
-        "subTopics": [
+        "topic_name": "Equations & Solving Equations",
+        "sub_topics": [
           "Solving simple equations",
           "Solving multi-step equations",
           "Solving equations with variables on both sides",
@@ -35,8 +35,8 @@
         ]
       },
       {
-        "topicName": "Linear Equations & Graphing",
-        "subTopics": [
+        "topic_name": "Linear Equations & Graphing",
+        "sub_topics": [
           "Graphing linear equations",
           "Slope of a line",
           "Finding slope from points",
@@ -50,8 +50,8 @@
         ]
       },
       {
-        "topicName": "Systems of Linear Equations",
-        "subTopics": [
+        "topic_name": "Systems of Linear Equations",
+        "sub_topics": [
           "Systems of linear equations",
           "Solving systems by graphing",
           "Solving systems algebraically",
@@ -63,8 +63,8 @@
         ]
       },
       {
-        "topicName": "Functions",
-        "subTopics": [
+        "topic_name": "Functions",
+        "sub_topics": [
           "Understanding functions",
           "Function notation",
           "Representing functions",
@@ -77,8 +77,8 @@
         ]
       },
       {
-        "topicName": "Geometry & Transformations",
-        "subTopics": [
+        "topic_name": "Geometry & Transformations",
+        "sub_topics": [
           "Lines and geometric proofs",
           "Angles of triangles",
           "Polygons and angles",
@@ -96,8 +96,8 @@
         ]
       },
       {
-        "topicName": "Triangles & the Pythagorean Theorem",
-        "subTopics": [
+        "topic_name": "Triangles & the Pythagorean Theorem",
+        "sub_topics": [
           "Lines and line segments",
           "Geometric proof",
           "Angles of triangles",
@@ -109,8 +109,8 @@
         ]
       },
       {
-        "topicName": "Volume & Surface Area",
-        "subTopics": [
+        "topic_name": "Volume & Surface Area",
+        "sub_topics": [
           "Volume and surface area of prisms",
           "Volume and surface area of pyramids",
           "Volume and surface area of cylinders",
@@ -123,8 +123,8 @@
         ]
       },
       {
-        "topicName": "Data Analysis & Statistics",
-        "subTopics": [
+        "topic_name": "Data Analysis & Statistics",
+        "sub_topics": [
           "Data collection and organization",
           "Stem-and-leaf plots",
           "Mean (average)",
@@ -142,8 +142,8 @@
         ]
       },
       {
-        "topicName": "Data Displays",
-        "subTopics": [
+        "topic_name": "Data Displays",
+        "sub_topics": [
           "Bar graphs and histograms",
           "Line graphs",
           "Circle graphs and pie charts",
@@ -156,8 +156,8 @@
         ]
       },
       {
-        "topicName": "Probability",
-        "subTopics": [
+        "topic_name": "Probability",
+        "sub_topics": [
           "Introduction to probability",
           "Theoretical probability",
           "Experimental probability",

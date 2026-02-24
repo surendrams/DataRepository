@@ -3,11 +3,11 @@
     "grade": "8",
     "subject": "Biology",
     "reference": "Spectrum Science, Grade 8 / ISBN 9781483811727 / Spectrum",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Nature of Life Science & Scientific Inquiry",
-        "subTopics": [
-          "What is biology and its branches?",
+        "topic_name": "Nature of Life Science & Scientific Inquiry",
+        "sub_topics": [
+          "What is biology and its branches",
           "Scientific methods and inquiry process",
           "Forming hypotheses and testable questions",
           "Designing and conducting controlled experiments",
@@ -22,8 +22,8 @@
         ]
       },
       {
-        "topicName": "Cell Biology",
-        "subTopics": [
+        "topic_name": "Cell Biology",
+        "sub_topics": [
           "Cell theory and its history",
           "Prokaryotic and eukaryotic cells",
           "Structure and function of cell organelles",
@@ -41,8 +41,8 @@
         ]
       },
       {
-        "topicName": "Cell Processes & Energy",
-        "subTopics": [
+        "topic_name": "Cell Processes & Energy",
+        "sub_topics": [
           "Photosynthesis and its overall equation",
           "Light-dependent and light-independent reactions",
           "Role of chlorophyll and light energy",
@@ -59,8 +59,8 @@
         ]
       },
       {
-        "topicName": "Cell Division & the Cell Cycle",
-        "subTopics": [
+        "topic_name": "Cell Division & the Cell Cycle",
+        "sub_topics": [
           "The cell cycle (interphase, mitosis, cytokinesis)",
           "DNA replication during interphase",
           "Phases of mitosis (prophase, metaphase, anaphase, telophase)",
@@ -76,8 +76,8 @@
         ]
       },
       {
-        "topicName": "Genetics & Heredity",
-        "subTopics": [
+        "topic_name": "Genetics & Heredity",
+        "sub_topics": [
           "Introduction to heredity and traits",
           "Gregor Mendel's experiments with pea plants",
           "Law of segregation",
@@ -96,8 +96,8 @@
         ]
       },
       {
-        "topicName": "DNA, RNA & Protein Synthesis",
-        "subTopics": [
+        "topic_name": "DNA, RNA & Protein Synthesis",
+        "sub_topics": [
           "Structure of DNA (double helix, nucleotides, base pairing)",
           "DNA replication process",
           "Genes and their role in heredity",
@@ -113,8 +113,8 @@
         ]
       },
       {
-        "topicName": "Biotechnology & Genetic Engineering",
-        "subTopics": [
+        "topic_name": "Biotechnology & Genetic Engineering",
+        "sub_topics": [
           "Introduction to biotechnology",
           "Recombinant DNA technology",
           "Restriction enzymes and DNA cutting",
@@ -131,8 +131,8 @@
         ]
       },
       {
-        "topicName": "Classification & Diversity of Life",
-        "subTopics": [
+        "topic_name": "Classification & Diversity of Life",
+        "sub_topics": [
           "Need for classification and taxonomy",
           "Carolus Linnaeus and binomial nomenclature",
           "Levels of classification (domain, kingdom, phylum, class, order, family, genus, species)",
@@ -150,8 +150,8 @@
         ]
       },
       {
-        "topicName": "Microorganisms & Viruses",
-        "subTopics": [
+        "topic_name": "Microorganisms & Viruses",
+        "sub_topics": [
           "Characteristics and structure of viruses",
           "Lytic and lysogenic replication cycles",
           "Viral diseases and their impact (influenza, HIV, COVID-19)",
@@ -167,8 +167,8 @@
         ]
       },
       {
-        "topicName": "Plants: Structure, Function & Reproduction",
-        "subTopics": [
+        "topic_name": "Plants: Structure, Function & Reproduction",
+        "sub_topics": [
           "Characteristics and importance of plants",
           "Vascular and nonvascular plants",
           "Seedless plants (mosses, liverworts, ferns, horsetails)",
@@ -186,8 +186,8 @@
         ]
       },
       {
-        "topicName": "Animals: Diversity, Structure & Function",
-        "subTopics": [
+        "topic_name": "Animals: Diversity, Structure & Function",
+        "sub_topics": [
           "Characteristics of animals",
           "Invertebrate phyla overview (Porifera, Cnidaria, Platyhelminthes, Nematoda, Annelida, Mollusca, Echinodermata, Arthropoda)",
           "Arthropod diversity (insects, arachnids, crustaceans, myriapods)",
@@ -205,8 +205,8 @@
         ]
       },
       {
-        "topicName": "Human Body Systems",
-        "subTopics": [
+        "topic_name": "Human Body Systems",
+        "sub_topics": [
           "Levels of organization (cells, tissues, organs, organ systems, organism)",
           "Integumentary system (skin, hair, nails)",
           "Skeletal system (bones, joints, cartilage)",
@@ -224,8 +224,8 @@
         ]
       },
       {
-        "topicName": "Ecology & Ecosystems",
-        "subTopics": [
+        "topic_name": "Ecology & Ecosystems",
+        "sub_topics": [
           "Biotic and abiotic factors in ecosystems",
           "Populations, communities, ecosystems, and the biosphere",
           "Ecological niches and habitats",
@@ -244,8 +244,8 @@
         ]
       },
       {
-        "topicName": "Population Biology & Community Ecology",
-        "subTopics": [
+        "topic_name": "Population Biology & Community Ecology",
+        "sub_topics": [
           "Population characteristics (size, density, distribution, age structure)",
           "Population growth models (exponential and logistic growth)",
           "Carrying capacity and its significance",
@@ -261,8 +261,8 @@
         ]
       },
       {
-        "topicName": "Evolution & Natural Selection",
-        "subTopics": [
+        "topic_name": "Evolution & Natural Selection",
+        "sub_topics": [
           "Early theories of evolution (Lamarck, Darwin)",
           "Charles Darwin and the voyage of the Beagle",
           "Natural selection and survival of the fittest",
@@ -280,8 +280,8 @@
         ]
       },
       {
-        "topicName": "Human Impact on the Environment & Conservation",
-        "subTopics": [
+        "topic_name": "Human Impact on the Environment & Conservation",
+        "sub_topics": [
           "Human population growth and resource consumption",
           "Land use changes (deforestation, urbanization, agriculture)",
           "Water pollution and freshwater scarcity",

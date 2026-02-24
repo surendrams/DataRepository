@@ -3,11 +3,11 @@
     "grade": "8",
     "subject": "Physics",
     "reference": "Glencoe Physical iScience, Grade 8 / ISBN 9780078893872 / McGraw-Hill/Glencoe",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Nature of Science & Engineering",
-        "subTopics": [
-          "What is physical science?",
+        "topic_name": "Nature of Science & Engineering",
+        "sub_topics": [
+          "What is physical science",
           "Scientific inquiry and the scientific method",
           "Forming hypotheses and testable questions",
           "Designing and conducting controlled experiments",
@@ -25,8 +25,8 @@
         ]
       },
       {
-        "topicName": "Matter & Its Properties",
-        "subTopics": [
+        "topic_name": "Matter & Its Properties",
+        "sub_topics": [
           "Definition and properties of matter",
           "Physical properties and their measurement",
           "Chemical properties of matter",
@@ -44,8 +44,8 @@
         ]
       },
       {
-        "topicName": "Atoms, Elements & the Periodic Table",
-        "subTopics": [
+        "topic_name": "Atoms, Elements & the Periodic Table",
+        "sub_topics": [
           "History of atomic theory (Dalton, Thomson, Rutherford, Bohr, modern model)",
           "Structure of the atom (protons, neutrons, electrons)",
           "Atomic number and mass number",
@@ -61,8 +61,8 @@
         ]
       },
       {
-        "topicName": "Chemical Bonding & Compounds",
-        "subTopics": [
+        "topic_name": "Chemical Bonding & Compounds",
+        "sub_topics": [
           "Why atoms form chemical bonds",
           "Ionic bonds and the formation of ionic compounds",
           "Properties of ionic compounds",
@@ -78,9 +78,9 @@
         ]
       },
       {
-        "topicName": "Chemical Reactions & Equations",
-        "subTopics": [
-          "What is a chemical reaction?",
+        "topic_name": "Chemical Reactions & Equations",
+        "sub_topics": [
+          "What is a chemical reaction",
           "Reactants and products",
           "Writing chemical equations",
           "Balancing chemical equations",
@@ -97,8 +97,8 @@
         ]
       },
       {
-        "topicName": "Solutions, Acids & Bases",
-        "subTopics": [
+        "topic_name": "Solutions, Acids & Bases",
+        "sub_topics": [
           "Solutions and their properties",
           "Solute, solvent, and the dissolving process",
           "Factors affecting solubility (temperature, pressure, particle size)",
@@ -114,8 +114,8 @@
         ]
       },
       {
-        "topicName": "Motion & Speed",
-        "subTopics": [
+        "topic_name": "Motion & Speed",
+        "sub_topics": [
           "Describing motion and frames of reference",
           "Distance and displacement",
           "Speed and average speed",
@@ -131,9 +131,9 @@
         ]
       },
       {
-        "topicName": "Forces & Newton's Laws",
-        "subTopics": [
-          "What is a force?",
+        "topic_name": "Forces & Newton's Laws",
+        "sub_topics": [
+          "What is a force",
           "Measuring force (Newtons)",
           "Net force and free body diagrams",
           "Balanced and unbalanced forces",
@@ -150,13 +150,13 @@
         ]
       },
       {
-        "topicName": "Work, Power & Simple Machines",
-        "subTopics": [
+        "topic_name": "Work, Power & Simple Machines",
+        "sub_topics": [
           "Definition and calculation of work (W = F × d)",
           "Conditions necessary for work to be done",
           "Power and its calculation (P = W/t)",
           "Units of work and power (joules, watts)",
-          "What is a machine and its purpose?",
+          "What is a machine and its purpose",
           "Input force, output force, and mechanical advantage",
           "Efficiency of machines",
           "Levers and their three classes",
@@ -169,9 +169,9 @@
         ]
       },
       {
-        "topicName": "Energy & Its Conservation",
-        "subTopics": [
-          "What is energy and its units (joules)?",
+        "topic_name": "Energy & Its Conservation",
+        "sub_topics": [
+          "What is energy and its units (joules)",
           "Kinetic energy and its calculation (KE = ½mv²)",
           "Gravitational potential energy and its calculation (PE = mgh)",
           "Elastic potential energy",
@@ -189,8 +189,8 @@
         ]
       },
       {
-        "topicName": "Thermal Energy, Heat & Thermodynamics",
-        "subTopics": [
+        "topic_name": "Thermal Energy, Heat & Thermodynamics",
+        "sub_topics": [
           "Thermal energy and its relationship to particle motion",
           "Temperature and thermometers",
           "Difference between heat and temperature",
@@ -206,9 +206,9 @@
         ]
       },
       {
-        "topicName": "Waves, Sound & Light",
-        "subTopics": [
-          "What is a wave and wave characteristics?",
+        "topic_name": "Waves, Sound & Light",
+        "sub_topics": [
+          "What is a wave and wave characteristics",
           "Wavelength, frequency, amplitude, and wave speed",
           "Transverse and longitudinal waves",
           "Mechanical vs. electromagnetic waves",
@@ -228,8 +228,8 @@
         ]
       },
       {
-        "topicName": "Electricity",
-        "subTopics": [
+        "topic_name": "Electricity",
+        "sub_topics": [
           "Electric charge and the law of electric charges",
           "Static electricity and static discharge",
           "Electric force and Coulomb's law (introduction)",
@@ -248,8 +248,8 @@
         ]
       },
       {
-        "topicName": "Magnetism & Electromagnetism",
-        "subTopics": [
+        "topic_name": "Magnetism & Electromagnetism",
+        "sub_topics": [
           "Properties of magnets and magnetic poles",
           "Magnetic force and its characteristics",
           "Magnetic fields and field lines",
@@ -266,8 +266,8 @@
         ]
       },
       {
-        "topicName": "Nuclear Science & Radioactivity",
-        "subTopics": [
+        "topic_name": "Nuclear Science & Radioactivity",
+        "sub_topics": [
           "Structure of the nucleus",
           "Nuclear forces and stability",
           "Radioactivity and radioactive decay",
@@ -284,8 +284,8 @@
         ]
       },
       {
-        "topicName": "Earth & Space Applications of Physical Science",
-        "subTopics": [
+        "topic_name": "Earth & Space Applications of Physical Science",
+        "sub_topics": [
           "Gravitational forces and planetary motion",
           "Kepler's laws of planetary motion (introduction)",
           "Physical properties of Earth's layers",

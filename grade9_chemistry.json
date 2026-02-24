@@ -3,11 +3,11 @@
     "grade": "9",
     "subject": "Chemistry",
     "reference": "Inspire Physical Science with Earth, Grades 9-12 / ISBN 9780076716852 / McGraw-Hill",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Nature of Science & Scientific Inquiry",
-        "subTopics": [
-          "What is chemistry and its branches?",
+        "topic_name": "Nature of Science & Scientific Inquiry",
+        "sub_topics": [
+          "What is chemistry and its branches",
           "Scientific methods and the inquiry process",
           "Forming hypotheses and testable questions",
           "Designing and conducting controlled experiments",
@@ -25,8 +25,8 @@
         ]
       },
       {
-        "topicName": "Matter & Its Properties",
-        "subTopics": [
+        "topic_name": "Matter & Its Properties",
+        "sub_topics": [
           "Definition and classification of matter",
           "Physical properties and their measurement",
           "Chemical properties of matter",
@@ -44,8 +44,8 @@
         ]
       },
       {
-        "topicName": "States of Matter & Gas Laws",
-        "subTopics": [
+        "topic_name": "States of Matter & Gas Laws",
+        "sub_topics": [
           "The four states of matter (solid, liquid, gas, plasma)",
           "Kinetic molecular theory and its postulates",
           "Properties of solids (crystalline and amorphous)",
@@ -65,8 +65,8 @@
         ]
       },
       {
-        "topicName": "Atomic Structure & Theory",
-        "subTopics": [
+        "topic_name": "Atomic Structure & Theory",
+        "sub_topics": [
           "Early atomic models (Dalton's model)",
           "Thomson's cathode ray tube experiment and the electron",
           "Rutherford's gold foil experiment and the nuclear model",
@@ -85,8 +85,8 @@
         ]
       },
       {
-        "topicName": "The Periodic Table & Periodic Trends",
-        "subTopics": [
+        "topic_name": "The Periodic Table & Periodic Trends",
+        "sub_topics": [
           "History and development of the periodic table",
           "Mendeleev's periodic law and contributions",
           "Modern periodic table organization (periods and groups)",
@@ -108,8 +108,8 @@
         ]
       },
       {
-        "topicName": "Chemical Bonding",
-        "subTopics": [
+        "topic_name": "Chemical Bonding",
+        "sub_topics": [
           "Why atoms form chemical bonds",
           "Valence electrons and the octet rule",
           "Ionic bonds and the transfer of electrons",
@@ -131,8 +131,8 @@
         ]
       },
       {
-        "topicName": "Chemical Formulas & Nomenclature",
-        "subTopics": [
+        "topic_name": "Chemical Formulas & Nomenclature",
+        "sub_topics": [
           "Chemical symbols and their significance",
           "Writing and interpreting chemical formulas",
           "Ionic compound formulas and charge balance",
@@ -151,9 +151,9 @@
         ]
       },
       {
-        "topicName": "Chemical Reactions & Stoichiometry",
-        "subTopics": [
-          "What is a chemical reaction?",
+        "topic_name": "Chemical Reactions & Stoichiometry",
+        "sub_topics": [
+          "What is a chemical reaction",
           "Evidence of a chemical reaction",
           "Writing word and skeleton equations",
           "Balancing chemical equations",
@@ -173,9 +173,9 @@
         ]
       },
       {
-        "topicName": "Reaction Rates & Chemical Equilibrium",
-        "subTopics": [
-          "What is reaction rate?",
+        "topic_name": "Reaction Rates & Chemical Equilibrium",
+        "sub_topics": [
+          "What is reaction rate",
           "Measuring and expressing reaction rates",
           "Collision theory and effective collisions",
           "Activation energy and energy diagrams",
@@ -194,9 +194,9 @@
         ]
       },
       {
-        "topicName": "Solutions & Concentration",
-        "subTopics": [
-          "What is a solution?",
+        "topic_name": "Solutions & Concentration",
+        "sub_topics": [
+          "What is a solution",
           "Types of solutions (gaseous, liquid, solid)",
           "Solute, solvent, and the dissolving process",
           "Solvation and hydration",
@@ -214,8 +214,8 @@
         ]
       },
       {
-        "topicName": "Acids, Bases & Salts",
-        "subTopics": [
+        "topic_name": "Acids, Bases & Salts",
+        "sub_topics": [
           "Properties and characteristics of acids",
           "Properties and characteristics of bases",
           "Arrhenius definition of acids and bases",
@@ -236,8 +236,8 @@
         ]
       },
       {
-        "topicName": "Thermochemistry",
-        "subTopics": [
+        "topic_name": "Thermochemistry",
+        "sub_topics": [
           "Energy and its forms",
           "System and surroundings in thermochemistry",
           "Endothermic and exothermic processes",
@@ -256,8 +256,8 @@
         ]
       },
       {
-        "topicName": "Electrochemistry & Redox Reactions",
-        "subTopics": [
+        "topic_name": "Electrochemistry & Redox Reactions",
+        "sub_topics": [
           "Oxidation and reduction concepts",
           "Assigning oxidation numbers",
           "Identifying oxidizing and reducing agents",
@@ -274,8 +274,8 @@
         ]
       },
       {
-        "topicName": "Organic Chemistry",
-        "subTopics": [
+        "topic_name": "Organic Chemistry",
+        "sub_topics": [
           "Introduction to organic chemistry and carbon bonding",
           "Hydrocarbons (alkanes, alkenes, alkynes)",
           "Naming hydrocarbons (IUPAC nomenclature)",
@@ -294,8 +294,8 @@
         ]
       },
       {
-        "topicName": "Nuclear Chemistry",
-        "subTopics": [
+        "topic_name": "Nuclear Chemistry",
+        "sub_topics": [
           "Structure and stability of the atomic nucleus",
           "Nuclear forces and binding energy",
           "Radioactivity and types of radioactive decay",
@@ -314,8 +314,8 @@
         ]
       },
       {
-        "topicName": "Earth Science Connections to Chemistry",
-        "subTopics": [
+        "topic_name": "Earth Science Connections to Chemistry",
+        "sub_topics": [
           "Chemical composition of Earth's crust, mantle, and core",
           "Minerals and their chemical properties",
           "Rocks and the rock cycle (chemical perspective)",

@@ -3,10 +3,10 @@
     "grade": "7",
     "subject": "General Science",
     "reference": "Inspire Science, Grade 7 / ISBN 9780076876869 / McGraw-Hill",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Nature of Science & Engineering Design",
-        "subTopics": [
+        "topic_name": "Nature of Science & Engineering Design",
+        "sub_topics": [
           "Scientific inquiry and investigation",
           "Forming hypotheses and testable questions",
           "Designing controlled experiments",
@@ -22,8 +22,8 @@
         ]
       },
       {
-        "topicName": "Matter & Atomic Structure",
-        "subTopics": [
+        "topic_name": "Matter & Atomic Structure",
+        "sub_topics": [
           "Properties of matter",
           "Physical and chemical properties",
           "Structure of the atom",
@@ -39,8 +39,8 @@
         ]
       },
       {
-        "topicName": "States of Matter & Energy",
-        "subTopics": [
+        "topic_name": "States of Matter & Energy",
+        "sub_topics": [
           "States of matter (solid, liquid, gas, plasma)",
           "Kinetic molecular theory",
           "Changes of state (melting, freezing, evaporation, condensation, sublimation)",
@@ -54,8 +54,8 @@
         ]
       },
       {
-        "topicName": "Chemical Reactions & Substances",
-        "subTopics": [
+        "topic_name": "Chemical Reactions & Substances",
+        "sub_topics": [
           "Elements, compounds, and mixtures",
           "Separating mixtures",
           "Solutions, solutes, and solvents",
@@ -71,8 +71,8 @@
         ]
       },
       {
-        "topicName": "Forces & Motion",
-        "subTopics": [
+        "topic_name": "Forces & Motion",
+        "sub_topics": [
           "Describing motion and reference frames",
           "Distance, displacement, speed, and velocity",
           "Acceleration",
@@ -88,8 +88,8 @@
         ]
       },
       {
-        "topicName": "Energy & Its Transformations",
-        "subTopics": [
+        "topic_name": "Energy & Its Transformations",
+        "sub_topics": [
           "Forms of energy",
           "Kinetic and potential energy",
           "Mechanical energy",
@@ -105,8 +105,8 @@
         ]
       },
       {
-        "topicName": "Waves, Sound & Light",
-        "subTopics": [
+        "topic_name": "Waves, Sound & Light",
+        "sub_topics": [
           "Properties of waves (wavelength, frequency, amplitude, speed)",
           "Transverse and longitudinal waves",
           "Wave interactions (reflection, refraction, diffraction, interference)",
@@ -122,8 +122,8 @@
         ]
       },
       {
-        "topicName": "Electricity & Magnetism",
-        "subTopics": [
+        "topic_name": "Electricity & Magnetism",
+        "sub_topics": [
           "Electric charge and static electricity",
           "Electric current and circuits",
           "Voltage, resistance, and Ohm's law",
@@ -138,8 +138,8 @@
         ]
       },
       {
-        "topicName": "Cells & Life Processes",
-        "subTopics": [
+        "topic_name": "Cells & Life Processes",
+        "sub_topics": [
           "Characteristics of living things",
           "Cell theory",
           "Prokaryotic and eukaryotic cells",
@@ -155,8 +155,8 @@
         ]
       },
       {
-        "topicName": "Genetics & Heredity",
-        "subTopics": [
+        "topic_name": "Genetics & Heredity",
+        "sub_topics": [
           "Introduction to heredity",
           "Genes, alleles, and traits",
           "DNA structure and function",
@@ -172,8 +172,8 @@
         ]
       },
       {
-        "topicName": "Ecosystems & Interactions",
-        "subTopics": [
+        "topic_name": "Ecosystems & Interactions",
+        "sub_topics": [
           "Biotic and abiotic factors",
           "Populations, communities, and ecosystems",
           "Habitats and ecological niches",
@@ -189,8 +189,8 @@
         ]
       },
       {
-        "topicName": "Earth's Systems & Plate Tectonics",
-        "subTopics": [
+        "topic_name": "Earth's Systems & Plate Tectonics",
+        "sub_topics": [
           "Earth's layers and internal structure",
           "Theory of plate tectonics",
           "Types of plate boundaries",
@@ -206,8 +206,8 @@
         ]
       },
       {
-        "topicName": "Weather, Climate & the Atmosphere",
-        "subTopics": [
+        "topic_name": "Weather, Climate & the Atmosphere",
+        "sub_topics": [
           "Composition and structure of the atmosphere",
           "Energy from the Sun and atmospheric heating",
           "Wind patterns and atmospheric circulation",
@@ -223,8 +223,8 @@
         ]
       },
       {
-        "topicName": "Earth's Resources & Human Impact",
-        "subTopics": [
+        "topic_name": "Earth's Resources & Human Impact",
+        "sub_topics": [
           "Renewable and nonrenewable resources",
           "Fossil fuels and their environmental impact",
           "Alternative and renewable energy sources",
@@ -240,8 +240,8 @@
         ]
       },
       {
-        "topicName": "Space Science & the Universe",
-        "subTopics": [
+        "topic_name": "Space Science & the Universe",
+        "sub_topics": [
           "Earth's motions (rotation and revolution)",
           "Seasons and the tilt of Earth's axis",
           "Moon phases and eclipses",

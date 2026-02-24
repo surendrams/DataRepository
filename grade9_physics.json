@@ -3,11 +3,11 @@
     "grade": "9",
     "subject": "Physics",
     "reference": "Inspire Physical Science with Earth, Grades 9-12 / ISBN 9780076716852 / McGraw-Hill",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Nature of Science & Scientific Inquiry",
-        "subTopics": [
-          "What is physics and its branches?",
+        "topic_name": "Nature of Science & Scientific Inquiry",
+        "sub_topics": [
+          "What is physics and its branches",
           "Scientific methods and the inquiry process",
           "Forming hypotheses and testable questions",
           "Designing and conducting controlled experiments",
@@ -25,8 +25,8 @@
         ]
       },
       {
-        "topicName": "Mathematics of Physics",
-        "subTopics": [
+        "topic_name": "Mathematics of Physics",
+        "sub_topics": [
           "Scalars and vectors",
           "Vector representation and notation",
           "Adding and subtracting vectors (graphical method)",
@@ -42,8 +42,8 @@
         ]
       },
       {
-        "topicName": "Kinematics: Describing Motion",
-        "subTopics": [
+        "topic_name": "Kinematics: Describing Motion",
+        "sub_topics": [
           "Reference frames and coordinate systems",
           "Distance vs. displacement",
           "Speed vs. velocity",
@@ -61,8 +61,8 @@
         ]
       },
       {
-        "topicName": "Projectile & Two-Dimensional Motion",
-        "subTopics": [
+        "topic_name": "Projectile & Two-Dimensional Motion",
+        "sub_topics": [
           "Independence of horizontal and vertical motion",
           "Projectile motion definition and characteristics",
           "Horizontal projectile motion",
@@ -79,9 +79,9 @@
         ]
       },
       {
-        "topicName": "Forces & Newton's Laws of Motion",
-        "subTopics": [
-          "What is a force and its units (Newtons)?",
+        "topic_name": "Forces & Newton's Laws of Motion",
+        "sub_topics": [
+          "What is a force and its units (Newtons)",
           "Contact forces and field forces",
           "Free body diagrams",
           "Net force and resultant force",
@@ -99,8 +99,8 @@
         ]
       },
       {
-        "topicName": "Gravity & Circular Motion",
-        "subTopics": [
+        "topic_name": "Gravity & Circular Motion",
+        "sub_topics": [
           "Newton's law of universal gravitation",
           "Gravitational force between two masses",
           "Gravitational field strength",
@@ -117,8 +117,8 @@
         ]
       },
       {
-        "topicName": "Work, Energy & Power",
-        "subTopics": [
+        "topic_name": "Work, Energy & Power",
+        "sub_topics": [
           "Definition and calculation of work (W = Fd cosθ)",
           "Conditions necessary for work to be done",
           "Work done by a constant and variable force",
@@ -136,8 +136,8 @@
         ]
       },
       {
-        "topicName": "Momentum & Collisions",
-        "subTopics": [
+        "topic_name": "Momentum & Collisions",
+        "sub_topics": [
           "Linear momentum (p = mv)",
           "Impulse and impulse-momentum theorem",
           "Impulse-momentum calculations",
@@ -154,9 +154,9 @@
         ]
       },
       {
-        "topicName": "Simple Machines, Work & Mechanical Advantage",
-        "subTopics": [
-          "What is a machine and its purpose?",
+        "topic_name": "Simple Machines, Work & Mechanical Advantage",
+        "sub_topics": [
+          "What is a machine and its purpose",
           "Input force, output force, and mechanical advantage",
           "Ideal mechanical advantage vs. actual mechanical advantage",
           "Efficiency of machines",
@@ -171,8 +171,8 @@
         ]
       },
       {
-        "topicName": "Thermal Energy, Heat & Thermodynamics",
-        "subTopics": [
+        "topic_name": "Thermal Energy, Heat & Thermodynamics",
+        "sub_topics": [
           "Thermal energy and particle motion",
           "Temperature and thermometers (Celsius, Fahrenheit, Kelvin)",
           "Difference between heat and temperature",
@@ -191,9 +191,9 @@
         ]
       },
       {
-        "topicName": "Waves & Wave Properties",
-        "subTopics": [
-          "What is a wave and how is it produced?",
+        "topic_name": "Waves & Wave Properties",
+        "sub_topics": [
+          "What is a wave and how is it produced",
           "Parts of a wave (crest, trough, wavelength, amplitude)",
           "Wave frequency, period, and their relationship",
           "Wave speed and the wave equation (v = fλ)",
@@ -210,8 +210,8 @@
         ]
       },
       {
-        "topicName": "Sound & Acoustics",
-        "subTopics": [
+        "topic_name": "Sound & Acoustics",
+        "sub_topics": [
           "Production and propagation of sound waves",
           "Sound as a longitudinal mechanical wave",
           "Speed of sound in different media (solids, liquids, gases)",
@@ -230,8 +230,8 @@
         ]
       },
       {
-        "topicName": "Electromagnetic Waves & Light",
-        "subTopics": [
+        "topic_name": "Electromagnetic Waves & Light",
+        "sub_topics": [
           "Electromagnetic waves and their properties",
           "The electromagnetic spectrum (radio, microwave, infrared, visible, UV, X-ray, gamma)",
           "Speed of light and its constancy",
@@ -252,8 +252,8 @@
         ]
       },
       {
-        "topicName": "Electricity",
-        "subTopics": [
+        "topic_name": "Electricity",
+        "sub_topics": [
           "Electric charge and the law of electric charges",
           "Charging by friction, conduction, and induction",
           "Static electricity and static discharge",
@@ -274,8 +274,8 @@
         ]
       },
       {
-        "topicName": "Magnetism & Electromagnetism",
-        "subTopics": [
+        "topic_name": "Magnetism & Electromagnetism",
+        "sub_topics": [
           "Properties of magnets and magnetic poles",
           "Magnetic force and its characteristics",
           "Magnetic fields and field lines",
@@ -294,8 +294,8 @@
         ]
       },
       {
-        "topicName": "Nuclear Physics & Modern Physics",
-        "subTopics": [
+        "topic_name": "Nuclear Physics & Modern Physics",
+        "sub_topics": [
           "Structure and stability of the atomic nucleus",
           "Nuclear forces and binding energy",
           "Radioactivity and types of radioactive decay (alpha, beta, gamma)",
@@ -314,8 +314,8 @@
         ]
       },
       {
-        "topicName": "Earth Science Applications of Physics",
-        "subTopics": [
+        "topic_name": "Earth Science Applications of Physics",
+        "sub_topics": [
           "Gravitational forces and Earth's structure",
           "Seismic waves (P-waves and S-waves) and Earth's interior",
           "Earthquakes and the physics of seismic activity",

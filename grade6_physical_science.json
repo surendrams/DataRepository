@@ -3,11 +3,11 @@
     "grade": "6",
     "subject": "Physical Science",
     "reference": "Glencoe Science: Physical Science, Grade 6 / ISBN 9780076774562 / McGraw-Hill/Glencoe",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Nature of Science & Scientific Inquiry",
-        "subTopics": [
-          "What is science?",
+        "topic_name": "Nature of Science & Scientific Inquiry",
+        "sub_topics": [
+          "What is science",
           "Scientific methods and inquiry",
           "Forming hypotheses and predictions",
           "Designing and conducting experiments",
@@ -21,8 +21,8 @@
         ]
       },
       {
-        "topicName": "Matter & Its Properties",
-        "subTopics": [
+        "topic_name": "Matter & Its Properties",
+        "sub_topics": [
           "Definition and properties of matter",
           "Physical properties of matter",
           "Chemical properties of matter",
@@ -37,8 +37,8 @@
         ]
       },
       {
-        "topicName": "Atoms & the Periodic Table",
-        "subTopics": [
+        "topic_name": "Atoms & the Periodic Table",
+        "sub_topics": [
           "Structure of the atom",
           "Protons, neutrons, and electrons",
           "Atomic number and mass number",
@@ -53,8 +53,8 @@
         ]
       },
       {
-        "topicName": "Chemical Bonds & Compounds",
-        "subTopics": [
+        "topic_name": "Chemical Bonds & Compounds",
+        "sub_topics": [
           "Why atoms bond",
           "Valence electrons",
           "Ionic bonds and ionic compounds",
@@ -69,9 +69,9 @@
         ]
       },
       {
-        "topicName": "Chemical Reactions",
-        "subTopics": [
-          "What is a chemical reaction?",
+        "topic_name": "Chemical Reactions",
+        "sub_topics": [
+          "What is a chemical reaction",
           "Reactants and products",
           "Chemical equations",
           "Balancing chemical equations",
@@ -85,8 +85,8 @@
         ]
       },
       {
-        "topicName": "Solutions, Acids & Bases",
-        "subTopics": [
+        "topic_name": "Solutions, Acids & Bases",
+        "sub_topics": [
           "Solutions and their properties",
           "Solute and solvent",
           "Concentration and solubility",
@@ -101,8 +101,8 @@
         ]
       },
       {
-        "topicName": "Motion & Forces",
-        "subTopics": [
+        "topic_name": "Motion & Forces",
+        "sub_topics": [
           "Describing motion",
           "Distance, displacement, speed, and velocity",
           "Acceleration",
@@ -117,8 +117,8 @@
         ]
       },
       {
-        "topicName": "Work, Power & Simple Machines",
-        "subTopics": [
+        "topic_name": "Work, Power & Simple Machines",
+        "sub_topics": [
           "Definition of work",
           "Calculating work (W = F × d)",
           "Power and calculating power",
@@ -133,9 +133,9 @@
         ]
       },
       {
-        "topicName": "Energy",
-        "subTopics": [
-          "What is energy?",
+        "topic_name": "Energy",
+        "sub_topics": [
+          "What is energy",
           "Kinetic energy",
           "Potential energy (gravitational and elastic)",
           "Mechanical energy",
@@ -150,8 +150,8 @@
         ]
       },
       {
-        "topicName": "Thermal Energy & Heat",
-        "subTopics": [
+        "topic_name": "Thermal Energy & Heat",
+        "sub_topics": [
           "Thermal energy and temperature",
           "Heat vs. temperature",
           "Measuring temperature",
@@ -165,8 +165,8 @@
         ]
       },
       {
-        "topicName": "Waves, Sound & Light",
-        "subTopics": [
+        "topic_name": "Waves, Sound & Light",
+        "sub_topics": [
           "Properties of waves",
           "Wavelength, frequency, amplitude, and speed",
           "Transverse and longitudinal waves",
@@ -182,8 +182,8 @@
         ]
       },
       {
-        "topicName": "Electricity & Magnetism",
-        "subTopics": [
+        "topic_name": "Electricity & Magnetism",
+        "sub_topics": [
           "Electric charge and static electricity",
           "Electric force and Coulomb's law (introduction)",
           "Electric current",
@@ -199,8 +199,8 @@
         ]
       },
       {
-        "topicName": "Earth & Space Connection to Physical Science",
-        "subTopics": [
+        "topic_name": "Earth & Space Connection to Physical Science",
+        "sub_topics": [
           "Forces shaping Earth's surface",
           "Gravity and planetary motion",
           "Nuclear reactions in stars",

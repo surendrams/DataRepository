@@ -3,10 +3,10 @@
     "grade": "6",
     "subject": "General Science",
     "reference": "Inspire Science, Grade 6 / ISBN 9780076789169 / McGraw-Hill",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Nature of Science & Engineering",
-        "subTopics": [
+        "topic_name": "Nature of Science & Engineering",
+        "sub_topics": [
           "Scientific inquiry and investigation",
           "Designing experiments",
           "Collecting and analyzing data",
@@ -21,8 +21,8 @@
         ]
       },
       {
-        "topicName": "Matter & Its Properties",
-        "subTopics": [
+        "topic_name": "Matter & Its Properties",
+        "sub_topics": [
           "Properties of matter",
           "Physical and chemical properties",
           "States of matter (solid, liquid, gas, plasma)",
@@ -36,8 +36,8 @@
         ]
       },
       {
-        "topicName": "Energy",
-        "subTopics": [
+        "topic_name": "Energy",
+        "sub_topics": [
           "Forms of energy",
           "Kinetic and potential energy",
           "Thermal energy and heat",
@@ -51,8 +51,8 @@
         ]
       },
       {
-        "topicName": "Forces & Motion",
-        "subTopics": [
+        "topic_name": "Forces & Motion",
+        "sub_topics": [
           "Describing motion",
           "Speed, velocity, and acceleration",
           "Distance-time graphs",
@@ -66,8 +66,8 @@
         ]
       },
       {
-        "topicName": "Waves & Information Transfer",
-        "subTopics": [
+        "topic_name": "Waves & Information Transfer",
+        "sub_topics": [
           "Properties of waves",
           "Wavelength, frequency, and amplitude",
           "Transverse and longitudinal waves",
@@ -81,8 +81,8 @@
         ]
       },
       {
-        "topicName": "Cells & Living Systems",
-        "subTopics": [
+        "topic_name": "Cells & Living Systems",
+        "sub_topics": [
           "Characteristics of living things",
           "Cell theory",
           "Cell structure and function",
@@ -96,8 +96,8 @@
         ]
       },
       {
-        "topicName": "Body Systems",
-        "subTopics": [
+        "topic_name": "Body Systems",
+        "sub_topics": [
           "Skeletal and muscular systems",
           "Digestive system",
           "Circulatory and respiratory systems",
@@ -111,8 +111,8 @@
         ]
       },
       {
-        "topicName": "Ecosystems & Ecology",
-        "subTopics": [
+        "topic_name": "Ecosystems & Ecology",
+        "sub_topics": [
           "Biotic and abiotic factors",
           "Populations and communities",
           "Ecosystems and biomes",
@@ -126,8 +126,8 @@
         ]
       },
       {
-        "topicName": "Earth's Systems",
-        "subTopics": [
+        "topic_name": "Earth's Systems",
+        "sub_topics": [
           "Earth's layers and structure",
           "Plate tectonics",
           "Earthquakes and volcanoes",
@@ -141,8 +141,8 @@
         ]
       },
       {
-        "topicName": "Earth's Resources & Human Impact",
-        "subTopics": [
+        "topic_name": "Earth's Resources & Human Impact",
+        "sub_topics": [
           "Renewable and nonrenewable resources",
           "Fossil fuels and their formation",
           "Alternative energy sources",
@@ -156,8 +156,8 @@
         ]
       },
       {
-        "topicName": "Space Science",
-        "subTopics": [
+        "topic_name": "Space Science",
+        "sub_topics": [
           "Earth's place in the solar system",
           "Motions of Earth (rotation and revolution)",
           "Moon phases and eclipses",

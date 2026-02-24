@@ -3,10 +3,10 @@
     "grade": "12",
     "subject": "AP Calculus AB/BC",
     "reference": "Calculus: Graphical, Numerical, Algebraic, 5th Edition / ISBN 9780133178579 / AP Calculus with Limits, Larson 8th Edition / ISBN 9781337275361",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Limits and Continuity",
-        "subTopics": [
+        "topic_name": "Limits and Continuity",
+        "sub_topics": [
           "Limits of functions (properties and notation)",
           "Evaluating limits numerically, graphically, and algebraically",
           "Limits of indeterminate forms",
@@ -18,8 +18,8 @@
         ]
       },
       {
-        "topicName": "Differentiation - Definition and Basic Rules",
-        "subTopics": [
+        "topic_name": "Differentiation - Definition and Basic Rules",
+        "sub_topics": [
           "Average rate of change and the difference quotient",
           "Instantaneous rate of change and derivative definition",
           "Derivative as a limit",
@@ -32,8 +32,8 @@
         ]
       },
       {
-        "topicName": "Differentiation - Composite, Implicit, and Inverse Functions",
-        "subTopics": [
+        "topic_name": "Differentiation - Composite, Implicit, and Inverse Functions",
+        "sub_topics": [
           "Chain rule",
           "Implicit differentiation",
           "Derivatives of inverse functions",
@@ -44,8 +44,8 @@
         ]
       },
       {
-        "topicName": "Contextual Applications of Differentiation",
-        "subTopics": [
+        "topic_name": "Contextual Applications of Differentiation",
+        "sub_topics": [
           "Position, velocity, and acceleration",
           "Instantaneous rate of change in real contexts",
           "Related rates problems",
@@ -55,8 +55,8 @@
         ]
       },
       {
-        "topicName": "Analytical Applications of Differentiation",
-        "subTopics": [
+        "topic_name": "Analytical Applications of Differentiation",
+        "sub_topics": [
           "Extreme value theorem",
           "Finding critical points and extrema",
           "First derivative test",
@@ -68,8 +68,8 @@
         ]
       },
       {
-        "topicName": "Integration and Accumulation of Change",
-        "subTopics": [
+        "topic_name": "Integration and Accumulation of Change",
+        "sub_topics": [
           "Antiderivatives and indefinite integrals",
           "Riemann sums (left, right, midpoint, trapezoidal)",
           "Definite integrals",
@@ -81,8 +81,8 @@
         ]
       },
       {
-        "topicName": "Differential Equations",
-        "subTopics": [
+        "topic_name": "Differential Equations",
+        "sub_topics": [
           "Slope fields and solution curves",
           "Separable differential equations",
           "Particular solutions and initial value problems",
@@ -93,8 +93,8 @@
         ]
       },
       {
-        "topicName": "Applications of Integration",
-        "subTopics": [
+        "topic_name": "Applications of Integration",
+        "sub_topics": [
           "Area between curves",
           "Area under curves",
           "Volume of solids of revolution (disk and washer methods)",
@@ -106,8 +106,8 @@
         ]
       },
       {
-        "topicName": "Parametric Equations, Polar Coordinates, and Vector-Valued Functions (BC Only)",
-        "subTopics": [
+        "topic_name": "Parametric Equations, Polar Coordinates, and Vector-Valued Functions (BC Only)",
+        "sub_topics": [
           "Parametric curves and equations",
           "Parametric differentiation and integration",
           "Polar coordinates and polar curves",
@@ -119,8 +119,8 @@
         ]
       },
       {
-        "topicName": "Infinite Sequences and Series (BC Only)",
-        "subTopics": [
+        "topic_name": "Infinite Sequences and Series (BC Only)",
+        "sub_topics": [
           "Sequences and convergence",
           "Infinite series and convergence tests",
           "Geometric series",

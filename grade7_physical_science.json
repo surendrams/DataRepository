@@ -3,11 +3,11 @@
     "grade": "7",
     "subject": "Physical Science",
     "reference": "Physical Science Concepts, Grade 7 / ISBN 9780133628173 / Prentice Hall",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Nature of Science & Scientific Inquiry",
-        "subTopics": [
-          "What is physical science?",
+        "topic_name": "Nature of Science & Scientific Inquiry",
+        "sub_topics": [
+          "What is physical science",
           "Scientific methods and inquiry process",
           "Forming hypotheses and testable questions",
           "Designing and conducting experiments",
@@ -23,8 +23,8 @@
         ]
       },
       {
-        "topicName": "Matter & Its Properties",
-        "subTopics": [
+        "topic_name": "Matter & Its Properties",
+        "sub_topics": [
           "Definition and properties of matter",
           "Physical properties of matter",
           "Chemical properties of matter",
@@ -40,8 +40,8 @@
         ]
       },
       {
-        "topicName": "Atomic Structure & the Periodic Table",
-        "subTopics": [
+        "topic_name": "Atomic Structure & the Periodic Table",
+        "sub_topics": [
           "Early atomic models and history of atomic theory",
           "Structure of the atom (protons, neutrons, electrons)",
           "Atomic number and mass number",
@@ -57,8 +57,8 @@
         ]
       },
       {
-        "topicName": "Chemical Bonding & Compounds",
-        "subTopics": [
+        "topic_name": "Chemical Bonding & Compounds",
+        "sub_topics": [
           "Why atoms form chemical bonds",
           "Ionic bonds and ionic compounds",
           "Covalent bonds and molecules",
@@ -74,9 +74,9 @@
         ]
       },
       {
-        "topicName": "Chemical Reactions",
-        "subTopics": [
-          "What is a chemical reaction?",
+        "topic_name": "Chemical Reactions",
+        "sub_topics": [
+          "What is a chemical reaction",
           "Reactants and products",
           "Writing and interpreting chemical equations",
           "Balancing chemical equations",
@@ -92,8 +92,8 @@
         ]
       },
       {
-        "topicName": "Solutions, Acids & Bases",
-        "subTopics": [
+        "topic_name": "Solutions, Acids & Bases",
+        "sub_topics": [
           "Solutions and their properties",
           "Solute, solvent, and the dissolving process",
           "Factors affecting solubility (temperature, pressure, surface area)",
@@ -110,8 +110,8 @@
         ]
       },
       {
-        "topicName": "Motion",
-        "subTopics": [
+        "topic_name": "Motion",
+        "sub_topics": [
           "Describing motion and reference frames",
           "Distance and displacement",
           "Speed and average speed",
@@ -126,9 +126,9 @@
         ]
       },
       {
-        "topicName": "Forces",
-        "subTopics": [
-          "What is a force?",
+        "topic_name": "Forces",
+        "sub_topics": [
+          "What is a force",
           "Measuring force and units (Newtons)",
           "Net force and free body diagrams",
           "Balanced and unbalanced forces",
@@ -144,13 +144,13 @@
         ]
       },
       {
-        "topicName": "Work, Power & Simple Machines",
-        "subTopics": [
+        "topic_name": "Work, Power & Simple Machines",
+        "sub_topics": [
           "Definition and calculation of work (W = F × d)",
           "Conditions required for work to be done",
           "Power and its calculation (P = W/t)",
           "Units of work and power",
-          "What is a machine?",
+          "What is a machine",
           "Mechanical advantage",
           "Efficiency of machines",
           "Levers and their three classes",
@@ -162,9 +162,9 @@
         ]
       },
       {
-        "topicName": "Energy",
-        "subTopics": [
-          "What is energy?",
+        "topic_name": "Energy",
+        "sub_topics": [
+          "What is energy",
           "Kinetic energy and its calculation",
           "Gravitational potential energy and its calculation",
           "Elastic potential energy",
@@ -181,8 +181,8 @@
         ]
       },
       {
-        "topicName": "Thermal Energy & Heat",
-        "subTopics": [
+        "topic_name": "Thermal Energy & Heat",
+        "sub_topics": [
           "Thermal energy and temperature",
           "Difference between heat and temperature",
           "Measuring temperature (Celsius, Fahrenheit, Kelvin)",
@@ -198,9 +198,9 @@
         ]
       },
       {
-        "topicName": "Waves & Sound",
-        "subTopics": [
-          "What is a wave?",
+        "topic_name": "Waves & Sound",
+        "sub_topics": [
+          "What is a wave",
           "Parts of a wave (crest, trough, wavelength, amplitude)",
           "Wave frequency and period",
           "Wave speed and the wave equation",
@@ -218,8 +218,8 @@
         ]
       },
       {
-        "topicName": "Electromagnetic Waves & Light",
-        "subTopics": [
+        "topic_name": "Electromagnetic Waves & Light",
+        "sub_topics": [
           "The electromagnetic spectrum",
           "Properties of electromagnetic waves",
           "Radio waves and microwaves",
@@ -238,8 +238,8 @@
         ]
       },
       {
-        "topicName": "Electricity",
-        "subTopics": [
+        "topic_name": "Electricity",
+        "sub_topics": [
           "Electric charge and the law of electric charges",
           "Static electricity and static discharge",
           "Electric force and electric fields",
@@ -257,8 +257,8 @@
         ]
       },
       {
-        "topicName": "Magnetism & Electromagnetism",
-        "subTopics": [
+        "topic_name": "Magnetism & Electromagnetism",
+        "sub_topics": [
           "Properties of magnets",
           "Magnetic poles and magnetic force",
           "Magnetic fields and field lines",
@@ -274,8 +274,8 @@
         ]
       },
       {
-        "topicName": "Nuclear Science & Modern Physics",
-        "subTopics": [
+        "topic_name": "Nuclear Science & Modern Physics",
+        "sub_topics": [
           "Structure of the nucleus",
           "Nuclear forces",
           "Radioactivity and types of radiation (alpha, beta, gamma)",

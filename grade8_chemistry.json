@@ -3,11 +3,11 @@
     "grade": "8",
     "subject": "Chemistry",
     "reference": "Glencoe Physical iScience, Grade 8 / ISBN 9780078893872 / McGraw-Hill/Glencoe",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Nature of Science & Scientific Inquiry",
-        "subTopics": [
-          "What is chemistry and its branches?",
+        "topic_name": "Nature of Science & Scientific Inquiry",
+        "sub_topics": [
+          "What is chemistry and its branches",
           "Scientific methods and inquiry process",
           "Forming hypotheses and testable questions",
           "Designing and conducting controlled experiments",
@@ -23,8 +23,8 @@
         ]
       },
       {
-        "topicName": "Matter & Its Properties",
-        "subTopics": [
+        "topic_name": "Matter & Its Properties",
+        "sub_topics": [
           "Definition and properties of matter",
           "Physical properties of matter",
           "Chemical properties of matter",
@@ -42,8 +42,8 @@
         ]
       },
       {
-        "topicName": "States of Matter",
-        "subTopics": [
+        "topic_name": "States of Matter",
+        "sub_topics": [
           "The four states of matter (solid, liquid, gas, plasma)",
           "Kinetic molecular theory",
           "Properties of solids (crystalline and amorphous)",
@@ -59,8 +59,8 @@
         ]
       },
       {
-        "topicName": "Atomic Structure & Theory",
-        "subTopics": [
+        "topic_name": "Atomic Structure & Theory",
+        "sub_topics": [
           "Early atomic models (Dalton, Thomson, Rutherford, Bohr)",
           "The quantum mechanical model of the atom",
           "Structure of the atom (protons, neutrons, electrons)",
@@ -76,8 +76,8 @@
         ]
       },
       {
-        "topicName": "The Periodic Table",
-        "subTopics": [
+        "topic_name": "The Periodic Table",
+        "sub_topics": [
           "History and development of the periodic table",
           "Mendeleev's contributions and periodic law",
           "Organization of the periodic table (periods and groups)",
@@ -95,8 +95,8 @@
         ]
       },
       {
-        "topicName": "Chemical Bonding",
-        "subTopics": [
+        "topic_name": "Chemical Bonding",
+        "sub_topics": [
           "Why atoms form chemical bonds",
           "Valence electrons and bond formation",
           "Ionic bonds and the transfer of electrons",
@@ -115,8 +115,8 @@
         ]
       },
       {
-        "topicName": "Chemical Formulas & Nomenclature",
-        "subTopics": [
+        "topic_name": "Chemical Formulas & Nomenclature",
+        "sub_topics": [
           "Chemical symbols and formulas",
           "Writing formulas for ionic compounds",
           "Writing formulas for covalent compounds",
@@ -133,9 +133,9 @@
         ]
       },
       {
-        "topicName": "Chemical Reactions & Equations",
-        "subTopics": [
-          "What is a chemical reaction?",
+        "topic_name": "Chemical Reactions & Equations",
+        "sub_topics": [
+          "What is a chemical reaction",
           "Evidence of a chemical reaction",
           "Reactants and products",
           "Writing word equations",
@@ -153,9 +153,9 @@
         ]
       },
       {
-        "topicName": "Reaction Rates & Energy Changes",
-        "subTopics": [
-          "What is reaction rate?",
+        "topic_name": "Reaction Rates & Energy Changes",
+        "sub_topics": [
+          "What is reaction rate",
           "Measuring reaction rates",
           "Collision theory",
           "Activation energy and energy diagrams",
@@ -171,9 +171,9 @@
         ]
       },
       {
-        "topicName": "Solutions & the Dissolving Process",
-        "subTopics": [
-          "What is a solution?",
+        "topic_name": "Solutions & the Dissolving Process",
+        "sub_topics": [
+          "What is a solution",
           "Solute, solvent, and aqueous solutions",
           "The dissolving process and solvation",
           "Like dissolves like (polarity and solubility)",
@@ -190,8 +190,8 @@
         ]
       },
       {
-        "topicName": "Acids, Bases & Salts",
-        "subTopics": [
+        "topic_name": "Acids, Bases & Salts",
+        "sub_topics": [
           "Properties and characteristics of acids",
           "Common examples of acids",
           "Properties and characteristics of bases",
@@ -208,8 +208,8 @@
         ]
       },
       {
-        "topicName": "Organic Chemistry",
-        "subTopics": [
+        "topic_name": "Organic Chemistry",
+        "sub_topics": [
           "Introduction to organic chemistry",
           "Carbon and its unique bonding properties",
           "Hydrocarbons (alkanes, alkenes, alkynes)",
@@ -226,8 +226,8 @@
         ]
       },
       {
-        "topicName": "Biochemistry & Chemistry of Life",
-        "subTopics": [
+        "topic_name": "Biochemistry & Chemistry of Life",
+        "sub_topics": [
           "Chemistry in living systems",
           "Water and its unique chemical properties",
           "Carbohydrates (monosaccharides, disaccharides, polysaccharides)",
@@ -243,8 +243,8 @@
         ]
       },
       {
-        "topicName": "Nuclear Chemistry",
-        "subTopics": [
+        "topic_name": "Nuclear Chemistry",
+        "sub_topics": [
           "Structure and stability of the nucleus",
           "Radioactivity and radioactive decay",
           "Types of nuclear radiation (alpha, beta, gamma)",
@@ -261,8 +261,8 @@
         ]
       },
       {
-        "topicName": "Chemistry of Materials & Engineering",
-        "subTopics": [
+        "topic_name": "Chemistry of Materials & Engineering",
+        "sub_topics": [
           "Properties of metals, alloys, and their uses",
           "Properties of ceramics and glass",
           "Properties of polymers and plastics",

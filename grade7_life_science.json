@@ -3,11 +3,11 @@
     "grade": "7",
     "subject": "Life Science",
     "reference": "Life Science, Grade 7 / ISBN 9780133684829 / Pearson",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Nature of Life Science & Scientific Inquiry",
-        "subTopics": [
-          "What is life science?",
+        "topic_name": "Nature of Life Science & Scientific Inquiry",
+        "sub_topics": [
+          "What is life science",
           "Scientific methods and inquiry",
           "Forming hypotheses and testable questions",
           "Designing and conducting investigations",
@@ -21,8 +21,8 @@
         ]
       },
       {
-        "topicName": "Cell Structure & Function",
-        "subTopics": [
+        "topic_name": "Cell Structure & Function",
+        "sub_topics": [
           "Characteristics of living things",
           "Cell theory and its history",
           "Prokaryotic and eukaryotic cells",
@@ -38,8 +38,8 @@
         ]
       },
       {
-        "topicName": "Cell Processes & Energy",
-        "subTopics": [
+        "topic_name": "Cell Processes & Energy",
+        "sub_topics": [
           "Photosynthesis and its importance",
           "Reactants and products of photosynthesis",
           "Cellular respiration",
@@ -54,8 +54,8 @@
         ]
       },
       {
-        "topicName": "Cell Division & Reproduction",
-        "subTopics": [
+        "topic_name": "Cell Division & Reproduction",
+        "sub_topics": [
           "The cell cycle",
           "Phases of mitosis (prophase, metaphase, anaphase, telophase)",
           "Cytokinesis",
@@ -70,8 +70,8 @@
         ]
       },
       {
-        "topicName": "Genetics & Heredity",
-        "subTopics": [
+        "topic_name": "Genetics & Heredity",
+        "sub_topics": [
           "Introduction to heredity",
           "Gregor Mendel and his experiments",
           "Genes, alleles, and traits",
@@ -88,8 +88,8 @@
         ]
       },
       {
-        "topicName": "DNA & Modern Genetics",
-        "subTopics": [
+        "topic_name": "DNA & Modern Genetics",
+        "sub_topics": [
           "Structure of DNA (double helix)",
           "DNA replication",
           "Genes and proteins",
@@ -106,8 +106,8 @@
         ]
       },
       {
-        "topicName": "Classification of Living Things",
-        "subTopics": [
+        "topic_name": "Classification of Living Things",
+        "sub_topics": [
           "Need for classification in science",
           "Taxonomy and the work of Carolus Linnaeus",
           "Binomial nomenclature",
@@ -121,8 +121,8 @@
         ]
       },
       {
-        "topicName": "Viruses, Bacteria & Protists",
-        "subTopics": [
+        "topic_name": "Viruses, Bacteria & Protists",
+        "sub_topics": [
           "Characteristics and structure of viruses",
           "How viruses replicate (lytic and lysogenic cycles)",
           "Viral diseases and the immune response",
@@ -139,8 +139,8 @@
         ]
       },
       {
-        "topicName": "Fungi & Plants",
-        "subTopics": [
+        "topic_name": "Fungi & Plants",
+        "sub_topics": [
           "Characteristics and structure of fungi",
           "Reproduction in fungi (spores, budding)",
           "Major groups of fungi",
@@ -158,8 +158,8 @@
         ]
       },
       {
-        "topicName": "Invertebrates",
-        "subTopics": [
+        "topic_name": "Invertebrates",
+        "sub_topics": [
           "Characteristics of animals",
           "Invertebrates vs. vertebrates",
           "Sponges (Porifera)",
@@ -176,8 +176,8 @@
         ]
       },
       {
-        "topicName": "Vertebrates",
-        "subTopics": [
+        "topic_name": "Vertebrates",
+        "sub_topics": [
           "Characteristics of vertebrates",
           "Fish (jawless, cartilaginous, bony fish)",
           "Amphibians and their adaptations",
@@ -193,8 +193,8 @@
         ]
       },
       {
-        "topicName": "Human Body Systems",
-        "subTopics": [
+        "topic_name": "Human Body Systems",
+        "sub_topics": [
           "Levels of organization (cells, tissues, organs, organ systems)",
           "Skeletal system structure and function",
           "Muscular system and types of muscle",
@@ -212,8 +212,8 @@
         ]
       },
       {
-        "topicName": "Ecosystems & Ecology",
-        "subTopics": [
+        "topic_name": "Ecosystems & Ecology",
+        "sub_topics": [
           "Biotic and abiotic factors in ecosystems",
           "Populations, communities, and ecosystems",
           "Ecological niches and habitats",
@@ -231,8 +231,8 @@
         ]
       },
       {
-        "topicName": "Population Dynamics & Communities",
-        "subTopics": [
+        "topic_name": "Population Dynamics & Communities",
+        "sub_topics": [
           "Population characteristics (size, density, distribution)",
           "Population growth models (exponential and logistic)",
           "Carrying capacity",
@@ -248,8 +248,8 @@
         ]
       },
       {
-        "topicName": "Evolution & Natural Selection",
-        "subTopics": [
+        "topic_name": "Evolution & Natural Selection",
+        "sub_topics": [
           "Introduction to the theory of evolution",
           "Evidence for evolution (fossil record, comparative anatomy, embryology, DNA)",
           "Charles Darwin and the voyage of the Beagle",
@@ -265,8 +265,8 @@
         ]
       },
       {
-        "topicName": "Human Impact on the Environment",
-        "subTopics": [
+        "topic_name": "Human Impact on the Environment",
+        "sub_topics": [
           "Human population growth and its effects",
           "Land use, deforestation, and habitat loss",
           "Water pollution and freshwater scarcity",

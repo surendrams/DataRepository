@@ -3,10 +3,10 @@
     "grade": "9",
     "subject": "Integrated Math I",
     "reference": "Big Ideas Math Integrated I, 2016 / ISBN 9781680331127 / Core Connections Integrated I, 2013 / ISBN 9781603283083 / Core Connections Integrated I, 2014 / ISBN 9781603283236 / McGraw Hill Integrated I, 2012 / ISBN 9780076638581",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Connections to Algebra & Foundations",
-        "subTopics": [
+        "topic_name": "Connections to Algebra & Foundations",
+        "sub_topics": [
           "Variables and expressions",
           "Order of operations",
           "Real numbers and properties",
@@ -18,8 +18,8 @@
         ]
       },
       {
-        "topicName": "Solving Linear Equations",
-        "subTopics": [
+        "topic_name": "Solving Linear Equations",
+        "sub_topics": [
           "Simple equations",
           "Multi-step equations",
           "Equations with variables on both sides",
@@ -30,8 +30,8 @@
         ]
       },
       {
-        "topicName": "Functions & Relations",
-        "subTopics": [
+        "topic_name": "Functions & Relations",
+        "sub_topics": [
           "Relations and functions",
           "Domain and range",
           "Function notation",
@@ -43,8 +43,8 @@
         ]
       },
       {
-        "topicName": "Linear Equations & Graphing",
-        "subTopics": [
+        "topic_name": "Linear Equations & Graphing",
+        "sub_topics": [
           "Graphing linear equations",
           "Slope of a line",
           "Finding slope from two points",
@@ -56,8 +56,8 @@
         ]
       },
       {
-        "topicName": "Writing Linear Equations",
-        "subTopics": [
+        "topic_name": "Writing Linear Equations",
+        "sub_topics": [
           "Writing equations in slope-intercept form",
           "Writing equations in point-slope form",
           "Writing equations in standard form",
@@ -68,8 +68,8 @@
         ]
       },
       {
-        "topicName": "Linear Inequalities",
-        "subTopics": [
+        "topic_name": "Linear Inequalities",
+        "sub_topics": [
           "Simple inequalities",
           "Multi-step inequalities",
           "Compound inequalities",
@@ -79,8 +79,8 @@
         ]
       },
       {
-        "topicName": "Systems of Linear Equations & Inequalities",
-        "subTopics": [
+        "topic_name": "Systems of Linear Equations & Inequalities",
+        "sub_topics": [
           "Systems of linear equations",
           "Solving systems by graphing",
           "Solving systems by substitution",
@@ -92,8 +92,8 @@
         ]
       },
       {
-        "topicName": "Exponents & Exponential Functions",
-        "subTopics": [
+        "topic_name": "Exponents & Exponential Functions",
+        "sub_topics": [
           "Properties of exponents",
           "Multiplying and dividing monomials",
           "Powers of monomials",
@@ -105,8 +105,8 @@
         ]
       },
       {
-        "topicName": "Radical Functions & Connections to Geometry",
-        "subTopics": [
+        "topic_name": "Radical Functions & Connections to Geometry",
+        "sub_topics": [
           "Square roots and cube roots",
           "Nth roots and rational exponents",
           "Radical expressions",
@@ -119,8 +119,8 @@
         ]
       },
       {
-        "topicName": "Tools of Geometry",
-        "subTopics": [
+        "topic_name": "Tools of Geometry",
+        "sub_topics": [
           "Points, lines, and planes",
           "Line segments and rays",
           "Angles and angle relationships",
@@ -132,8 +132,8 @@
         ]
       },
       {
-        "topicName": "Parallel & Perpendicular Lines",
-        "subTopics": [
+        "topic_name": "Parallel & Perpendicular Lines",
+        "sub_topics": [
           "Properties of parallel lines",
           "Angles formed by parallel lines and transversals",
           "Proving lines parallel",
@@ -143,8 +143,8 @@
         ]
       },
       {
-        "topicName": "Congruent Triangles",
-        "subTopics": [
+        "topic_name": "Congruent Triangles",
+        "sub_topics": [
           "Congruence and congruent triangles",
           "Triangle congruence postulates (SSS, SAS, ASA)",
           "Using congruence in proofs",
@@ -154,8 +154,8 @@
         ]
       },
       {
-        "topicName": "Similarity, Transformations & Symmetry",
-        "subTopics": [
+        "topic_name": "Similarity, Transformations & Symmetry",
+        "sub_topics": [
           "Similar figures and scale factors",
           "Triangle similarity postulates (AA, SSS, SAS)",
           "Proportions in similar triangles",
@@ -167,8 +167,8 @@
         ]
       },
       {
-        "topicName": "Circles",
-        "subTopics": [
+        "topic_name": "Circles",
+        "sub_topics": [
           "Circle terminology",
           "Circumference and area",
           "Arc length and sector area",
@@ -179,8 +179,8 @@
         ]
       },
       {
-        "topicName": "Quadrilaterals",
-        "subTopics": [
+        "topic_name": "Quadrilaterals",
+        "sub_topics": [
           "Properties of parallelograms",
           "Properties of rectangles, rhombuses, and squares",
           "Properties of trapezoids",
@@ -190,8 +190,8 @@
         ]
       },
       {
-        "topicName": "Statistics & Probability",
-        "subTopics": [
+        "topic_name": "Statistics & Probability",
+        "sub_topics": [
           "Data collection and sampling",
           "Measures of central tendency (mean, median, mode)",
           "Measures of variation (range, quartiles, standard deviation)",

@@ -3,10 +3,10 @@
     "grade": "9",
     "subject": "Algebra 1",
     "reference":"Big Ideas Math Algebra 1, 2015 / ISBN 9781608408382 / Big Ideas Math Algebra 1 A Bridge to Success / ISBN 9781680331141 / Big Ideas Math Algebra 1 Texas / ISBN 9781608408146 / Big Ideas Math Algebra 1 Virginia / ISBN 9781635981230 / Core Connections Algebra 1, 2013 / ISBN 9781603281010 / McGraw Hill Glencoe Algebra 1, 2012 / ISBN 9780076639236 / McGraw Hill Glencoe Algebra 1, 2017 / ISBN 9780079039897 / McGraw Hill Glencoe Algebra 1 Texas, 2016 / ISBN 9780021402465 / Pearson Algebra 1 Common Core, 2011 / ISBN 9780133185485 / Pearson Algebra 1 Common Core, 2015 / ISBN 9780133281149",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Foundations & Real Numbers",
-        "subTopics": [
+        "topic_name": "Foundations & Real Numbers",
+        "sub_topics": [
           "Variables and expressions",
           "Order of operations",
           "Real numbers and number properties",
@@ -19,8 +19,8 @@
         ]
       },
       {
-        "topicName": "Solving Linear Equations",
-        "subTopics": [
+        "topic_name": "Solving Linear Equations",
+        "sub_topics": [
           "Simple equations",
           "Multi-step equations",
           "Equations with variables on both sides",
@@ -32,8 +32,8 @@
         ]
       },
       {
-        "topicName": "Linear Inequalities",
-        "subTopics": [
+        "topic_name": "Linear Inequalities",
+        "sub_topics": [
           "Simple inequalities",
           "Multi-step inequalities",
           "Solving inequalities using addition or subtraction",
@@ -44,8 +44,8 @@
         ]
       },
       {
-        "topicName": "Functions & Relations",
-        "subTopics": [
+        "topic_name": "Functions & Relations",
+        "sub_topics": [
           "Relations and functions",
           "Function notation",
           "Linear functions",
@@ -57,8 +57,8 @@
         ]
       },
       {
-        "topicName": "Graphing Linear Equations",
-        "subTopics": [
+        "topic_name": "Graphing Linear Equations",
+        "sub_topics": [
           "Graphing linear equations",
           "Slope of a line",
           "Calculating slope from two points",
@@ -70,8 +70,8 @@
         ]
       },
       {
-        "topicName": "Writing Linear Equations",
-        "subTopics": [
+        "topic_name": "Writing Linear Equations",
+        "sub_topics": [
           "Writing equations in slope-intercept form",
           "Writing equations in point-slope form",
           "Writing equations in standard form",
@@ -83,8 +83,8 @@
         ]
       },
       {
-        "topicName": "Systems of Linear Equations",
-        "subTopics": [
+        "topic_name": "Systems of Linear Equations",
+        "sub_topics": [
           "Systems of linear equations",
           "Solving systems by graphing",
           "Solving systems by substitution",
@@ -96,8 +96,8 @@
         ]
       },
       {
-        "topicName": "Polynomials",
-        "subTopics": [
+        "topic_name": "Polynomials",
+        "sub_topics": [
           "Polynomial expressions",
           "Operations with polynomials",
           "Adding and subtracting polynomials",
@@ -109,8 +109,8 @@
         ]
       },
       {
-        "topicName": "Factoring & Quadratic Equations",
-        "subTopics": [
+        "topic_name": "Factoring & Quadratic Equations",
+        "sub_topics": [
           "Factoring polynomials",
           "Factoring trinomials",
           "Difference of squares",
@@ -122,8 +122,8 @@
         ]
       },
       {
-        "topicName": "Quadratic & Exponential Functions",
-        "subTopics": [
+        "topic_name": "Quadratic & Exponential Functions",
+        "sub_topics": [
           "Quadratic functions",
           "Graphing quadratic functions",
           "Vertex form of quadratic functions",
@@ -135,8 +135,8 @@
         ]
       },
       {
-        "topicName": "Radical Expressions & Geometry",
-        "subTopics": [
+        "topic_name": "Radical Expressions & Geometry",
+        "sub_topics": [
           "Radical expressions",
           "Nth roots and rational exponents",
           "Properties of radicals",
@@ -148,8 +148,8 @@
         ]
       },
       {
-        "topicName": "Rational Functions & Equations",
-        "subTopics": [
+        "topic_name": "Rational Functions & Equations",
+        "sub_topics": [
           "Rational expressions",
           "Simplifying rational expressions",
           "Multiplying and dividing rational expressions",
@@ -161,8 +161,8 @@
         ]
       },
       {
-        "topicName": "Statistics & Probability",
-        "subTopics": [
+        "topic_name": "Statistics & Probability",
+        "sub_topics": [
           "Data collection and sampling",
           "Measures of central tendency",
           "Mean, median, mode, and range",

@@ -3,10 +3,10 @@
     "grade": "6",
     "subject": "Mathematics",
     "reference": "Big Ideas Math: Modeling Real Life, Grade 6 / ISBN 9781635988970 / Core Connections: Course 1 / ISBN 9781603280778 / Glencoe Math: Course 1, Volume 1 / ISBN 9780076605538 / Glencoe Math: Course 1, Volume 2 / ISBN 9780076618392 / Envision Math 2.0: Grade 6, Volume 1 / ISBN 9780328881864 / Envision Math 2.0: Grade 6, Volume 2 / ISBN 9780328908776",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Numbers & Operations",
-        "subTopics": [
+        "topic_name": "Numbers & Operations",
+        "sub_topics": [
           "Whole number operations",
           "Prime and composite numbers",
           "Factors and multiples",
@@ -21,8 +21,8 @@
         ]
       },
       {
-        "topicName": "Ratios, Rates & Proportions",
-        "subTopics": [
+        "topic_name": "Ratios, Rates & Proportions",
+        "sub_topics": [
           "Understanding ratios and ratio relationships",
           "Unit rates and rate problems",
           "Proportional reasoning",
@@ -32,8 +32,8 @@
         ]
       },
       {
-        "topicName": "Algebraic Expressions & Thinking",
-        "subTopics": [
+        "topic_name": "Algebraic Expressions & Thinking",
+        "sub_topics": [
           "Variables and expressions",
           "Writing and evaluating expressions",
           "Properties of operations (commutative, associative, distributive)",
@@ -44,8 +44,8 @@
         ]
       },
       {
-        "topicName": "Equations & Inequalities",
-        "subTopics": [
+        "topic_name": "Equations & Inequalities",
+        "sub_topics": [
           "Simple equations and solving",
           "Two-variable equations",
           "Graphing solutions",
@@ -54,8 +54,8 @@
         ]
       },
       {
-        "topicName": "Integers & Number Lines",
-        "subTopics": [
+        "topic_name": "Integers & Number Lines",
+        "sub_topics": [
           "Understanding integers and opposites",
           "Absolute value",
           "Operations with integers",
@@ -65,8 +65,8 @@
         ]
       },
       {
-        "topicName": "Geometry & Measurement",
-        "subTopics": [
+        "topic_name": "Geometry & Measurement",
+        "sub_topics": [
           "Points, lines, and angles",
           "Types of angles",
           "Triangles and quadrilaterals",
@@ -79,8 +79,8 @@
         ]
       },
       {
-        "topicName": "Statistical Measures",
-        "subTopics": [
+        "topic_name": "Statistical Measures",
+        "sub_topics": [
           "Data collection and organization",
           "Mean (average)",
           "Median",
@@ -92,8 +92,8 @@
         ]
       },
       {
-        "topicName": "Data Displays & Representation",
-        "subTopics": [
+        "topic_name": "Data Displays & Representation",
+        "sub_topics": [
           "Bar graphs and line graphs",
           "Pie charts",
           "Line plots",
@@ -104,8 +104,8 @@
         ]
       },
       {
-        "topicName": "Probability",
-        "subTopics": [
+        "topic_name": "Probability",
+        "sub_topics": [
           "Simple probability",
           "Likelihood and outcomes",
           "Experimental and theoretical probability",

@@ -3,10 +3,10 @@
     "grade": "11",
     "subject": "Algebra 2",
     "reference" : "Big Ideas Math Algebra 2, 2014 / ISBN 9781608408405 / Big Ideas Math Algebra 2 Virginia Edition, 2019 / ISBN 9781635981414 / Big Ideas Math Algebra 2 A Bridge to Success / ISBN 9781680331165 / Big Ideas Math Algebra 2 Texas / ISBN 9781608408160 / Core Connections Algebra 2, 2013 / ISBN 9781603281157 / McGraw Hill Glencoe Algebra 2, 2012 / ISBN 9780076639908 / McGraw Hill Glencoe Algebra 2 Texas, 2016	/ ISBN 9780021392568 / McGraw Hill Glencoe Algebra 2, 2017	/ ISBN 9780079039903 / Pearson Algebra 2 Common Core, 2011	/ ISBN 9780133186024 / Pearson Algebra 2 Common Core, 2013 / ISBN 9780133281163",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Functions & Transformations",
-        "subTopics": [
+        "topic_name": "Functions & Transformations",
+        "sub_topics": [
           "Parent functions and their properties",
           "Transformations of functions (translations, reflections, dilations)",
           "Absolute value functions",
@@ -18,8 +18,8 @@
         ]
       },
       {
-        "topicName": "Linear Functions & Systems",
-        "subTopics": [
+        "topic_name": "Linear Functions & Systems",
+        "sub_topics": [
           "Linear functions",
           "Slope and y-intercept",
           "Writing equations of lines",
@@ -32,8 +32,8 @@
         ]
       },
       {
-        "topicName": "Quadratic Functions & Equations",
-        "subTopics": [
+        "topic_name": "Quadratic Functions & Equations",
+        "sub_topics": [
           "Quadratic functions",
           "Parabolas and their properties",
           "Transformations of quadratic functions",
@@ -48,8 +48,8 @@
         ]
       },
       {
-        "topicName": "Polynomial Functions",
-        "subTopics": [
+        "topic_name": "Polynomial Functions",
+        "sub_topics": [
           "Polynomial expressions",
           "Adding, subtracting, and multiplying polynomials",
           "Dividing polynomials (long division and synthetic division)",
@@ -63,8 +63,8 @@
         ]
       },
       {
-        "topicName": "Rational Exponents & Radical Functions",
-        "subTopics": [
+        "topic_name": "Rational Exponents & Radical Functions",
+        "sub_topics": [
           "Nth roots and rational exponents",
           "Properties of rational exponents and radicals",
           "Simplifying radical expressions",
@@ -77,8 +77,8 @@
         ]
       },
       {
-        "topicName": "Exponential & Logarithmic Functions",
-        "subTopics": [
+        "topic_name": "Exponential & Logarithmic Functions",
+        "sub_topics": [
           "Exponential functions",
           "Exponential growth and decay",
           "Graphing exponential functions",
@@ -94,8 +94,8 @@
         ]
       },
       {
-        "topicName": "Rational Functions & Equations",
-        "subTopics": [
+        "topic_name": "Rational Functions & Equations",
+        "sub_topics": [
           "Rational expressions",
           "Simplifying rational expressions",
           "Multiplying and dividing rational expressions",
@@ -109,8 +109,8 @@
         ]
       },
       {
-        "topicName": "Complex Numbers",
-        "subTopics": [
+        "topic_name": "Complex Numbers",
+        "sub_topics": [
           "Imaginary and complex numbers",
           "Operations with complex numbers (addition, subtraction, multiplication)",
           "Dividing complex numbers",
@@ -121,8 +121,8 @@
         ]
       },
       {
-        "topicName": "Conic Sections",
-        "subTopics": [
+        "topic_name": "Conic Sections",
+        "sub_topics": [
           "Circles",
           "Parabolas",
           "Ellipses",
@@ -135,8 +135,8 @@
         ]
       },
       {
-        "topicName": "Matrices & Systems",
-        "subTopics": [
+        "topic_name": "Matrices & Systems",
+        "sub_topics": [
           "Matrix operations (addition, subtraction, multiplication)",
           "Scalar multiplication",
           "Matrix inverses",
@@ -148,8 +148,8 @@
         ]
       },
       {
-        "topicName": "Sequences & Series",
-        "subTopics": [
+        "topic_name": "Sequences & Series",
+        "sub_topics": [
           "Sequences",
           "Arithmetic sequences and series",
           "Geometric sequences and series",
@@ -160,8 +160,8 @@
         ]
       },
       {
-        "topicName": "Probability & Counting",
-        "subTopics": [
+        "topic_name": "Probability & Counting",
+        "sub_topics": [
           "Counting principles",
           "Permutations",
           "Combinations",
@@ -176,8 +176,8 @@
         ]
       },
       {
-        "topicName": "Statistics",
-        "subTopics": [
+        "topic_name": "Statistics",
+        "sub_topics": [
           "Organizing and displaying data",
           "Measures of central tendency (mean, median, mode)",
           "Measures of variation (range, quartiles, standard deviation)",

@@ -3,10 +3,10 @@
     "grade": "11",
     "subject": "Integrated Math III",
     "reference" : "Big Ideas Math Integrated III / ISBN 9781680330878 / Core Connections Integrated III, 2015 / ISBN 9781603283939 / McGraw Hill Integrated III, 2012 / ISBN 9780076638529",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Investigations & Functions",
-        "subTopics": [
+        "topic_name": "Investigations & Functions",
+        "sub_topics": [
           "Function properties and characteristics",
           "Function investigations and exploration",
           "Representing points of intersection",
@@ -18,8 +18,8 @@
         ]
       },
       {
-        "topicName": "Transformations of Parent Graphs",
-        "subTopics": [
+        "topic_name": "Transformations of Parent Graphs",
+        "sub_topics": [
           "Modeling with functions",
           "Transforming parent functions",
           "Translations, reflections, and dilations",
@@ -31,8 +31,8 @@
         ]
       },
       {
-        "topicName": "Solving Equations & Inequalities",
-        "subTopics": [
+        "topic_name": "Solving Equations & Inequalities",
+        "sub_topics": [
           "Solving systems of linear equations",
           "Solving systems of linear inequalities",
           "Solving systems with quadratic equations",
@@ -44,8 +44,8 @@
         ]
       },
       {
-        "topicName": "Normal Distributions & Geometric Modeling",
-        "subTopics": [
+        "topic_name": "Normal Distributions & Geometric Modeling",
+        "sub_topics": [
           "Sampling methods and bias",
           "Experimental design",
           "Observational studies vs experiments",
@@ -57,8 +57,8 @@
         ]
       },
       {
-        "topicName": "Inverses & Logarithms",
-        "subTopics": [
+        "topic_name": "Inverses & Logarithms",
+        "sub_topics": [
           "Inverse functions",
           "Finding inverses algebraically and graphically",
           "Exponential functions",
@@ -70,8 +70,8 @@
         ]
       },
       {
-        "topicName": "Simulating Sampling Variability",
-        "subTopics": [
+        "topic_name": "Simulating Sampling Variability",
+        "sub_topics": [
           "Simulations and variability",
           "Sampling distributions",
           "Confidence intervals",
@@ -83,8 +83,8 @@
         ]
       },
       {
-        "topicName": "Sequences & Series",
-        "subTopics": [
+        "topic_name": "Sequences & Series",
+        "sub_topics": [
           "Arithmetic sequences",
           "Geometric sequences",
           "Explicit formulas",
@@ -96,8 +96,8 @@
         ]
       },
       {
-        "topicName": "Trigonometry",
-        "subTopics": [
+        "topic_name": "Trigonometry",
+        "sub_topics": [
           "Unit circle",
           "Radian and degree measure",
           "Trigonometric ratios",
@@ -110,8 +110,8 @@
         ]
       },
       {
-        "topicName": "Polynomial Functions",
-        "subTopics": [
+        "topic_name": "Polynomial Functions",
+        "sub_topics": [
           "Polynomial expressions",
           "Operations with polynomials",
           "Factoring polynomials",
@@ -123,8 +123,8 @@
         ]
       },
       {
-        "topicName": "Rational Functions & Equations",
-        "subTopics": [
+        "topic_name": "Rational Functions & Equations",
+        "sub_topics": [
           "Rational expressions",
           "Simplifying rational expressions",
           "Operations with rational expressions",
@@ -136,8 +136,8 @@
         ]
       },
       {
-        "topicName": "Complex Numbers & Quadratic Equations",
-        "subTopics": [
+        "topic_name": "Complex Numbers & Quadratic Equations",
+        "sub_topics": [
           "Complex numbers",
           "Operations with complex numbers",
           "Complex conjugates",
@@ -148,8 +148,8 @@
         ]
       },
       {
-        "topicName": "Counting & Probability",
-        "subTopics": [
+        "topic_name": "Counting & Probability",
+        "sub_topics": [
           "Counting principles",
           "Permutations and combinations",
           "Fundamental counting principle",
@@ -161,8 +161,8 @@
         ]
       },
       {
-        "topicName": "Data Analysis & Statistics",
-        "subTopics": [
+        "topic_name": "Data Analysis & Statistics",
+        "sub_topics": [
           "Organizing and displaying data",
           "Descriptive statistics",
           "Measures of central tendency",
@@ -174,8 +174,8 @@
         ]
       },
       {
-        "topicName": "Geometric Modeling & Solids",
-        "subTopics": [
+        "topic_name": "Geometric Modeling & Solids",
+        "sub_topics": [
           "Properties of two-dimensional figures",
           "Three-dimensional solids",
           "Volume of solids",

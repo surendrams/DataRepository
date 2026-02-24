@@ -3,10 +3,10 @@
     "grade": "7",
     "subject": "Mathematics",
     "reference": "Big Ideas Math: Modeling Real Life, Grade 7 / ISBN 9781642086294 / Core Connections: Course 2 / ISBN 9781603280846 / Glencoe Math: Course 2, Volume 1 / ISBN 9780076615292 / Glencoe Math: Course 2, Volume 2 / ISBN 9780076619030 / Envision Math 2.0: Grade 7, Volume 1 / ISBN 9780328881888 / Envision Math 2.0: Grade 7, Volume 2 / ISBN 9780328908790",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Integers & Rational Numbers",
-        "subTopics": [
+        "topic_name": "Integers & Rational Numbers",
+        "sub_topics": [
           "Understanding integers and opposites",
           "Absolute value",
           "Adding integers",
@@ -21,8 +21,8 @@
         ]
       },
       {
-        "topicName": "Equations & Inequalities",
-        "subTopics": [
+        "topic_name": "Equations & Inequalities",
+        "sub_topics": [
           "Solving equations using addition or subtraction",
           "Solving equations using multiplication or division",
           "Solving two-step equations",
@@ -36,8 +36,8 @@
         ]
       },
       {
-        "topicName": "Ratios, Rates & Proportions",
-        "subTopics": [
+        "topic_name": "Ratios, Rates & Proportions",
+        "sub_topics": [
           "Understanding ratios and rates",
           "Unit rates and complex fractions",
           "Proportional and nonproportional relationships",
@@ -53,8 +53,8 @@
         ]
       },
       {
-        "topicName": "Percents & Financial Literacy",
-        "subTopics": [
+        "topic_name": "Percents & Financial Literacy",
+        "sub_topics": [
           "The percent equation",
           "Percent of a number",
           "Percent and estimation",
@@ -68,8 +68,8 @@
         ]
       },
       {
-        "topicName": "Geometry & Similarity",
-        "subTopics": [
+        "topic_name": "Geometry & Similarity",
+        "sub_topics": [
           "Identifying similar figures",
           "Scale factors and similarity",
           "Perimeter and area of similar figures",
@@ -83,8 +83,8 @@
         ]
       },
       {
-        "topicName": "Algebraic Expressions & Properties",
-        "subTopics": [
+        "topic_name": "Algebraic Expressions & Properties",
+        "sub_topics": [
           "Variables and expressions",
           "Writing and evaluating expressions",
           "Properties of operations (commutative, associative, distributive)",
@@ -95,8 +95,8 @@
         ]
       },
       {
-        "topicName": "Data Analysis & Statistical Measures",
-        "subTopics": [
+        "topic_name": "Data Analysis & Statistical Measures",
+        "sub_topics": [
           "Data collection and organization",
           "Stem-and-leaf plots",
           "Mean (average)",
@@ -109,8 +109,8 @@
         ]
       },
       {
-        "topicName": "Data Displays & Interpretation",
-        "subTopics": [
+        "topic_name": "Data Displays & Interpretation",
+        "sub_topics": [
           "Bar graphs and line graphs",
           "Histograms",
           "Circle graphs and pie charts",
@@ -122,8 +122,8 @@
         ]
       },
       {
-        "topicName": "Probability",
-        "subTopics": [
+        "topic_name": "Probability",
+        "sub_topics": [
           "Introduction to probability",
           "Theoretical probability",
           "Experimental probability",

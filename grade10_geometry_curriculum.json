@@ -3,10 +3,10 @@
     "grade": "10",
     "subject": "Geometry",
     "reference":"Big Ideas Math Geometry, 2014 / ISBN 9781608408399 / Big Ideas Math Geometry A Bridge to Success / ISBN 9781680331189 /Big Ideas Math Geometry Texas / ISBN 9781608408153 / Big Ideas Math Geometry Virginia / ISBN 9781635981322 / Core Connections Geometry, 2013	/ ISBN 9781603281089 / McGraw Hill Glencoe Geometry, 2012 / ISBN 9780076639298 / McGraw Hill Glencoe Geometry Texas, 2015 / ISBN 9780021392551 / McGraw Hill Glencoe Geometry, 2017 / ISBN 9780079039941 / Pearson Geometry Common Core, 2011 / ISBN 9780133185829 / Pearson, Prentice Hall, Geometry, 2011 / ISBN 9780133500417 / Pearson Geometry Common Core, 2013 / ISBN 9780133281156",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Basics of Geometry",
-        "subTopics": [
+        "topic_name": "Basics of Geometry",
+        "sub_topics": [
           "Points, lines, and planes",
           "Line segments and rays",
           "Measuring segments",
@@ -18,8 +18,8 @@
         ]
       },
       {
-        "topicName": "Reasoning & Proof",
-        "subTopics": [
+        "topic_name": "Reasoning & Proof",
+        "sub_topics": [
           "Inductive reasoning",
           "Deductive reasoning",
           "Conditional statements and logic",
@@ -31,8 +31,8 @@
         ]
       },
       {
-        "topicName": "Parallel & Perpendicular Lines",
-        "subTopics": [
+        "topic_name": "Parallel & Perpendicular Lines",
+        "sub_topics": [
           "Relationships of parallel and perpendicular lines",
           "Angles formed by intersecting lines",
           "Angles formed by parallel lines and transversals",
@@ -44,8 +44,8 @@
         ]
       },
       {
-        "topicName": "Congruent Triangles",
-        "subTopics": [
+        "topic_name": "Congruent Triangles",
+        "sub_topics": [
           "Triangle congruence postulates (SSS, SAS, ASA, AAS)",
           "Right triangle congruence (HL)",
           "Corresponding parts of congruent triangles",
@@ -56,8 +56,8 @@
         ]
       },
       {
-        "topicName": "Relationships Within Triangles",
-        "subTopics": [
+        "topic_name": "Relationships Within Triangles",
+        "sub_topics": [
           "Medians, centroids, and midpoints",
           "Altitudes and orthocenters",
           "Perpendicular bisectors",
@@ -69,8 +69,8 @@
         ]
       },
       {
-        "topicName": "Proportions & Similarity",
-        "subTopics": [
+        "topic_name": "Proportions & Similarity",
+        "sub_topics": [
           "Ratios and proportions",
           "Similar figures",
           "Similar triangle postulates (AA, SSS, SAS)",
@@ -82,8 +82,8 @@
         ]
       },
       {
-        "topicName": "Right Triangles & Trigonometry",
-        "subTopics": [
+        "topic_name": "Right Triangles & Trigonometry",
+        "sub_topics": [
           "Pythagorean theorem",
           "Pythagorean theorem applications",
           "Special right triangles (45-45-90 and 30-60-90)",
@@ -96,8 +96,8 @@
         ]
       },
       {
-        "topicName": "Transformations",
-        "subTopics": [
+        "topic_name": "Transformations",
+        "sub_topics": [
           "Translations and reflections",
           "Rotations",
           "Dilations",
@@ -109,8 +109,8 @@
         ]
       },
       {
-        "topicName": "Quadrilaterals & Other Polygons",
-        "subTopics": [
+        "topic_name": "Quadrilaterals & Other Polygons",
+        "sub_topics": [
           "Properties of parallelograms",
           "Properties of rectangles",
           "Properties of rhombuses",
@@ -123,8 +123,8 @@
         ]
       },
       {
-        "topicName": "Circles",
-        "subTopics": [
+        "topic_name": "Circles",
+        "sub_topics": [
           "Circle terminology (center, radius, diameter, chord)",
           "Circumference and area of circles",
           "Arc length and sector area",
@@ -137,8 +137,8 @@
         ]
       },
       {
-        "topicName": "Areas of Polygons & Circles",
-        "subTopics": [
+        "topic_name": "Areas of Polygons & Circles",
+        "sub_topics": [
           "Area of rectangles and parallelograms",
           "Area of triangles",
           "Area of trapezoids and kites",
@@ -150,8 +150,8 @@
         ]
       },
       {
-        "topicName": "Surface Area",
-        "subTopics": [
+        "topic_name": "Surface Area",
+        "sub_topics": [
           "Surface area of prisms",
           "Surface area of pyramids",
           "Surface area of cylinders",
@@ -163,8 +163,8 @@
         ]
       },
       {
-        "topicName": "Volume",
-        "subTopics": [
+        "topic_name": "Volume",
+        "sub_topics": [
           "Volume of prisms",
           "Volume of pyramids",
           "Volume of cylinders",
@@ -176,8 +176,8 @@
         ]
       },
       {
-        "topicName": "Probability",
-        "subTopics": [
+        "topic_name": "Probability",
+        "sub_topics": [
           "Sample spaces and outcomes",
           "Theoretical probability",
           "Experimental probability",

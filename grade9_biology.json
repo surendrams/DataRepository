@@ -3,11 +3,11 @@
     "grade": "9",
     "subject": "Biology",
     "reference": "Inspire Science: Biology, Grades 9-12 / ISBN 9780021452620 / McGraw-Hill",
-    "majorTopics": [
+    "major_topics": [
       {
-        "topicName": "Nature of Science & Biological Inquiry",
-        "subTopics": [
-          "What is biology and why does it matter?",
+        "topic_name": "Nature of Science & Biological Inquiry",
+        "sub_topics": [
+          "What is biology and why does it matter",
           "Scientific methods and the inquiry process",
           "Forming hypotheses and testable questions",
           "Designing controlled experiments",
@@ -24,8 +24,8 @@
         ]
       },
       {
-        "topicName": "Chemistry of Life",
-        "subTopics": [
+        "topic_name": "Chemistry of Life",
+        "sub_topics": [
           "Structure of the atom and chemical bonding",
           "Properties of water and its biological importance",
           "Hydrogen bonding and cohesion/adhesion",
@@ -43,8 +43,8 @@
         ]
       },
       {
-        "topicName": "Cell Structure & Function",
-        "subTopics": [
+        "topic_name": "Cell Structure & Function",
+        "sub_topics": [
           "Cell theory and its historical development",
           "Prokaryotic vs. eukaryotic cells",
           "Animal cell organelles and their functions",
@@ -62,8 +62,8 @@
         ]
       },
       {
-        "topicName": "Cell Transport & Homeostasis",
-        "subTopics": [
+        "topic_name": "Cell Transport & Homeostasis",
+        "sub_topics": [
           "Selective permeability of the cell membrane",
           "Passive transport and diffusion",
           "Osmosis and osmotic pressure",
@@ -80,8 +80,8 @@
         ]
       },
       {
-        "topicName": "Photosynthesis",
-        "subTopics": [
+        "topic_name": "Photosynthesis",
+        "sub_topics": [
           "Overview of photosynthesis and its importance",
           "Chloroplast structure and function",
           "Photosynthetic pigments (chlorophyll, carotenoids)",
@@ -98,8 +98,8 @@
         ]
       },
       {
-        "topicName": "Cellular Respiration & Fermentation",
-        "subTopics": [
+        "topic_name": "Cellular Respiration & Fermentation",
+        "sub_topics": [
           "Overview of cellular respiration",
           "ATP structure and the role of ATP in cells",
           "Glycolysis and its products",
@@ -117,8 +117,8 @@
         ]
       },
       {
-        "topicName": "Cell Division: Mitosis & Meiosis",
-        "subTopics": [
+        "topic_name": "Cell Division: Mitosis & Meiosis",
+        "sub_topics": [
           "The cell cycle (G1, S, G2, M phases)",
           "DNA replication during the S phase",
           "Mitosis phases (prophase, prometaphase, metaphase, anaphase, telophase)",
@@ -135,8 +135,8 @@
         ]
       },
       {
-        "topicName": "Mendelian Genetics & Heredity",
-        "subTopics": [
+        "topic_name": "Mendelian Genetics & Heredity",
+        "sub_topics": [
           "Gregor Mendel's experiments and contributions",
           "Law of segregation",
           "Law of independent assortment",
@@ -155,8 +155,8 @@
         ]
       },
       {
-        "topicName": "Chromosomal Genetics & Sex Linkage",
-        "subTopics": [
+        "topic_name": "Chromosomal Genetics & Sex Linkage",
+        "sub_topics": [
           "Chromosomes and chromosome structure",
           "Sex chromosomes (X and Y) and sex determination",
           "X-linked traits and X-linked inheritance",
@@ -173,8 +173,8 @@
         ]
       },
       {
-        "topicName": "Molecular Genetics: DNA & RNA",
-        "subTopics": [
+        "topic_name": "Molecular Genetics: DNA & RNA",
+        "sub_topics": [
           "Discovery of DNA as genetic material (Griffith, Avery, Hershey-Chase, Franklin, Watson and Crick)",
           "DNA double helix structure and nucleotide composition",
           "Base pairing rules (Chargaff's rules)",
@@ -192,8 +192,8 @@
         ]
       },
       {
-        "topicName": "Mutations & Biotechnology",
-        "subTopics": [
+        "topic_name": "Mutations & Biotechnology",
+        "sub_topics": [
           "Types of mutations (point, frameshift, chromosomal)",
           "Silent, missense, and nonsense mutations",
           "Causes of mutations (mutagens, replication errors, radiation)",
@@ -211,8 +211,8 @@
         ]
       },
       {
-        "topicName": "Evolution & Natural Selection",
-        "subTopics": [
+        "topic_name": "Evolution & Natural Selection",
+        "sub_topics": [
           "Early ideas about evolution (Lamarck, Darwin, Wallace)",
           "Charles Darwin and the voyage of the Beagle",
           "Natural selection and its four principles",
@@ -231,8 +231,8 @@
         ]
       },
       {
-        "topicName": "Classification & Phylogenetics",
-        "subTopics": [
+        "topic_name": "Classification & Phylogenetics",
+        "sub_topics": [
           "History of biological classification",
           "Carolus Linnaeus and binomial nomenclature",
           "Levels of classification (domain, kingdom, phylum, class, order, family, genus, species)",
@@ -250,8 +250,8 @@
         ]
       },
       {
-        "topicName": "Viruses, Bacteria & Immune System",
-        "subTopics": [
+        "topic_name": "Viruses, Bacteria & Immune System",
+        "sub_topics": [
           "Characteristics and structure of viruses",
           "Lytic and lysogenic cycles of bacteriophages",
           "Animal viruses and replication",
@@ -269,8 +269,8 @@
         ]
       },
       {
-        "topicName": "Plant Structure, Function & Reproduction",
-        "subTopics": [
+        "topic_name": "Plant Structure, Function & Reproduction",
+        "sub_topics": [
           "Characteristics and evolutionary history of plants",
           "Nonvascular plants (bryophytes)",
           "Seedless vascular plants (ferns, horsetails, club mosses)",
@@ -289,8 +289,8 @@
         ]
       },
       {
-        "topicName": "Animal Diversity & Body Systems",
-        "subTopics": [
+        "topic_name": "Animal Diversity & Body Systems",
+        "sub_topics": [
           "Characteristics and diversity of animals",
           "Major invertebrate phyla (Porifera, Cnidaria, Platyhelminthes, Nematoda, Annelida, Mollusca, Echinodermata, Arthropoda)",
           "Arthropod diversity and adaptations",
@@ -308,8 +308,8 @@
         ]
       },
       {
-        "topicName": "Human Body Systems & Homeostasis",
-        "subTopics": [
+        "topic_name": "Human Body Systems & Homeostasis",
+        "sub_topics": [
           "Levels of organization in the human body",
           "Integumentary system (skin, hair, nails, glands)",
           "Skeletal system (bone structure, joints, cartilage)",
@@ -328,8 +328,8 @@
         ]
       },
       {
-        "topicName": "Ecology & Ecosystems",
-        "subTopics": [
+        "topic_name": "Ecology & Ecosystems",
+        "sub_topics": [
           "Levels of ecological organization (organism, population, community, ecosystem, biome, biosphere)",
           "Biotic and abiotic factors",
           "Ecological niches and the competitive exclusion principle",
@@ -348,8 +348,8 @@
         ]
       },
       {
-        "topicName": "Population Ecology & Conservation Biology",
-        "subTopics": [
+        "topic_name": "Population Ecology & Conservation Biology",
+        "sub_topics": [
           "Population characteristics (size, density, distribution, age structure)",
           "Exponential and logistic population growth models",
           "Carrying capacity and limiting factors",

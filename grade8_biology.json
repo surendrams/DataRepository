@@ -1,0 +1,304 @@
+[
+  {
+    "grade": "8",
+    "subject": "Biology",
+    "reference": "Spectrum Science, Grade 8 / ISBN 9781483811727 / Spectrum",
+    "majorTopics": [
+      {
+        "topicName": "Nature of Life Science & Scientific Inquiry",
+        "subTopics": [
+          "What is biology and its branches?",
+          "Scientific methods and inquiry process",
+          "Forming hypotheses and testable questions",
+          "Designing and conducting controlled experiments",
+          "Independent, dependent, and controlled variables",
+          "Collecting, recording, and analyzing data",
+          "Drawing conclusions and communicating findings",
+          "Scientific models, theories, and laws",
+          "Measurement and SI units",
+          "Accuracy, precision, and percent error",
+          "Tools and technology in biology (microscopes, DNA sequencing, imaging)",
+          "Laboratory safety rules and practices"
+        ]
+      },
+      {
+        "topicName": "Cell Biology",
+        "subTopics": [
+          "Cell theory and its history",
+          "Prokaryotic and eukaryotic cells",
+          "Structure and function of cell organelles",
+          "Animal cell vs. plant cell comparison",
+          "Cell membrane structure (fluid mosaic model)",
+          "Cell wall structure and function",
+          "Nucleus and genetic material",
+          "Mitochondria and energy production",
+          "Chloroplasts and photosynthesis",
+          "Ribosomes, endoplasmic reticulum, and Golgi apparatus",
+          "Vacuoles, lysosomes, and peroxisomes",
+          "Specialized cells and their functions",
+          "Cell size and surface area-to-volume ratio",
+          "Microscopy and observing cells"
+        ]
+      },
+      {
+        "topicName": "Cell Processes & Energy",
+        "subTopics": [
+          "Photosynthesis and its overall equation",
+          "Light-dependent and light-independent reactions",
+          "Role of chlorophyll and light energy",
+          "Factors affecting photosynthesis (light, CO₂, temperature)",
+          "Cellular respiration and its overall equation",
+          "Aerobic respiration (glycolysis, Krebs cycle, electron transport chain)",
+          "Anaerobic respiration and fermentation",
+          "Comparison of photosynthesis and cellular respiration",
+          "Cell transport (diffusion and osmosis)",
+          "Active vs. passive transport",
+          "Endocytosis and exocytosis",
+          "Enzymes and their role in cell processes",
+          "Homeostasis at the cellular level"
+        ]
+      },
+      {
+        "topicName": "Cell Division & the Cell Cycle",
+        "subTopics": [
+          "The cell cycle (interphase, mitosis, cytokinesis)",
+          "DNA replication during interphase",
+          "Phases of mitosis (prophase, metaphase, anaphase, telophase)",
+          "Cytokinesis in animal vs. plant cells",
+          "Regulation of the cell cycle",
+          "Cancer as uncontrolled cell division",
+          "Meiosis and its phases (meiosis I and meiosis II)",
+          "Comparing mitosis and meiosis",
+          "Formation of gametes (sperm and egg cells)",
+          "Crossing over and genetic recombination",
+          "Chromosome number and ploidy (haploid vs. diploid)",
+          "Real-world applications of cell division research"
+        ]
+      },
+      {
+        "topicName": "Genetics & Heredity",
+        "subTopics": [
+          "Introduction to heredity and traits",
+          "Gregor Mendel's experiments with pea plants",
+          "Law of segregation",
+          "Law of independent assortment",
+          "Dominant and recessive alleles",
+          "Genotype and phenotype",
+          "Homozygous and heterozygous genotypes",
+          "Monohybrid and dihybrid crosses",
+          "Punnett squares and probability",
+          "Incomplete dominance and codominance",
+          "Multiple alleles (ABO blood types)",
+          "Polygenic inheritance",
+          "Sex determination (X and Y chromosomes)",
+          "Sex-linked traits and X-linked inheritance",
+          "Environmental influence on gene expression"
+        ]
+      },
+      {
+        "topicName": "DNA, RNA & Protein Synthesis",
+        "subTopics": [
+          "Structure of DNA (double helix, nucleotides, base pairing)",
+          "DNA replication process",
+          "Genes and their role in heredity",
+          "Structure and types of RNA (mRNA, tRNA, rRNA)",
+          "Transcription (DNA to mRNA)",
+          "Translation (mRNA to protein)",
+          "The genetic code and codons",
+          "Role of ribosomes in protein synthesis",
+          "Gene expression and regulation",
+          "Mutations (point mutations, frameshift mutations, chromosomal mutations)",
+          "Effects of mutations on proteins and traits",
+          "Mutagens and their sources"
+        ]
+      },
+      {
+        "topicName": "Biotechnology & Genetic Engineering",
+        "subTopics": [
+          "Introduction to biotechnology",
+          "Recombinant DNA technology",
+          "Restriction enzymes and DNA cutting",
+          "Gel electrophoresis",
+          "Polymerase chain reaction (PCR)",
+          "Genetic engineering and transgenic organisms",
+          "Genetically modified organisms (GMOs) and their applications",
+          "Cloning (therapeutic and reproductive)",
+          "Stem cells and their potential",
+          "Gene therapy",
+          "DNA fingerprinting and forensic science",
+          "Human Genome Project",
+          "Ethical, legal, and social issues in biotechnology"
+        ]
+      },
+      {
+        "topicName": "Classification & Diversity of Life",
+        "subTopics": [
+          "Need for classification and taxonomy",
+          "Carolus Linnaeus and binomial nomenclature",
+          "Levels of classification (domain, kingdom, phylum, class, order, family, genus, species)",
+          "Three domains of life (Bacteria, Archaea, Eukarya)",
+          "Six kingdoms overview",
+          "Dichotomous keys and their use",
+          "Cladograms and phylogenetic trees",
+          "Molecular evidence in classification",
+          "Kingdom Bacteria and Archaea",
+          "Kingdom Protista",
+          "Kingdom Fungi",
+          "Kingdom Plantae",
+          "Kingdom Animalia",
+          "Evolutionary relationships and changes in classification"
+        ]
+      },
+      {
+        "topicName": "Microorganisms & Viruses",
+        "subTopics": [
+          "Characteristics and structure of viruses",
+          "Lytic and lysogenic replication cycles",
+          "Viral diseases and their impact (influenza, HIV, COVID-19)",
+          "Vaccines and antiviral medications",
+          "Characteristics of bacteria (structure, nutrition, reproduction)",
+          "Beneficial bacteria (decomposers, nitrogen fixers, probiotics)",
+          "Harmful bacteria and bacterial diseases",
+          "Antibiotic use and antibiotic resistance",
+          "Characteristics and diversity of protists",
+          "Protist diseases (malaria, sleeping sickness)",
+          "Archaea and extreme environments",
+          "Role of microorganisms in ecosystems"
+        ]
+      },
+      {
+        "topicName": "Plants: Structure, Function & Reproduction",
+        "subTopics": [
+          "Characteristics and importance of plants",
+          "Vascular and nonvascular plants",
+          "Seedless plants (mosses, liverworts, ferns, horsetails)",
+          "Seed plants (gymnosperms and angiosperms)",
+          "Root structure and functions (absorption, anchorage, storage)",
+          "Stem structure and functions (support, transport)",
+          "Leaf structure and functions (photosynthesis, gas exchange, transpiration)",
+          "Xylem and phloem (water and nutrient transport)",
+          "Flower structure and pollination",
+          "Seed formation, dispersal, and germination",
+          "Asexual reproduction in plants",
+          "Plant hormones and growth regulation",
+          "Plant responses to stimuli (tropisms, photoperiodism, dormancy)",
+          "Plant adaptations to different environments"
+        ]
+      },
+      {
+        "topicName": "Animals: Diversity, Structure & Function",
+        "subTopics": [
+          "Characteristics of animals",
+          "Invertebrate phyla overview (Porifera, Cnidaria, Platyhelminthes, Nematoda, Annelida, Mollusca, Echinodermata, Arthropoda)",
+          "Arthropod diversity (insects, arachnids, crustaceans, myriapods)",
+          "Insect life cycles and metamorphosis",
+          "Characteristics of vertebrates",
+          "Fish diversity (jawless, cartilaginous, bony fish)",
+          "Amphibians and their adaptations",
+          "Reptiles and their characteristics",
+          "Birds and adaptations for flight",
+          "Mammal diversity (monotremes, marsupials, placental mammals)",
+          "Endothermy vs. ectothermy",
+          "Animal reproduction strategies",
+          "Animal behavior (instinct, learned behavior, communication, migration, hibernation)",
+          "Adaptations for survival in different environments"
+        ]
+      },
+      {
+        "topicName": "Human Body Systems",
+        "subTopics": [
+          "Levels of organization (cells, tissues, organs, organ systems, organism)",
+          "Integumentary system (skin, hair, nails)",
+          "Skeletal system (bones, joints, cartilage)",
+          "Muscular system (skeletal, smooth, cardiac muscle)",
+          "Digestive system and nutrient absorption",
+          "Circulatory system (heart, blood vessels, blood components)",
+          "Respiratory system and gas exchange",
+          "Excretory system (kidneys, lungs, skin, liver)",
+          "Nervous system (central and peripheral nervous system)",
+          "Endocrine system and hormone regulation",
+          "Immune system and defense mechanisms",
+          "Lymphatic system",
+          "Reproductive system and human development",
+          "Interactions among body systems and homeostasis"
+        ]
+      },
+      {
+        "topicName": "Ecology & Ecosystems",
+        "subTopics": [
+          "Biotic and abiotic factors in ecosystems",
+          "Populations, communities, ecosystems, and the biosphere",
+          "Ecological niches and habitats",
+          "Food chains, food webs, and energy pyramids",
+          "Energy flow and the 10% rule",
+          "Trophic levels (producers, primary/secondary/tertiary consumers, decomposers)",
+          "Water cycle",
+          "Carbon cycle",
+          "Nitrogen cycle",
+          "Phosphorus cycle",
+          "Symbiotic relationships (mutualism, commensalism, parasitism)",
+          "Predator-prey relationships and population cycles",
+          "Competition (intraspecific and interspecific)",
+          "Major biomes (tundra, taiga, temperate forest, tropical rainforest, grassland, desert)",
+          "Aquatic ecosystems (freshwater and marine)"
+        ]
+      },
+      {
+        "topicName": "Population Biology & Community Ecology",
+        "subTopics": [
+          "Population characteristics (size, density, distribution, age structure)",
+          "Population growth models (exponential and logistic growth)",
+          "Carrying capacity and its significance",
+          "Limiting factors (biotic and abiotic)",
+          "Density-dependent and density-independent factors",
+          "Predator-prey population cycles",
+          "Ecological succession (primary and secondary)",
+          "Pioneer species and climax communities",
+          "Invasive species and their ecological consequences",
+          "Island biogeography (introduction)",
+          "Keystone species and their importance",
+          "Biodiversity and ecosystem stability"
+        ]
+      },
+      {
+        "topicName": "Evolution & Natural Selection",
+        "subTopics": [
+          "Early theories of evolution (Lamarck, Darwin)",
+          "Charles Darwin and the voyage of the Beagle",
+          "Natural selection and survival of the fittest",
+          "Variation and adaptation in populations",
+          "Evidence for evolution (fossil record, comparative anatomy, embryology, biogeography, molecular biology)",
+          "Types of natural selection (directional, stabilizing, disruptive)",
+          "Genetic drift and the founder effect",
+          "Gene flow and migration",
+          "Artificial selection and selective breeding",
+          "Speciation (allopatric and sympatric)",
+          "Reproductive isolation mechanisms",
+          "Macroevolution and evolutionary trends",
+          "Extinction and mass extinction events",
+          "Geologic time scale and the history of life on Earth"
+        ]
+      },
+      {
+        "topicName": "Human Impact on the Environment & Conservation",
+        "subTopics": [
+          "Human population growth and resource consumption",
+          "Land use changes (deforestation, urbanization, agriculture)",
+          "Water pollution and freshwater scarcity",
+          "Air pollution and its ecological effects",
+          "Soil degradation and desertification",
+          "Climate change and global warming",
+          "Effects of climate change on ecosystems and species",
+          "Loss of biodiversity and habitat fragmentation",
+          "Overhunting, overfishing, and their consequences",
+          "Invasive species introduced by human activities",
+          "Endangered and extinct species",
+          "Conservation biology strategies",
+          "Protected areas, wildlife corridors, and captive breeding",
+          "Sustainability and environmental stewardship",
+          "Individual and community actions for conservation"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,304 @@
+[
+  {
+    "grade": "8",
+    "subject": "Physics",
+    "reference": "Glencoe Physical iScience, Grade 8 / ISBN 9780078893872 / McGraw-Hill/Glencoe",
+    "majorTopics": [
+      {
+        "topicName": "Nature of Science & Engineering",
+        "subTopics": [
+          "What is physical science?",
+          "Scientific inquiry and the scientific method",
+          "Forming hypotheses and testable questions",
+          "Designing and conducting controlled experiments",
+          "Independent, dependent, and controlled variables",
+          "Collecting, organizing, and interpreting data",
+          "Drawing conclusions and communicating findings",
+          "Scientific models, theories, and laws",
+          "Measurement and SI units",
+          "Accuracy, precision, and percent error",
+          "Significant figures and scientific notation",
+          "Tools and technology in physical science",
+          "Engineering design process",
+          "Defining problems, criteria, and constraints",
+          "Safety rules and practices in the laboratory"
+        ]
+      },
+      {
+        "topicName": "Matter & Its Properties",
+        "subTopics": [
+          "Definition and properties of matter",
+          "Physical properties and their measurement",
+          "Chemical properties of matter",
+          "Mass, volume, and density",
+          "Calculating and comparing density",
+          "Physical changes in matter",
+          "Chemical changes in matter",
+          "Evidence of chemical change",
+          "Law of conservation of mass",
+          "Pure substances vs. mixtures",
+          "Elements and compounds",
+          "Homogeneous and heterogeneous mixtures",
+          "Separating mixtures (filtration, distillation, chromatography, evaporation)",
+          "Real-world applications of matter properties"
+        ]
+      },
+      {
+        "topicName": "Atoms, Elements & the Periodic Table",
+        "subTopics": [
+          "History of atomic theory (Dalton, Thomson, Rutherford, Bohr, modern model)",
+          "Structure of the atom (protons, neutrons, electrons)",
+          "Atomic number and mass number",
+          "Isotopes and average atomic mass",
+          "Electron clouds and energy levels",
+          "Valence electrons and chemical reactivity",
+          "Organization of the periodic table",
+          "Periods and groups",
+          "Metals, nonmetals, and metalloids",
+          "Periodic trends (atomic radius, electronegativity, ionization energy)",
+          "Families of elements (alkali metals, alkaline earth metals, halogens, noble gases, transition metals)",
+          "Radioactive elements and nuclear decay (introduction)"
+        ]
+      },
+      {
+        "topicName": "Chemical Bonding & Compounds",
+        "subTopics": [
+          "Why atoms form chemical bonds",
+          "Ionic bonds and the formation of ionic compounds",
+          "Properties of ionic compounds",
+          "Covalent bonds and molecules",
+          "Polar and nonpolar covalent bonds",
+          "Properties of covalent compounds",
+          "Metallic bonds and properties of metals",
+          "Chemical formulas and naming binary compounds",
+          "Polyatomic ions and their compounds",
+          "Molecular geometry (introduction)",
+          "Intermolecular forces (introduction)",
+          "Real-world applications of chemical bonding"
+        ]
+      },
+      {
+        "topicName": "Chemical Reactions & Equations",
+        "subTopics": [
+          "What is a chemical reaction?",
+          "Reactants and products",
+          "Writing chemical equations",
+          "Balancing chemical equations",
+          "Law of conservation of mass in chemical reactions",
+          "Types of chemical reactions (synthesis, decomposition, single replacement, double replacement, combustion)",
+          "Oxidation-reduction reactions (introduction)",
+          "Exothermic reactions and energy release",
+          "Endothermic reactions and energy absorption",
+          "Activation energy and energy diagrams",
+          "Reaction rates",
+          "Factors affecting reaction rates (temperature, concentration, surface area, catalysts)",
+          "Catalysts and inhibitors",
+          "Real-world applications of chemical reactions"
+        ]
+      },
+      {
+        "topicName": "Solutions, Acids & Bases",
+        "subTopics": [
+          "Solutions and their properties",
+          "Solute, solvent, and the dissolving process",
+          "Factors affecting solubility (temperature, pressure, particle size)",
+          "Concentration and molarity (introduction)",
+          "Saturated, unsaturated, and supersaturated solutions",
+          "Suspensions and colloids",
+          "Properties and examples of acids",
+          "Properties and examples of bases",
+          "The pH scale and its measurement",
+          "Neutralization reactions and salt formation",
+          "Acid-base indicators",
+          "Real-world applications of acids and bases"
+        ]
+      },
+      {
+        "topicName": "Motion & Speed",
+        "subTopics": [
+          "Describing motion and frames of reference",
+          "Distance and displacement",
+          "Speed and average speed",
+          "Instantaneous speed",
+          "Velocity and direction of motion",
+          "Acceleration and deceleration",
+          "Calculating acceleration",
+          "Distance-time graphs and their interpretation",
+          "Velocity-time graphs and their interpretation",
+          "Relative motion",
+          "Projectile motion (introduction)",
+          "Real-world examples of motion"
+        ]
+      },
+      {
+        "topicName": "Forces & Newton's Laws",
+        "subTopics": [
+          "What is a force?",
+          "Measuring force (Newtons)",
+          "Net force and free body diagrams",
+          "Balanced and unbalanced forces",
+          "Newton's first law of motion (law of inertia)",
+          "Inertia and mass",
+          "Newton's second law of motion (F = ma)",
+          "Newton's third law of motion (action-reaction pairs)",
+          "Gravity and the universal law of gravitation",
+          "Weight vs. mass",
+          "Types of friction (static, kinetic, rolling)",
+          "Air resistance and terminal velocity",
+          "Centripetal force and circular motion",
+          "Real-world applications of Newton's laws"
+        ]
+      },
+      {
+        "topicName": "Work, Power & Simple Machines",
+        "subTopics": [
+          "Definition and calculation of work (W = F × d)",
+          "Conditions necessary for work to be done",
+          "Power and its calculation (P = W/t)",
+          "Units of work and power (joules, watts)",
+          "What is a machine and its purpose?",
+          "Input force, output force, and mechanical advantage",
+          "Efficiency of machines",
+          "Levers and their three classes",
+          "Pulleys (fixed, movable, block and tackle)",
+          "Wheel and axle",
+          "Inclined plane",
+          "Wedge and screw",
+          "Compound machines",
+          "Real-world applications of simple machines"
+        ]
+      },
+      {
+        "topicName": "Energy & Its Conservation",
+        "subTopics": [
+          "What is energy and its units (joules)?",
+          "Kinetic energy and its calculation (KE = ½mv²)",
+          "Gravitational potential energy and its calculation (PE = mgh)",
+          "Elastic potential energy",
+          "Mechanical energy",
+          "Thermal energy",
+          "Chemical energy",
+          "Electrical energy",
+          "Radiant (light) energy",
+          "Nuclear energy",
+          "Energy transformations and conversions",
+          "Law of conservation of energy",
+          "Energy efficiency",
+          "Renewable and nonrenewable energy sources",
+          "Real-world examples of energy transformations"
+        ]
+      },
+      {
+        "topicName": "Thermal Energy, Heat & Thermodynamics",
+        "subTopics": [
+          "Thermal energy and its relationship to particle motion",
+          "Temperature and thermometers",
+          "Difference between heat and temperature",
+          "Specific heat capacity and its calculation",
+          "Methods of heat transfer (conduction, convection, radiation)",
+          "Conductors and insulators",
+          "Thermal expansion of solids, liquids, and gases",
+          "Changes of state and latent heat",
+          "Heating and cooling curves",
+          "First and second laws of thermodynamics (introduction)",
+          "Heat engines and refrigerators (introduction)",
+          "Real-world applications of thermal energy"
+        ]
+      },
+      {
+        "topicName": "Waves, Sound & Light",
+        "subTopics": [
+          "What is a wave and wave characteristics?",
+          "Wavelength, frequency, amplitude, and wave speed",
+          "Transverse and longitudinal waves",
+          "Mechanical vs. electromagnetic waves",
+          "Wave interactions (reflection, refraction, diffraction, interference)",
+          "Standing waves and resonance",
+          "Properties and characteristics of sound waves",
+          "Speed of sound in different media",
+          "Pitch, loudness, and intensity (decibels)",
+          "The Doppler effect",
+          "Echolocation, sonar, and ultrasound applications",
+          "The electromagnetic spectrum",
+          "Properties and behavior of light",
+          "Reflection of light and mirrors (plane, concave, convex)",
+          "Refraction of light and lenses (converging, diverging)",
+          "Color, light absorption, and the visible spectrum",
+          "Real-world applications of waves, sound, and light"
+        ]
+      },
+      {
+        "topicName": "Electricity",
+        "subTopics": [
+          "Electric charge and the law of electric charges",
+          "Static electricity and static discharge",
+          "Electric force and Coulomb's law (introduction)",
+          "Electric fields and electric potential energy",
+          "Electric current (direct and alternating current)",
+          "Conductors, insulators, and semiconductors",
+          "Resistance and Ohm's law (V = IR)",
+          "Series circuits and their properties",
+          "Parallel circuits and their properties",
+          "Combined series-parallel circuits",
+          "Circuit diagrams and schematic symbols",
+          "Electric power (P = IV) and energy consumption",
+          "Sources of electrical energy (batteries, generators, solar cells)",
+          "Electrical safety and circuit protection (fuses, circuit breakers)",
+          "Real-world applications of electricity"
+        ]
+      },
+      {
+        "topicName": "Magnetism & Electromagnetism",
+        "subTopics": [
+          "Properties of magnets and magnetic poles",
+          "Magnetic force and its characteristics",
+          "Magnetic fields and field lines",
+          "Types of magnets (permanent, temporary, electromagnets)",
+          "Earth's magnetic field and its importance",
+          "Relationship between electricity and magnetism",
+          "Oersted's discovery of electromagnetism",
+          "Electromagnets and their applications",
+          "Electromagnetic induction and Faraday's law",
+          "Electric motors and their operation",
+          "Electric generators and their operation",
+          "Transformers and power transmission",
+          "Real-world applications of electromagnetism"
+        ]
+      },
+      {
+        "topicName": "Nuclear Science & Radioactivity",
+        "subTopics": [
+          "Structure of the nucleus",
+          "Nuclear forces and stability",
+          "Radioactivity and radioactive decay",
+          "Types of nuclear radiation (alpha, beta, gamma)",
+          "Half-life and radioactive dating",
+          "Detecting radiation",
+          "Effects of radiation on living organisms",
+          "Nuclear fission and chain reactions",
+          "Nuclear fusion",
+          "Nuclear power plants and energy production",
+          "Uses of radioactive isotopes (medical imaging, cancer treatment, carbon dating)",
+          "Nuclear waste and safety concerns",
+          "Future of nuclear energy"
+        ]
+      },
+      {
+        "topicName": "Earth & Space Applications of Physical Science",
+        "subTopics": [
+          "Gravitational forces and planetary motion",
+          "Kepler's laws of planetary motion (introduction)",
+          "Physical properties of Earth's layers",
+          "Seismic waves and Earth's interior",
+          "Density and Earth's structure",
+          "Energy from the Sun and solar radiation",
+          "The electromagnetic spectrum and astronomy",
+          "Spectroscopy and identifying elements in stars",
+          "Physical science in space exploration",
+          "Satellite motion and orbital mechanics (introduction)",
+          "Engineering and technology in Earth and space science"
+        ]
+      }
+    ]
+  }
+]

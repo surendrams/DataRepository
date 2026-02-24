@@ -1,0 +1,282 @@
+[
+  {
+    "grade": "8",
+    "subject": "Chemistry",
+    "reference": "Glencoe Physical iScience, Grade 8 / ISBN 9780078893872 / McGraw-Hill/Glencoe",
+    "majorTopics": [
+      {
+        "topicName": "Nature of Science & Scientific Inquiry",
+        "subTopics": [
+          "What is chemistry and its branches?",
+          "Scientific methods and inquiry process",
+          "Forming hypotheses and testable questions",
+          "Designing and conducting controlled experiments",
+          "Independent, dependent, and controlled variables",
+          "Collecting, organizing, and interpreting data",
+          "Drawing conclusions and communicating findings",
+          "Scientific models, theories, and laws",
+          "Measurement and SI units",
+          "Accuracy, precision, and percent error",
+          "Significant figures and scientific notation",
+          "Tools and equipment in chemistry",
+          "Laboratory safety rules and practices"
+        ]
+      },
+      {
+        "topicName": "Matter & Its Properties",
+        "subTopics": [
+          "Definition and properties of matter",
+          "Physical properties of matter",
+          "Chemical properties of matter",
+          "Extensive vs. intensive properties",
+          "Mass, volume, and density",
+          "Calculating and comparing density",
+          "Physical changes in matter",
+          "Chemical changes in matter",
+          "Evidence of chemical change",
+          "Law of conservation of mass",
+          "Pure substances vs. mixtures",
+          "Elements and compounds",
+          "Homogeneous and heterogeneous mixtures",
+          "Separating mixtures (filtration, distillation, chromatography, evaporation, magnetism)"
+        ]
+      },
+      {
+        "topicName": "States of Matter",
+        "subTopics": [
+          "The four states of matter (solid, liquid, gas, plasma)",
+          "Kinetic molecular theory",
+          "Properties of solids (crystalline and amorphous)",
+          "Properties of liquids (surface tension, viscosity, capillarity)",
+          "Properties of gases",
+          "Changes of state (melting, freezing, vaporization, condensation, sublimation, deposition)",
+          "Heating and cooling curves",
+          "Latent heat of fusion and vaporization",
+          "Vapor pressure",
+          "Gas laws (Boyle's law, Charles's law, Gay-Lussac's law)",
+          "The combined gas law",
+          "Real-world applications of states of matter"
+        ]
+      },
+      {
+        "topicName": "Atomic Structure & Theory",
+        "subTopics": [
+          "Early atomic models (Dalton, Thomson, Rutherford, Bohr)",
+          "The quantum mechanical model of the atom",
+          "Structure of the atom (protons, neutrons, electrons)",
+          "Atomic number and mass number",
+          "Isotopes and average atomic mass",
+          "Calculating atomic mass from isotopes",
+          "Electron energy levels and sublevels",
+          "Electron configuration",
+          "Valence electrons and Lewis dot structures",
+          "Ions and ion formation",
+          "Nuclear stability and radioactive isotopes (introduction)",
+          "Real-world applications of atomic structure"
+        ]
+      },
+      {
+        "topicName": "The Periodic Table",
+        "subTopics": [
+          "History and development of the periodic table",
+          "Mendeleev's contributions and periodic law",
+          "Organization of the periodic table (periods and groups)",
+          "Metals, nonmetals, and metalloids",
+          "Properties of metals",
+          "Properties of nonmetals",
+          "Properties of metalloids",
+          "Group 1: Alkali metals",
+          "Group 2: Alkaline earth metals",
+          "Groups 3–12: Transition metals",
+          "Group 17: Halogens",
+          "Group 18: Noble gases",
+          "Periodic trends (atomic radius, ionization energy, electronegativity, electron affinity)",
+          "Using the periodic table to predict properties"
+        ]
+      },
+      {
+        "topicName": "Chemical Bonding",
+        "subTopics": [
+          "Why atoms form chemical bonds",
+          "Valence electrons and bond formation",
+          "Ionic bonds and the transfer of electrons",
+          "Formation and properties of ionic compounds",
+          "Covalent bonds and the sharing of electrons",
+          "Single, double, and triple covalent bonds",
+          "Polar and nonpolar covalent bonds",
+          "Electronegativity and bond polarity",
+          "Properties of covalent compounds",
+          "Metallic bonds and properties of metals",
+          "Lewis dot structures for molecules",
+          "Molecular geometry and VSEPR theory (introduction)",
+          "Intermolecular forces (hydrogen bonding, dipole-dipole, London dispersion)",
+          "Network covalent solids",
+          "Real-world applications of chemical bonding"
+        ]
+      },
+      {
+        "topicName": "Chemical Formulas & Nomenclature",
+        "subTopics": [
+          "Chemical symbols and formulas",
+          "Writing formulas for ionic compounds",
+          "Writing formulas for covalent compounds",
+          "Polyatomic ions and their formulas",
+          "Naming binary ionic compounds",
+          "Naming ionic compounds with transition metals",
+          "Naming compounds with polyatomic ions",
+          "Naming binary covalent compounds",
+          "Naming acids (binary acids and oxyacids)",
+          "The mole concept and Avogadro's number (introduction)",
+          "Molar mass and formula mass",
+          "Percent composition",
+          "Empirical and molecular formulas (introduction)"
+        ]
+      },
+      {
+        "topicName": "Chemical Reactions & Equations",
+        "subTopics": [
+          "What is a chemical reaction?",
+          "Evidence of a chemical reaction",
+          "Reactants and products",
+          "Writing word equations",
+          "Writing and interpreting chemical equations",
+          "Balancing chemical equations",
+          "Law of conservation of mass in reactions",
+          "Synthesis (combination) reactions",
+          "Decomposition reactions",
+          "Single replacement reactions",
+          "Double replacement reactions",
+          "Combustion reactions",
+          "Oxidation-reduction reactions (introduction)",
+          "Activity series and predicting reactions",
+          "Real-world applications of chemical reactions"
+        ]
+      },
+      {
+        "topicName": "Reaction Rates & Energy Changes",
+        "subTopics": [
+          "What is reaction rate?",
+          "Measuring reaction rates",
+          "Collision theory",
+          "Activation energy and energy diagrams",
+          "Factors affecting reaction rates (temperature, concentration, surface area, particle size)",
+          "Catalysts and their mechanism",
+          "Inhibitors",
+          "Exothermic reactions and energy release",
+          "Endothermic reactions and energy absorption",
+          "Enthalpy and heat of reaction (introduction)",
+          "Chemical equilibrium (introduction)",
+          "Le Chatelier's principle (introduction)",
+          "Real-world applications of reaction rates and energy"
+        ]
+      },
+      {
+        "topicName": "Solutions & the Dissolving Process",
+        "subTopics": [
+          "What is a solution?",
+          "Solute, solvent, and aqueous solutions",
+          "The dissolving process and solvation",
+          "Like dissolves like (polarity and solubility)",
+          "Factors affecting solubility (temperature, pressure, particle size, stirring)",
+          "Solubility curves and graphs",
+          "Saturated, unsaturated, and supersaturated solutions",
+          "Concentration and molarity (introduction)",
+          "Dilution of solutions",
+          "Suspensions and colloids",
+          "Tyndall effect",
+          "Electrolytes and nonelectrolytes",
+          "Colligative properties (introduction)",
+          "Real-world applications of solutions"
+        ]
+      },
+      {
+        "topicName": "Acids, Bases & Salts",
+        "subTopics": [
+          "Properties and characteristics of acids",
+          "Common examples of acids",
+          "Properties and characteristics of bases",
+          "Common examples of bases",
+          "Arrhenius definition of acids and bases",
+          "Brønsted-Lowry definition (introduction)",
+          "The pH scale and measuring acidity",
+          "Strong vs. weak acids and bases",
+          "Neutralization reactions",
+          "Formation and properties of salts",
+          "Acid-base indicators and their uses",
+          "Buffers and their importance",
+          "Real-world applications of acids, bases, and salts"
+        ]
+      },
+      {
+        "topicName": "Organic Chemistry",
+        "subTopics": [
+          "Introduction to organic chemistry",
+          "Carbon and its unique bonding properties",
+          "Hydrocarbons (alkanes, alkenes, alkynes)",
+          "Structural formulas and isomers",
+          "Naming simple organic compounds",
+          "Functional groups and their properties",
+          "Alcohols, ethers, and aldehydes",
+          "Carboxylic acids and esters",
+          "Amines and amides",
+          "Polymers and polymerization",
+          "Natural polymers (proteins, carbohydrates, nucleic acids)",
+          "Synthetic polymers and plastics",
+          "Real-world applications of organic chemistry"
+        ]
+      },
+      {
+        "topicName": "Biochemistry & Chemistry of Life",
+        "subTopics": [
+          "Chemistry in living systems",
+          "Water and its unique chemical properties",
+          "Carbohydrates (monosaccharides, disaccharides, polysaccharides)",
+          "Lipids (fats, oils, phospholipids)",
+          "Proteins and amino acids",
+          "Enzymes and biochemical reactions",
+          "Nucleic acids (DNA and RNA introduction)",
+          "Vitamins and minerals",
+          "Metabolism (anabolism and catabolism)",
+          "Photosynthesis as a chemical reaction",
+          "Cellular respiration as a chemical reaction",
+          "Real-world applications of biochemistry"
+        ]
+      },
+      {
+        "topicName": "Nuclear Chemistry",
+        "subTopics": [
+          "Structure and stability of the nucleus",
+          "Radioactivity and radioactive decay",
+          "Types of nuclear radiation (alpha, beta, gamma)",
+          "Writing nuclear equations",
+          "Half-life and radioactive decay calculations",
+          "Detecting radiation (Geiger counter, film badges)",
+          "Effects of radiation on living organisms",
+          "Nuclear fission and chain reactions",
+          "Nuclear fusion",
+          "Nuclear power plants and energy production",
+          "Uses of radioactive isotopes (medicine, food irradiation, carbon dating)",
+          "Nuclear waste management and safety",
+          "Benefits and risks of nuclear chemistry"
+        ]
+      },
+      {
+        "topicName": "Chemistry of Materials & Engineering",
+        "subTopics": [
+          "Properties of metals, alloys, and their uses",
+          "Properties of ceramics and glass",
+          "Properties of polymers and plastics",
+          "Composite materials",
+          "Semiconductors and their applications",
+          "Superconductors (introduction)",
+          "Nanomaterials and nanotechnology (introduction)",
+          "Chemical corrosion and its prevention",
+          "Adhesives, coatings, and surface chemistry",
+          "Green chemistry and sustainable materials",
+          "Engineering new materials for real-world applications",
+          "Chemistry in environmental science and pollution control"
+        ]
+      }
+    ]
+  }
+]

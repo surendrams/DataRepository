@@ -1,0 +1,54 @@
+[
+  {
+    "grade": "ACT",
+    "subject": "English",
+    "reference": "Enhanced ACT 2025-2026 / ACT, Inc. / act.org",
+    "notes": "Core section | 50 questions | 35 minutes | Score range: 1–36",
+    "major_topics": [
+      {
+        "topic_name": "Production of Writing",
+        "weightage": "38–43%",
+        "sub_topics": [
+          "Topic Development — determining the purpose and objective of a text passage",
+          "Assessing whether a passage or section has achieved its intended purpose",
+          "Evaluating relevance of material to the text's main theme",
+          "Rhetorical devices and their effective use in writing",
+          "Organisation, Unity, and Cohesion — ensuring logical flow of a text",
+          "Selecting effective introductory, transitional, and concluding sentences",
+          "Maintaining unity within and between paragraphs",
+          "Argumentative essay structure (new in 2025 Enhanced ACT)",
+          "Identifying and improving weak or off-topic supporting details"
+        ]
+      },
+      {
+        "topic_name": "Knowledge of Language",
+        "weightage": "18–23%",
+        "sub_topics": [
+          "Selecting precise and concise vocabulary in context",
+          "Maintaining consistent tone and style throughout a passage",
+          "Avoiding redundancy and wordiness",
+          "Choosing words that fit the purpose and intended audience",
+          "Matching language register to formal or informal contexts",
+          "Avoiding ambiguous pronoun references"
+        ]
+      },
+      {
+        "topic_name": "Conventions of Standard English",
+        "weightage": "38–43%",
+        "sub_topics": [
+          "Sentence Structure and Formation — correcting run-ons, fragments, and fused sentences",
+          "Parallel structure in lists and paired constructions",
+          "Subordination and coordination of clauses",
+          "Modifier placement — avoiding dangling and misplaced modifiers",
+          "Punctuation — correct use of commas, semicolons, colons, apostrophes, and dashes",
+          "End punctuation usage",
+          "Usage — subject-verb agreement",
+          "Pronoun-antecedent agreement and pronoun case",
+          "Verb tense consistency",
+          "Adjective vs. adverb usage",
+          "Commonly confused words (e.g., affect/effect, its/it's, who/whom)"
+        ]
+      }
+    ]
+  }
+]

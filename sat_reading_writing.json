@@ -1,0 +1,74 @@
+[
+  {
+    "grade": "SAT",
+    "subject": "Reading Writing",
+    "reference": "Digital SAT / College Board / sat.collegeboard.org",
+    "major_topics": [
+      {
+        "topic_name": "Reading Comprehension",
+        "sub_topics": [
+          "Identifying central ideas, themes, and supporting details",
+          "Understanding word meaning and vocabulary in context",
+          "Drawing inferences and evaluating evidence",
+          "Analysing arguments and author's perspective",
+          "Integrating text with visual data (charts, graphs, and tables)",
+          "Evidence-based questions requiring specific proof from passages",
+          "Interpreting data from charts or tables tied to passages",
+          "Function of words or phrases in context",
+          "Literature passages: prose from U.S. and world literature — themes, character analysis, narrative structure",
+          "History/Social Studies passages: U.S. founding documents, speeches, economics, sociology, political science",
+          "Science passages: biology, chemistry, physics, earth sciences — often include tables, graphs, or charts",
+          "Humanities passages: arts, culture, philosophy"
+        ]
+      },
+      {
+        "topic_name": "Grammar and Usage",
+        "sub_topics": [
+          "Verb tense consistency and usage",
+          "Pronoun-antecedent agreement",
+          "Subject-verb agreement",
+          "Modifier placement and dangling modifiers",
+          "Adjective vs. adverb usage",
+          "Commonly confused words (their/there/they're, affect/effect, etc.)",
+          "Parallel structure in lists and comparisons"
+        ]
+      },
+      {
+        "topic_name": "Punctuation",
+        "sub_topics": [
+          "Comma usage (lists, introductory clauses, appositives, compound sentences)",
+          "Semicolons and their correct usage",
+          "Colons to introduce lists and explanations",
+          "Apostrophes for possession and contractions",
+          "Dashes for emphasis and parenthetical information",
+          "End punctuation (periods, question marks, exclamation marks)",
+          "Quotation marks and their conventions"
+        ]
+      },
+      {
+        "topic_name": "Sentence Structure",
+        "sub_topics": [
+          "Parallelism in sentences and lists",
+          "Subordination and coordination",
+          "Correcting run-on sentences and comma splices",
+          "Correcting sentence fragments",
+          "Combining and restructuring sentences for clarity",
+          "Transitions between clauses and sentences",
+          "Identifying and correcting awkward or redundant phrasing"
+        ]
+      },
+      {
+        "topic_name": "Expression of Ideas",
+        "sub_topics": [
+          "Logical organization and ordering of information within paragraphs",
+          "Logical transitions between sentences and paragraphs",
+          "Improving style, tone, and word choice",
+          "Adding, removing, or replacing content for clarity and relevance",
+          "Selecting words or phrases that best support the author's purpose",
+          "Conciseness — eliminating unnecessary words",
+          "Passage-level editing for coherence and flow"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "grade": "ACT",
+    "subject": "Reading",
+    "reference": "Enhanced ACT 2025-2026 / ACT, Inc. / act.org",
+    "notes": "Core section | 36 questions | 40 minutes | Score range: 1–36 | Shorter passages introduced in 2025",
+    "major_topics": [
+      {
+        "topic_name": "Key Ideas and Details",
+        "weightage": "44–52%",
+        "sub_topics": [
+          "Identifying the central idea or main theme of a passage",
+          "Summarising key events, arguments, and information",
+          "Understanding explicit and implicit meanings",
+          "Drawing logical inferences from the text",
+          "Tracking character development in literary narratives",
+          "Identifying cause-and-effect relationships",
+          "Distinguishing between fact and opinion",
+          "Understanding sequential and chronological information"
+        ]
+      },
+      {
+        "topic_name": "Craft and Structure",
+        "weightage": "26–33%",
+        "sub_topics": [
+          "Determining the meaning of words and phrases in context",
+          "Analysing the author's purpose and point of view",
+          "Evaluating the effectiveness of author's stylistic choices",
+          "Understanding text structure (comparison, cause-effect, problem-solution)",
+          "Identifying the function of a sentence or paragraph within the whole text",
+          "Recognising tone, mood, and rhetorical strategies",
+          "Analysing how an argument is developed and supported"
+        ]
+      },
+      {
+        "topic_name": "Integration of Knowledge and Ideas",
+        "weightage": "19–26%",
+        "sub_topics": [
+          "Comparing two paired passages on similar themes or topics",
+          "Integrating information from text and visual elements (graphs, tables)",
+          "Evaluating the quality and relevance of evidence in an argument",
+          "Synthesising information across multiple texts",
+          "Identifying and evaluating claims and counterclaims"
+        ]
+      },
+      {
+        "topic_name": "Passage Types",
+        "weightage": "N/A — tested across all three components above",
+        "sub_topics": [
+          "Literary Narrative / Prose Fiction — novels, short stories, personal essays, memoirs",
+          "Social Studies — biography, history, anthropology, psychology, sociology, geography, economics",
+          "Humanities — art, music, philosophy, architecture, cultural history",
+          "Natural Science — meteorology, astronomy, botany, geology, microbiology, anatomy, zoology"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": "ACT",
+    "subject": "Science",
+    "reference": "Enhanced ACT 2025-2026 / ACT, Inc. / act.org",
+    "notes": "OPTIONAL from September 2025 | 40 questions | 40 minutes | Score range: 1–36 | Tests reasoning, not content recall",
+    "major_topics": [
+      {
+        "topic_name": "Interpretation of Data",
+        "weightage": "38–50%",
+        "sub_topics": [
+          "Reading and interpreting graphs (line graphs, bar charts, scatter plots)",
+          "Reading and interpreting data tables",
+          "Identifying trends and patterns in data",
+          "Interpolating and extrapolating from data sets",
+          "Comparing data across experiments or trials",
+          "Identifying anomalies or outliers in data",
+          "Using data to draw conclusions"
+        ]
+      },
+      {
+        "topic_name": "Scientific Investigation",
+        "weightage": "18–32%",
+        "sub_topics": [
+          "Understanding experimental design and methodology",
+          "Identifying independent, dependent, and controlled variables",
+          "Evaluating the validity and reliability of an experiment",
+          "Predicting results of a modified experiment",
+          "Identifying sources of error in an experiment",
+          "Understanding tools and equipment used in scientific research",
+          "Engineering and design topics (new emphasis in 2025 Enhanced ACT)"
+        ]
+      },
+      {
+        "topic_name": "Evaluation of Models, Inferences, and Experimental Results",
+        "weightage": "24–38%",
+        "sub_topics": [
+          "Evaluating and comparing competing scientific hypotheses or models",
+          "Identifying assumptions underlying a scientific model",
+          "Drawing logical conclusions from experimental results",
+          "Recognising strengths and weaknesses of scientific explanations",
+          "Resolving conflicting viewpoints using evidence from passages",
+          "Predicting what new evidence would support or contradict a hypothesis",
+          "Science content areas: biology, chemistry, physics, Earth and space sciences"
+        ]
+      }
+    ]
+  }
+]

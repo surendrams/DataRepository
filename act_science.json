@@ -1,0 +1,49 @@
+[
+  {
+    "grade": "ACT",
+    "subject": "Science",
+    "reference": "Enhanced ACT 2025-2026 / ACT, Inc. / act.org",
+    "notes": "OPTIONAL from September 2025 | 40 questions | 40 minutes | Score range: 1–36 | Tests reasoning, not content recall",
+    "major_topics": [
+      {
+        "topic_name": "Interpretation of Data",
+        "weightage": "38–50%",
+        "sub_topics": [
+          "Reading and interpreting graphs (line graphs, bar charts, scatter plots)",
+          "Reading and interpreting data tables",
+          "Identifying trends and patterns in data",
+          "Interpolating and extrapolating from data sets",
+          "Comparing data across experiments or trials",
+          "Identifying anomalies or outliers in data",
+          "Using data to draw conclusions"
+        ]
+      },
+      {
+        "topic_name": "Scientific Investigation",
+        "weightage": "18–32%",
+        "sub_topics": [
+          "Understanding experimental design and methodology",
+          "Identifying independent, dependent, and controlled variables",
+          "Evaluating the validity and reliability of an experiment",
+          "Predicting results of a modified experiment",
+          "Identifying sources of error in an experiment",
+          "Understanding tools and equipment used in scientific research",
+          "Engineering and design topics (new emphasis in 2025 Enhanced ACT)"
+        ]
+      },
+      {
+        "topic_name": "Evaluation of Models, Inferences, and Experimental Results",
+        "weightage": "24–38%",
+        "sub_topics": [
+          "Evaluating and comparing competing scientific hypotheses or models",
+          "Identifying assumptions underlying a scientific model",
+          "Drawing logical conclusions from experimental results",
+          "Recognising strengths and weaknesses of scientific explanations",
+          "Resolving conflicting viewpoints using evidence from passages",
+          "Predicting what new evidence would support or contradict a hypothesis",
+          "Science content areas: biology, chemistry, physics, Earth and space sciences"
+        ]
+      }
+    ]
+  }
+]

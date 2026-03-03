@@ -1,0 +1,78 @@
+[
+  {
+    "grade": "SAT",
+    "subject": "Mathematics",
+    "reference": "Digital SAT / College Board / sat.collegeboard.org",
+    "major_topics": [
+      {
+        "topic_name": "Algebra (Heart of Algebra)",
+        "sub_topics": [
+          "Solving linear equations in one variable",
+          "Solving linear inequalities in one variable",
+          "Writing linear equations from word problems",
+          "Interpreting linear equations and their components",
+          "Systems of two linear equations — solving by substitution and elimination",
+          "Systems of linear inequalities and their graphs",
+          "Linear functions — slope, intercepts, and rate of change",
+          "Graphing linear equations on the coordinate plane",
+          "Absolute value equations and inequalities",
+          "Creating and solving equations from real-world contexts"
+        ]
+      },
+      {
+        "topic_name": "Advanced Math (Passport to Advanced Math)",
+        "sub_topics": [
+          "Solving quadratic equations by factoring",
+          "Solving quadratic equations using the quadratic formula",
+          "Solving quadratic equations by completing the square",
+          "Interpreting and graphing quadratic functions (parabolas)",
+          "Polynomial expressions — adding, subtracting, multiplying, and dividing",
+          "Factoring polynomials",
+          "Rational expressions and equations",
+          "Exponential functions and their graphs",
+          "Radical equations and expressions",
+          "Nonlinear systems of equations",
+          "Equivalent algebraic expressions and simplification",
+          "Function notation and evaluating functions",
+          "Interpreting graphs of nonlinear functions"
+        ]
+      },
+      {
+        "topic_name": "Problem-Solving & Data Analysis",
+        "sub_topics": [
+          "Ratios, rates, and proportions",
+          "Percentages — calculating, increasing, decreasing, and percent change",
+          "Unit conversions and dimensional analysis",
+          "Descriptive statistics — mean, median, mode, and range",
+          "Standard deviation and spread of data (conceptual)",
+          "Probability — basic and conditional probability",
+          "Interpreting scatterplots and lines of best fit",
+          "Interpreting bar graphs, histograms, and dot plots",
+          "Two-way tables and frequency tables",
+          "Drawing conclusions from data and identifying trends",
+          "Evaluating statistical claims and sampling methods",
+          "Linear vs. exponential growth in data contexts"
+        ]
+      },
+      {
+        "topic_name": "Geometry & Trigonometry",
+        "sub_topics": [
+          "Area and perimeter of triangles, quadrilaterals, and polygons",
+          "Area and circumference of circles",
+          "Properties of triangles — equilateral, isosceles, right triangles",
+          "Pythagorean theorem and its applications",
+          "Congruence and similarity of triangles",
+          "Properties of parallel lines and transversals — angle relationships",
+          "Angles in polygons (interior and exterior angles)",
+          "Volume and surface area of 3D shapes (prisms, cylinders, cones, spheres)",
+          "Coordinate geometry — distance formula, midpoint formula",
+          "Equation of a circle on the coordinate plane",
+          "Basic trigonometric ratios — sine, cosine, and tangent in right triangles",
+          "Trigonometric ratios for complementary angles",
+          "Radian measure and the unit circle (introductory)",
+          "Arc length and sector area"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "grade": "ACT",
+    "subject": "Mathematics",
+    "reference": "Enhanced ACT 2025-2026 / ACT, Inc. / act.org",
+    "notes": "Core section | 45 questions | 50 minutes | Score range: 1–36 | 4 answer choices (reduced from 5 in 2025)",
+    "major_topics": [
+      {
+        "topic_name": "Preparing for Higher Math",
+        "weightage": "80%",
+        "sub_topics": [
+          "Number and Quantity — integers, rational and irrational numbers, and their properties",
+          "Real number system and number classifications",
+          "Vectors and matrices (introductory)",
+          "Complex numbers (introductory)",
+          "Algebra — linear equations and inequalities in one and two variables",
+          "Systems of linear equations and inequalities",
+          "Polynomial expressions — operations and factoring",
+          "Rational expressions and equations",
+          "Radical and exponential expressions",
+          "Absolute value equations and inequalities",
+          "Functions — function notation and evaluating functions",
+          "Domain and range of functions",
+          "Linear, quadratic, polynomial, and exponential functions",
+          "Inverse functions and compositions of functions",
+          "Graphical behavior and transformations of functions",
+          "Piecewise and step functions (introductory)",
+          "Logarithmic functions (introductory)",
+          "Geometry — properties of lines, angles, and parallel lines",
+          "Properties of triangles (congruence, similarity, Pythagorean theorem)",
+          "Properties of circles (arc, chord, sector, tangent)",
+          "Properties of polygons and quadrilaterals",
+          "Perimeter, area, and volume of 2D and 3D shapes",
+          "Coordinate geometry — plotting, distance, midpoint, slope",
+          "Equations of lines and circles on the coordinate plane",
+          "Trigonometric ratios — sine, cosine, tangent in right triangles",
+          "Trigonometric functions and their graphs",
+          "Law of sines and law of cosines",
+          "Radian measure and the unit circle",
+          "Statistics and Probability — mean, median, mode, and range",
+          "Standard deviation and data spread (conceptual)",
+          "Probability of single and compound events",
+          "Permutations and combinations",
+          "Interpreting data from tables, graphs, scatterplots, and histograms"
+        ]
+      },
+      {
+        "topic_name": "Integrating Essential Skills",
+        "weightage": "20%",
+        "sub_topics": [
+          "Rates, ratios, and percentages in real-world contexts",
+          "Proportional relationships and scaling",
+          "Area, surface area, and volume calculations",
+          "Average (mean) and median in applied problems",
+          "Expressing numbers in multiple forms (fractions, decimals, percent)",
+          "Multi-step problem solving combining concepts from multiple math areas",
+          "Interpreting mathematical results in context"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "grade": "ACT",
+    "subject": "Writing",
+    "reference": "Enhanced ACT 2025-2026 / ACT, Inc. / act.org",
+    "notes": "OPTIONAL | 1 essay prompt | 40 minutes | Scored separately (2–12 scale) | Required by select colleges",
+    "major_topics": [
+      {
+        "topic_name": "Ideas and Analysis",
+        "weightage": "One of four scored domains",
+        "sub_topics": [
+          "Understanding the complexity of the given issue or prompt",
+          "Engaging critically with multiple perspectives on the topic",
+          "Developing a clear and defensible thesis",
+          "Analysing the implications and nuances of different viewpoints",
+          "Going beyond surface-level reasoning to explore deeper considerations"
+        ]
+      },
+      {
+        "topic_name": "Development and Support",
+        "weightage": "One of four scored domains",
+        "sub_topics": [
+          "Providing relevant reasoning to support the thesis",
+          "Using concrete and specific examples to strengthen arguments",
+          "Addressing and refuting counterarguments",
+          "Extending and deepening the argument beyond obvious points",
+          "Using evidence effectively and logically"
+        ]
+      },
+      {
+        "topic_name": "Organisation",
+        "weightage": "One of four scored domains",
+        "sub_topics": [
+          "Writing a clear and compelling introduction",
+          "Organising ideas logically and cohesively throughout the essay",
+          "Using effective transitions between sentences and paragraphs",
+          "Maintaining focus and unity throughout the essay",
+          "Writing a purposeful and satisfying conclusion"
+        ]
+      },
+      {
+        "topic_name": "Language Use and Conventions",
+        "weightage": "One of four scored domains",
+        "sub_topics": [
+          "Using precise and varied vocabulary",
+          "Maintaining consistent and appropriate tone and style",
+          "Applying correct grammar, usage, and punctuation",
+          "Structuring sentences with variety and clarity",
+          "Avoiding ambiguity and vague language"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,699 @@
+[
+  {
+    "exam": "JEE Advanced",
+    "paper": "Paper 1 & Paper 2 (Both Compulsory)",
+    "subject": "Physics",
+    "reference": "JEE Advanced 2026 / IIT Roorkee (Organizing Institute) / jeeadv.ac.in",
+    "notes": "~17 questions per subject per paper | CBT mode | Syllabus unchanged from 2025 | Deeper conceptual depth than JEE Main",
+    "major_topics": [
+      {
+        "topic_name": "General Physics",
+        "sub_topics": [
+          "Units and dimensions — dimensional analysis and applications",
+          "Least count and significant figures",
+          "Error analysis — absolute, relative, and percentage errors",
+          "Vernier callipers and screw gauge — measurement techniques",
+          "Determination of g using simple pendulum",
+          "Young's modulus — elasticity of the material",
+          "Surface tension of water by capillary rise and effect of detergents",
+          "Specific heat of a liquid using calorimeter",
+          "Focal length of a concave mirror and convex lens using u-v method",
+          "Speed of sound using resonance column",
+          "Verification of Ohm's law using voltmeter and ammeter",
+          "Specific resistance using metre bridge and post office box"
+        ]
+      },
+      {
+        "topic_name": "Mechanics",
+        "sub_topics": [
+          "Kinematics in one and two dimensions (Cartesian coordinates) — projectile motion",
+          "Uniform circular motion and relative velocity",
+          "Newton's laws of motion — inertial and uniformly accelerated frames of reference",
+          "Static and dynamic friction",
+          "Kinetic and potential energy — work and power",
+          "Conservation of linear momentum and mechanical energy",
+          "Systems of particles — centre of mass and its motion",
+          "Impulse — elastic and inelastic collisions",
+          "Rigid body — moment of inertia, parallel and perpendicular axes theorems",
+          "Moment of inertia of uniform bodies with simple geometrical shapes",
+          "Angular momentum, torque, and conservation of angular momentum",
+          "Dynamics of rigid bodies with fixed axis of rotation",
+          "Rolling without slipping — rings, cylinders, and spheres",
+          "Equilibrium of rigid bodies",
+          "Collision of point masses with rigid bodies",
+          "Forced and damped oscillations in one dimension — resonance",
+          "Linear and angular simple harmonic motions",
+          "Hooke's law and Young's modulus",
+          "Law of gravitation — gravitational potential and field",
+          "Acceleration due to gravity — Kepler's laws, geostationary orbits",
+          "Motion of planets and satellites in circular orbits — escape velocity",
+          "Pressure in a fluid — Pascal's law and buoyancy",
+          "Surface energy and surface tension — angle of contact, drops, bubbles, and capillary rise",
+          "Viscosity — Stokes' law, terminal velocity, streamline flow",
+          "Equation of continuity and Bernoulli's theorem with applications",
+          "Modulus of rigidity and bulk modulus",
+          "Wave motion — longitudinal and transverse waves, superposition of waves",
+          "Progressive and stationary waves — vibration of strings and air columns",
+          "Resonance, beats, and speed of sound in gases",
+          "Doppler effect in sound"
+        ]
+      },
+      {
+        "topic_name": "Thermal Physics",
+        "sub_topics": [
+          "Thermal expansion of solids, liquids, and gases",
+          "Calorimetry and latent heat",
+          "Heat conduction in one dimension",
+          "Elementary concepts of convection and radiation",
+          "Newton's law of cooling",
+          "Ideal gas laws and absolute scale of temperature",
+          "Specific heats — Cv and Cp for monoatomic and diatomic gases",
+          "Isothermal and adiabatic processes — bulk modulus of gases",
+          "Equivalence of heat and work",
+          "First law of thermodynamics and its applications (ideal gases only)",
+          "Second law of thermodynamics — reversible and irreversible processes",
+          "Carnot engine and its efficiency",
+          "Blackbody radiation — absorptive and emissive powers",
+          "Kirchhoff's law of thermal radiation",
+          "Wien's displacement law and Stefan's law"
+        ]
+      },
+      {
+        "topic_name": "Electricity and Magnetism",
+        "sub_topics": [
+          "Coulomb's law — electric field and potential",
+          "Electrical potential energy of point charges and dipoles in a uniform electrostatic field",
+          "Electric field lines and flux — Gauss's law and applications",
+          "Field due to infinitely long straight wire, uniformly charged infinite plane sheet, and thin spherical shell",
+          "Capacitance — parallel plate capacitor with and without dielectrics",
+          "Capacitors in series and parallel — energy stored in a capacitor",
+          "Electric current — Ohm's law",
+          "Series and parallel arrangements of resistances and cells",
+          "Kirchhoff's laws and simple applications — heating effect of current",
+          "Biot-Savart's law and Ampere's law",
+          "Magnetic field near a current-carrying straight wire, along axis of a circular coil, and inside a long solenoid",
+          "Force on a moving charge and on a current-carrying wire in a uniform magnetic field",
+          "Magnetic moment of a current loop — effect of uniform magnetic field on a current loop",
+          "Moving coil galvanometer — conversion to voltmeter and ammeter",
+          "Electromagnetic induction — Faraday's law and Lenz's law",
+          "Self and mutual inductance",
+          "RC, LR, LC, and LCR series circuits with DC and AC sources"
+        ]
+      },
+      {
+        "topic_name": "Electromagnetic Waves",
+        "sub_topics": [
+          "Electromagnetic waves — nature and characteristics",
+          "Electromagnetic spectrum — radio waves, microwaves, infrared, visible, ultraviolet, X-rays, gamma rays",
+          "Elementary facts about uses of different regions of the electromagnetic spectrum"
+        ]
+      },
+      {
+        "topic_name": "Optics",
+        "sub_topics": [
+          "Rectilinear propagation of light",
+          "Reflection and refraction at plane and spherical surfaces",
+          "Total internal reflection",
+          "Deviation and dispersion of light by a prism",
+          "Thin lenses — combinations of mirrors and thin lenses",
+          "Magnification",
+          "Wave nature of light — Huygens' principle",
+          "Young's double slit experiment — interference and fringe width",
+          "Diffraction due to a single slit — diffraction pattern",
+          "Polarisation of light — plane polarised light",
+          "Brewster's law and Polaroids"
+        ]
+      },
+      {
+        "topic_name": "Modern Physics",
+        "sub_topics": [
+          "Atomic nucleus — composition and size",
+          "Alpha, beta, and gamma radiations and their properties",
+          "Law of radioactive decay — decay constant, half-life, and mean life",
+          "Binding energy and its calculation",
+          "Fission and fusion processes — energy released in these processes",
+          "Photoelectric effect — Einstein's photoelectric equation",
+          "Bohr's theory of hydrogen-like atoms — energy levels and spectral series",
+          "Characteristic and continuous X-rays — Moseley's law",
+          "de Broglie wavelength of matter waves",
+          "Heisenberg's uncertainty principle"
+        ]
+      }
+    ]
+  },
+  {
+    "exam": "JEE Advanced",
+    "paper": "Paper 1 & Paper 2 (Both Compulsory)",
+    "subject": "Chemistry",
+    "reference": "JEE Advanced 2026 / IIT Roorkee (Organizing Institute) / jeeadv.ac.in",
+    "notes": "~17 questions per subject per paper | Divided into Physical, Inorganic, and Organic Chemistry | Deeper and more extensive than JEE Main",
+    "major_topics": [
+      {
+        "topic_name": "General Topics",
+        "section": "Physical Chemistry",
+        "sub_topics": [
+          "Concept of atoms and molecules — Dalton's atomic theory",
+          "Mole concept and chemical formulae",
+          "Balanced chemical equations",
+          "Stoichiometric calculations — oxidation-reduction, neutralisation, and displacement reactions",
+          "Concentration terms — mole fraction, molarity, molality, and normality"
+        ]
+      },
+      {
+        "topic_name": "States of Matter: Gases and Liquids",
+        "section": "Physical Chemistry",
+        "sub_topics": [
+          "Gas laws and ideal gas equation — absolute scale of temperature",
+          "Deviation from ideality — van der Waals equation",
+          "Kinetic theory of gases — average, RMS, and most probable velocities and their relation with temperature",
+          "Law of partial pressures — diffusion of gases",
+          "Intermolecular interactions — types, distance dependence, and effect on properties",
+          "Liquids — vapour pressure, surface tension, and viscosity"
+        ]
+      },
+      {
+        "topic_name": "Atomic Structure",
+        "section": "Physical Chemistry",
+        "sub_topics": [
+          "Bohr's model and spectrum of hydrogen atom",
+          "Wave-particle duality — de Broglie hypothesis",
+          "Heisenberg's uncertainty principle",
+          "Qualitative quantum mechanical picture of hydrogen atom — energies and quantum numbers",
+          "Wave function and probability density (plots only) — shapes of s, p, and d orbitals",
+          "Aufbau principle, Pauli's exclusion principle, and Hund's rule"
+        ]
+      },
+      {
+        "topic_name": "Chemical Bonding and Molecular Structure",
+        "section": "Physical Chemistry",
+        "sub_topics": [
+          "Orbital overlap and covalent bond — hybridisation involving s, p, and d orbitals",
+          "Molecular orbital energy diagrams for homonuclear diatomic species (up to Ne₂)",
+          "Hydrogen bond and polarity in molecules — dipole moment",
+          "VSEPR model and shapes of molecules — linear, angular, triangular, square planar, pyramidal, square pyramidal, trigonal bipyramidal, tetrahedral, and octahedral"
+        ]
+      },
+      {
+        "topic_name": "Chemical Thermodynamics",
+        "section": "Physical Chemistry",
+        "sub_topics": [
+          "Intensive and extensive properties — state functions",
+          "First law of thermodynamics — internal energy, work (pressure-volume only), and heat",
+          "Enthalpy, heat capacity, standard state, and Hess's law",
+          "Enthalpy of reaction, fusion, vaporisation, and lattice enthalpy",
+          "Second law of thermodynamics — entropy",
+          "Gibbs energy — criteria of equilibrium and spontaneity"
+        ]
+      },
+      {
+        "topic_name": "Chemical and Ionic Equilibrium",
+        "section": "Physical Chemistry",
+        "sub_topics": [
+          "Law of mass action",
+          "Significance of ΔG and ΔG° in chemical equilibrium",
+          "Equilibrium constant (Kp and Kc) and reaction quotient",
+          "Le Chatelier's principle — effect of concentration, temperature, and pressure",
+          "Solubility product and its applications — common ion effect",
+          "pH and buffer solutions",
+          "Acids and bases — Brønsted and Lewis concepts",
+          "Hydrolysis of salts"
+        ]
+      },
+      {
+        "topic_name": "Electrochemistry",
+        "section": "Physical Chemistry",
+        "sub_topics": [
+          "Electrochemical cells and cell reactions — standard electrode potentials",
+          "Electrochemical work and Nernst equation",
+          "Electrochemical series — EMF of galvanic cells",
+          "Faraday's laws of electrolysis",
+          "Electrolytic conductance — specific, equivalent, and molar conductivity",
+          "Kohlrausch's law",
+          "Primary and secondary batteries — fuel cells",
+          "Corrosion — electrochemical basis"
+        ]
+      },
+      {
+        "topic_name": "Chemical Kinetics",
+        "section": "Physical Chemistry",
+        "sub_topics": [
+          "Rates of chemical reactions — order and molecularity",
+          "Rate law, rate constant, and half-life",
+          "Differential and integrated rate expressions for zero and first order reactions",
+          "Temperature dependence of rate constant — Arrhenius equation and activation energy",
+          "Catalysis — homogeneous and heterogeneous",
+          "Activity and selectivity of solid catalysts",
+          "Enzyme catalysis and its mechanism"
+        ]
+      },
+      {
+        "topic_name": "Solid State",
+        "section": "Physical Chemistry",
+        "sub_topics": [
+          "Classification of solids — crystalline state",
+          "Seven crystal systems — cell parameters a, b, c, α, β, γ",
+          "Close packed structures — cubic (FCC, BCC) and hexagonal (HCP)",
+          "Packing in FCC, BCC, and HCP lattices",
+          "Nearest neighbours, ionic radii, and radius ratio",
+          "Point defects — Schottky and Frenkel defects"
+        ]
+      },
+      {
+        "topic_name": "Solutions",
+        "section": "Physical Chemistry",
+        "sub_topics": [
+          "Henry's law and Raoult's law — ideal solutions",
+          "Colligative properties — lowering of vapour pressure, elevation of boiling point, depression of freezing point, and osmotic pressure",
+          "van't Hoff factor and its significance"
+        ]
+      },
+      {
+        "topic_name": "Surface Chemistry",
+        "section": "Physical Chemistry",
+        "sub_topics": [
+          "Adsorption — physisorption and chemisorption",
+          "Freundlich adsorption isotherm",
+          "Colloids — types, methods of preparation, and general properties",
+          "Elementary ideas of emulsions, surfactants, and micelles (definitions and examples only)"
+        ]
+      },
+      {
+        "topic_name": "Classification of Elements and Periodicity in Properties",
+        "section": "Inorganic Chemistry",
+        "sub_topics": [
+          "Modern periodic law and the present form of periodic table",
+          "Electronic configuration of elements",
+          "Periodic trends — atomic radius, ionic radius, ionisation enthalpy, electron gain enthalpy",
+          "Periodic trends — valence, oxidation states, electronegativity, and chemical reactivity"
+        ]
+      },
+      {
+        "topic_name": "Hydrogen",
+        "section": "Inorganic Chemistry",
+        "sub_topics": [
+          "Position of hydrogen in the periodic table — occurrence and isotopes",
+          "Preparation, properties, and uses of hydrogen",
+          "Hydrides — ionic, covalent, and interstitial",
+          "Physical and chemical properties of water and heavy water",
+          "Hydrogen peroxide — preparation, reactions, structure, and uses",
+          "Hydrogen as a fuel"
+        ]
+      },
+      {
+        "topic_name": "s-Block Elements",
+        "section": "Inorganic Chemistry",
+        "sub_topics": [
+          "Alkali and alkaline earth metals — reactivity towards air, water, dihydrogen, halogens, and acids",
+          "Reducing nature of alkali metals — solutions in liquid ammonia",
+          "General characteristics of oxides, hydroxides, halides, and salts of oxoacids",
+          "Anomalous behaviour of lithium and beryllium",
+          "Compounds of sodium — sodium carbonate, sodium chloride, sodium hydroxide, sodium hydrogen carbonate",
+          "Compounds of calcium — calcium oxide, calcium hydroxide, calcium carbonate, calcium sulphate"
+        ]
+      },
+      {
+        "topic_name": "p-Block Elements",
+        "section": "Inorganic Chemistry",
+        "sub_topics": [
+          "Oxidation states and trends in chemical reactivity of Groups 13–17",
+          "Anomalous properties of B, C, N, O, and F with respect to other group members",
+          "Group 13 — reactivity towards acids, alkalis, halogens; borax, orthoboric acid, diborane, BF₃, AlCl₃, alums",
+          "Group 14 — reactivity towards water and halogens; allotropes of carbon; CO, CO₂, SiO₂, silicones, silicates, zeolites",
+          "Group 15 — allotropes of phosphorus; dinitrogen, ammonia, nitric acid, phosphine, PCl₃, PCl₅; oxides of nitrogen and oxoacids of phosphorus",
+          "Group 16 — allotropes of sulfur; dioxygen, ozone, SO₂, H₂SO₄; oxoacids of sulfur",
+          "Group 17 (Halogens) — Cl₂, HCl, interhalogen compounds; oxoacids of halogens; bleaching powder",
+          "Group 18 (Noble Gases) — chemical properties and uses; compounds of xenon with fluorine and oxygen"
+        ]
+      },
+      {
+        "topic_name": "d-Block Elements",
+        "section": "Inorganic Chemistry",
+        "sub_topics": [
+          "Oxidation states and their stability",
+          "Standard electrode potentials — interstitial compounds and alloys",
+          "Catalytic properties and applications",
+          "Preparation, structure, and reactions of oxoanions of chromium (dichromate) and manganese (permanganate)"
+        ]
+      },
+      {
+        "topic_name": "f-Block Elements",
+        "section": "Inorganic Chemistry",
+        "sub_topics": [
+          "Lanthanoid and actinoid contractions",
+          "Oxidation states of lanthanoids and actinoids",
+          "General characteristics and comparison of lanthanoids and actinoids"
+        ]
+      },
+      {
+        "topic_name": "Coordination Compounds",
+        "section": "Inorganic Chemistry",
+        "sub_topics": [
+          "Werner's theory of coordination compounds",
+          "Nomenclature of mononuclear coordination compounds",
+          "Cis-trans and ionisation isomerism",
+          "Hybridisation and geometries — linear, tetrahedral, square planar, and octahedral",
+          "Bonding — Valence Bond Theory (VBT) and Crystal Field Theory (CFT) for octahedral and tetrahedral fields",
+          "Magnetic properties (spin-only) and colour of 3d-series coordination compounds",
+          "Ligands and spectrochemical series — stability of coordination compounds",
+          "Importance, applications, and metal carbonyls"
+        ]
+      },
+      {
+        "topic_name": "Isolation of Metals",
+        "section": "Inorganic Chemistry",
+        "sub_topics": [
+          "Metal ores and their concentration",
+          "Thermodynamic principles of metallurgy — extraction of iron, copper, and zinc",
+          "Electrochemical principles of metallurgy — extraction of aluminium",
+          "Cyanide process — extraction of silver and gold",
+          "Refining of crude metals"
+        ]
+      },
+      {
+        "topic_name": "Principles of Qualitative Analysis",
+        "section": "Inorganic Chemistry",
+        "sub_topics": [
+          "Groups I to V — Ag⁺, Hg²⁺, Cu²⁺, Pb²⁺, Fe³⁺, Cr³⁺, Al³⁺, Ca²⁺, Ba²⁺, Zn²⁺, Mn²⁺, and Mg²⁺",
+          "Detection of anions — nitrate, halides (excluding fluoride), carbonate, bicarbonate, sulphate, and sulphide"
+        ]
+      },
+      {
+        "topic_name": "Environmental Chemistry",
+        "section": "Inorganic Chemistry",
+        "sub_topics": [
+          "Atmospheric pollution — causes and effects",
+          "Water pollution and soil pollution",
+          "Industrial waste and its effects",
+          "Strategies to control environmental pollution",
+          "Green chemistry — principles and applications"
+        ]
+      },
+      {
+        "topic_name": "Basic Principles of Organic Chemistry",
+        "section": "Organic Chemistry",
+        "sub_topics": [
+          "Hybridisation of carbon — σ and π bonds",
+          "Shapes of simple organic molecules and aromaticity",
+          "Structural and geometrical isomerism",
+          "Stereoisomers — enantiomers, diastereomers, and meso compounds (up to two asymmetric centres)",
+          "Determination of empirical and molecular formulae by combustion method",
+          "IUPAC nomenclature of hydrocarbons and their mono- and bi-functional derivatives",
+          "Hydrogen bonding effects in organic molecules",
+          "Inductive, resonance, and hyperconjugative effects",
+          "Acidity and basicity of organic compounds",
+          "Reactive intermediates — carbocations, carbanions, and free radicals"
+        ]
+      },
+      {
+        "topic_name": "Alkanes",
+        "section": "Organic Chemistry",
+        "sub_topics": [
+          "Homologous series — physical properties and effect of branching",
+          "Conformations of ethane and butane — Newman projections",
+          "Preparation from alkyl halides and aliphatic carboxylic acids",
+          "Reactions — combustion, halogenation (including allylic and benzylic halogenation), and oxidation"
+        ]
+      },
+      {
+        "topic_name": "Alkenes and Alkynes",
+        "section": "Organic Chemistry",
+        "sub_topics": [
+          "Physical properties — boiling points, density, and dipole moments",
+          "Preparation by elimination reactions",
+          "Acid-catalysed hydration of alkenes",
+          "Metal acetylides",
+          "Reactions of alkenes with KMnO₄ and ozone",
+          "Reduction of alkenes and alkynes",
+          "Electrophilic addition reactions — X₂, HX, HOX (X = halogen)",
+          "Effect of peroxide on addition reactions",
+          "Cyclic polymerisation reaction of alkynes"
+        ]
+      },
+      {
+        "topic_name": "Benzene",
+        "section": "Organic Chemistry",
+        "sub_topics": [
+          "Structure of benzene and aromaticity",
+          "Electrophilic substitution reactions — halogenation, nitration, sulphonation",
+          "Friedel-Crafts alkylation and acylation",
+          "Directive influence of substituents in monosubstituted benzene"
+        ]
+      },
+      {
+        "topic_name": "Phenols",
+        "section": "Organic Chemistry",
+        "sub_topics": [
+          "Physical properties and preparation of phenols",
+          "Electrophilic substitution reactions — halogenation, nitration, sulphonation",
+          "Reimer-Tiemann reaction and Kolbe reaction",
+          "Esterification, etherification, and aspirin synthesis",
+          "Oxidation and reduction reactions of phenol"
+        ]
+      },
+      {
+        "topic_name": "Alkyl Halides",
+        "section": "Organic Chemistry",
+        "sub_topics": [
+          "Rearrangement reactions of alkyl carbocations",
+          "Grignard reactions",
+          "Nucleophilic substitution reactions — SN1 and SN2 and their stereochemical aspects"
+        ]
+      },
+      {
+        "topic_name": "Alcohols and Ethers",
+        "section": "Organic Chemistry",
+        "sub_topics": [
+          "Physical properties of alcohols",
+          "Reactions — esterification, dehydration (formation of alkenes and ethers)",
+          "Reactions with sodium, phosphorus halides, ZnCl₂/conc. HCl, and thionyl chloride",
+          "Conversion of alcohols into aldehydes, ketones, and carboxylic acids",
+          "Preparation of ethers by Williamson's synthesis",
+          "C-O bond cleavage reactions of ethers"
+        ]
+      },
+      {
+        "topic_name": "Aldehydes and Ketones",
+        "section": "Organic Chemistry",
+        "sub_topics": [
+          "Preparation of aldehydes and ketones from acid chlorides and nitriles",
+          "Aldehydes from esters — benzaldehyde from toluene and benzene",
+          "Reactions — oxidation, reduction, oxime and hydrazone formation",
+          "Aldol condensation and Cannizzaro reaction",
+          "Haloform reaction",
+          "Nucleophilic addition with RMgX, NaHSO₃, HCN, alcohol, and amine"
+        ]
+      },
+      {
+        "topic_name": "Carboxylic Acids",
+        "section": "Organic Chemistry",
+        "sub_topics": [
+          "Physical properties and preparation from nitriles, Grignard reagents, and hydrolysis of esters and amides",
+          "Preparation of benzoic acid from alkylbenzenes",
+          "Reactions — reduction, halogenation, formation of esters, acid chlorides, and amides"
+        ]
+      },
+      {
+        "topic_name": "Amines and Haloarenes",
+        "section": "Organic Chemistry",
+        "sub_topics": [
+          "Preparation of amines from nitro compounds, nitriles, and amides",
+          "Hoffmann bromamide degradation and Gabriel phthalimide synthesis",
+          "Reaction with nitrous acid — azo coupling reaction of diazonium salts",
+          "Sandmeyer and related reactions of diazonium salts",
+          "Carbylamine reaction, Hinsberg test, alkylation and acylation",
+          "Haloarenes — Fittig and Wurtz-Fittig reactions",
+          "Nucleophilic aromatic substitution in haloarenes and substituted haloarenes"
+        ]
+      },
+      {
+        "topic_name": "Biomolecules",
+        "section": "Organic Chemistry",
+        "sub_topics": [
+          "Carbohydrates — classification, mono- and disaccharides (glucose and sucrose)",
+          "Oxidation, reduction, and glycoside formation of carbohydrates",
+          "Hydrolysis of disaccharides — sucrose, maltose, lactose",
+          "Anomers",
+          "Proteins — amino acids, peptide linkage, structure of peptides (primary and secondary)",
+          "Types of proteins — fibrous and globular",
+          "Nucleic acids — chemical composition and structure of DNA and RNA"
+        ]
+      },
+      {
+        "topic_name": "Polymers",
+        "section": "Organic Chemistry",
+        "sub_topics": [
+          "Types of polymerisation — addition and condensation",
+          "Homo and copolymers",
+          "Natural rubber, cellulose, nylon, Teflon, Bakelite, and PVC",
+          "Biodegradable polymers and applications of polymers"
+        ]
+      },
+      {
+        "topic_name": "Chemistry in Everyday Life",
+        "section": "Organic Chemistry",
+        "sub_topics": [
+          "Drug-target interaction — therapeutic action of antacids, antihistamines, tranquilisers, analgesics, antimicrobials, and antifertility drugs (excluding structures)",
+          "Artificial sweeteners (names only)",
+          "Soaps, detergents, and cleansing action"
+        ]
+      },
+      {
+        "topic_name": "Practical Organic Chemistry",
+        "section": "Organic Chemistry",
+        "sub_topics": [
+          "Detection of elements — nitrogen, sulphur, and halogens",
+          "Detection and identification of functional groups — hydroxyl (alcoholic and phenolic), carbonyl (aldehyde and ketone), carboxyl, amino, and nitro"
+        ]
+      }
+    ]
+  },
+  {
+    "exam": "JEE Advanced",
+    "paper": "Paper 1 & Paper 2 (Both Compulsory)",
+    "subject": "Mathematics",
+    "reference": "JEE Advanced 2026 / IIT Roorkee (Organizing Institute) / jeeadv.ac.in",
+    "notes": "~17 questions per subject per paper | Higher abstraction and proof-based problems compared to JEE Main | Syllabus unchanged from 2025",
+    "major_topics": [
+      {
+        "topic_name": "Sets, Relations and Functions",
+        "sub_topics": [
+          "Sets — representations, empty, finite, and infinite sets",
+          "Algebra of sets — union, intersection, complement, difference, and symmetric difference",
+          "De Morgan's laws on union, intersection, and difference (finite number of sets)",
+          "Practical problems based on set operations",
+          "Cartesian product of finite sets — ordered pairs",
+          "Relations — domain, codomain, and equivalence relation",
+          "Functions — domain, codomain, range; invertible, even, odd, into, onto, and one-to-one functions",
+          "Special functions — polynomial, trigonometric, exponential, logarithmic, power, absolute value, greatest integer",
+          "Sum, difference, product, and composition of functions"
+        ]
+      },
+      {
+        "topic_name": "Algebra",
+        "sub_topics": [
+          "Complex numbers — addition, multiplication, conjugation, polar representation",
+          "Properties of modulus and principal argument — triangle inequality",
+          "Cube roots of unity — geometric interpretations",
+          "Fundamental theorem of algebra (statement only)",
+          "Quadratic equations with real coefficients — relation between roots and coefficients",
+          "Formation of quadratic equations with given roots — symmetric functions of roots",
+          "Arithmetic and geometric progressions — arithmetic and geometric means",
+          "Sums of finite arithmetic and geometric progressions — infinite geometric series",
+          "Sum of first n natural numbers, sums of squares and cubes",
+          "Logarithms and their properties",
+          "Permutations and combinations",
+          "Binomial theorem for positive integral index — properties of binomial coefficients"
+        ]
+      },
+      {
+        "topic_name": "Matrices",
+        "sub_topics": [
+          "Matrices as rectangular arrays of real numbers — equality, addition, scalar multiplication, and product",
+          "Transpose of a matrix — elementary row and column transformations",
+          "Determinant of a square matrix of order up to three — minors and cofactors",
+          "Adjoint and inverse of a square matrix of order up to three",
+          "Diagonal, symmetric, and skew-symmetric matrices and their properties",
+          "Properties of matrix operations",
+          "Solutions of simultaneous linear equations in two or three variables"
+        ]
+      },
+      {
+        "topic_name": "Probability and Statistics",
+        "sub_topics": [
+          "Random experiment and sample space — impossible, simple, and compound events",
+          "Addition and multiplication rules of probability",
+          "Conditional probability and independence of events",
+          "Total probability theorem and Bayes' theorem",
+          "Computation of probability using permutations and combinations",
+          "Measures of central tendency — mean, median, and mode",
+          "Measures of dispersion — mean deviation, standard deviation, and variance of grouped and ungrouped data",
+          "Analysis of frequency distributions with same mean but different variance",
+          "Random variable — mean and variance of the random variable"
+        ]
+      },
+      {
+        "topic_name": "Trigonometry",
+        "sub_topics": [
+          "Trigonometric functions — periodicity and graphs",
+          "Addition and subtraction formulae",
+          "Formulae involving multiple and sub-multiple angles",
+          "General solution of trigonometric equations",
+          "Inverse trigonometric functions — domain, range, and principal values",
+          "Properties of inverse trigonometric functions",
+          "Relations between sides and angles of a triangle",
+          "Sine rule, cosine rule, half-angle formulae, and area of a triangle"
+        ]
+      },
+      {
+        "topic_name": "Analytical Geometry (2D)",
+        "sub_topics": [
+          "Cartesian coordinates — distance between two points, section formulae, shift of origin",
+          "Equation of a straight line in various forms — angle between two lines, distance of a point from a line",
+          "Lines through intersection of two given lines",
+          "Equation of a circle — standard, general, and parametric forms",
+          "Intersection of a circle with a straight line or another circle",
+          "Equation of a circle through intersection of two circles",
+          "Equations of a parabola, ellipse, and hyperbola in standard forms",
+          "Parametric equations, focus, directrix, latus rectum of parabola, ellipse, and hyperbola",
+          "Tangent and normal to parabola, ellipse, and hyperbola",
+          "Locus problems"
+        ]
+      },
+      {
+        "topic_name": "Differential Calculus",
+        "sub_topics": [
+          "Real-valued functions of a real variable — domain and range",
+          "Limit, continuity, and differentiability of functions",
+          "Limit and continuity of the sum, difference, product, and quotient of functions",
+          "L'Hôpital's rule and evaluation of limits",
+          "Derivatives of standard functions and their chain rule applications",
+          "Derivatives of polynomial, rational, trigonometric, inverse trigonometric, exponential, and logarithmic functions",
+          "Derivatives of implicit functions — parametric differentiation",
+          "Second order derivatives",
+          "Rolle's theorem and Lagrange's mean value theorem",
+          "Applications of derivatives — tangents and normals, increasing and decreasing functions",
+          "Maxima and minima using first and second derivative tests"
+        ]
+      },
+      {
+        "topic_name": "Integral Calculus",
+        "sub_topics": [
+          "Integration as the inverse process of differentiation",
+          "Standard integrals involving algebraic, trigonometric, exponential, and logarithmic functions",
+          "Integration by substitution, by parts, and by partial fractions",
+          "Integration using trigonometric identities",
+          "Definite integrals and their properties",
+          "Fundamental theorem of integral calculus",
+          "Application of definite integrals — area between curves",
+          "Formation of ordinary differential equations",
+          "Solution of homogeneous differential equations",
+          "Linear first order differential equations — integrating factor method",
+          "Variable separable method"
+        ]
+      },
+      {
+        "topic_name": "Vectors",
+        "sub_topics": [
+          "Addition of vectors — triangle and parallelogram laws",
+          "Scalar multiplication of a vector",
+          "Scalar triple product and its interpretation as volume",
+          "Dot product and cross product of two vectors — geometrical interpretations",
+          "Properties of dot and cross products",
+          "Applications — work done by a force and torque"
+        ]
+      },
+      {
+        "topic_name": "Three-Dimensional Geometry",
+        "sub_topics": [
+          "Direction cosines and direction ratios of a line",
+          "Equation of a straight line in space — Cartesian and vector forms",
+          "Skew lines — distance between two skew lines",
+          "Equation of a plane in different forms — Cartesian and vector",
+          "Angle between a line and a plane — angle between two planes",
+          "Distance of a point from a plane",
+          "Intersection of a line and a plane"
+        ]
+      }
+    ]
+  }
+]

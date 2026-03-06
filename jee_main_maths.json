@@ -1,0 +1,278 @@
+[
+  {
+    "exam": "JEE Main",
+    "paper": "Paper 1 (B.E. / B.Tech)",
+    "subject": "Mathematics",
+    "reference": "JEE Main 2026 / National Testing Agency (NTA) / jeemain.nta.nic.in",
+    "notes": "30 questions | 120 marks | Section A: 20 MCQs, Section B: 10 Numericals (attempt any 5) | Mathematical Induction and Mathematical Reasoning removed from 2024 onwards",
+    "major_topics": [
+      {
+        "topic_name": "Sets, Relations and Functions",
+        "section": "Algebra",
+        "class": "Class 11",
+        "weightage": "~3%",
+        "sub_topics": [
+          "Sets — types, union, intersection, complement, power sets",
+          "Venn diagrams and their applications",
+          "Relations — types of relations, equivalence relation",
+          "Functions — domain, co-domain, range",
+          "Types of functions — injective, surjective, bijective",
+          "Composition and inverse of functions",
+          "Real-valued functions — polynomial, rational, modulus, signum, exponential, logarithmic, greatest integer"
+        ]
+      },
+      {
+        "topic_name": "Complex Numbers and Quadratic Equations",
+        "section": "Algebra",
+        "class": "Class 11",
+        "weightage": "~5%",
+        "sub_topics": [
+          "Complex numbers — algebra of complex numbers, modulus and argument",
+          "Argand diagram and polar form",
+          "Square root of a complex number",
+          "Triangle inequality",
+          "Cube roots of unity",
+          "De Moivre's theorem and its applications",
+          "Quadratic equations — nature of roots and discriminant",
+          "Relation between roots and coefficients",
+          "Formation of quadratic equations with given roots",
+          "Equations reducible to quadratic form"
+        ]
+      },
+      {
+        "topic_name": "Matrices and Determinants",
+        "section": "Algebra",
+        "class": "Class 12",
+        "weightage": "~6%",
+        "sub_topics": [
+          "Types of matrices — row, column, square, diagonal, scalar, identity, zero",
+          "Operations on matrices — addition, subtraction, and multiplication",
+          "Transpose, adjoint, and inverse of a matrix",
+          "Determinant of a square matrix — properties and minors and cofactors",
+          "Singular and non-singular matrices",
+          "System of linear equations — consistency and Cramer's rule",
+          "Solving system of equations using matrix method"
+        ]
+      },
+      {
+        "topic_name": "Permutations and Combinations",
+        "section": "Algebra",
+        "class": "Class 11",
+        "weightage": "~3%",
+        "sub_topics": [
+          "Fundamental principle of counting",
+          "Factorials and their properties",
+          "Permutations — with and without repetition",
+          "Combinations — selection problems",
+          "Problems involving arrangement and selection",
+          "Permutations and combinations applied to geometry (diagonals, triangles from points)"
+        ]
+      },
+      {
+        "topic_name": "Binomial Theorem",
+        "section": "Algebra",
+        "class": "Class 11",
+        "weightage": "~4%",
+        "sub_topics": [
+          "Binomial theorem for positive integral index",
+          "General term and middle term in a binomial expansion",
+          "Binomial coefficients — Pascal's triangle",
+          "Properties of binomial coefficients",
+          "Term independent of x",
+          "Binomial theorem for any index (conceptual)"
+        ]
+      },
+      {
+        "topic_name": "Sequences and Series",
+        "section": "Algebra",
+        "class": "Class 11",
+        "weightage": "~4%",
+        "sub_topics": [
+          "Arithmetic progression (AP) — nth term, sum of n terms",
+          "Geometric progression (GP) — nth term, sum of n terms, infinite GP",
+          "Relationship between AM and GM",
+          "Harmonic progression (HP) and harmonic mean",
+          "Sum of special series — sum of n natural numbers, sum of squares, sum of cubes",
+          "Arithmetic-geometric progression"
+        ]
+      },
+      {
+        "topic_name": "Limits, Continuity and Differentiability",
+        "section": "Calculus",
+        "class": "Class 11 & 12",
+        "weightage": "~7%",
+        "sub_topics": [
+          "Limits — definition and properties",
+          "Standard limits — algebraic, trigonometric, exponential and logarithmic",
+          "L'Hôpital's rule (application)",
+          "Continuity — continuity at a point and on an interval",
+          "Types of discontinuity",
+          "Differentiability — definition and relationship with continuity",
+          "Derivatives of standard functions",
+          "Rules of differentiation — product rule, quotient rule, chain rule",
+          "Derivatives of implicit functions",
+          "Derivatives of parametric functions",
+          "Higher order derivatives",
+          "Rolle's theorem and Lagrange's mean value theorem"
+        ]
+      },
+      {
+        "topic_name": "Applications of Derivatives",
+        "section": "Calculus",
+        "class": "Class 12",
+        "weightage": "~5%",
+        "sub_topics": [
+          "Rate of change of quantities",
+          "Increasing and decreasing functions",
+          "Tangent and normal to a curve",
+          "Maxima and minima — local and absolute",
+          "First and second derivative tests",
+          "Approximation using differentials"
+        ]
+      },
+      {
+        "topic_name": "Integral Calculus",
+        "section": "Calculus",
+        "class": "Class 12",
+        "weightage": "~8%",
+        "sub_topics": [
+          "Integration as the inverse of differentiation",
+          "Standard integrals and properties",
+          "Integration by substitution",
+          "Integration using partial fractions",
+          "Integration by parts",
+          "Definite integrals — properties and evaluation",
+          "Fundamental theorem of calculus",
+          "Area under curves — area between two curves",
+          "Applications of definite integrals"
+        ]
+      },
+      {
+        "topic_name": "Differential Equations",
+        "section": "Calculus",
+        "class": "Class 12",
+        "weightage": "~5%",
+        "sub_topics": [
+          "Order and degree of a differential equation",
+          "Formation of differential equations",
+          "Variable separable method",
+          "Homogeneous differential equations",
+          "Linear differential equations — first order",
+          "Integrating factor method",
+          "Applications of differential equations — growth, decay, and Newton's cooling law"
+        ]
+      },
+      {
+        "topic_name": "Straight Lines",
+        "section": "Coordinate Geometry",
+        "class": "Class 11",
+        "weightage": "~4%",
+        "sub_topics": [
+          "Cartesian coordinate system — distance formula, section formula, centroid",
+          "Slope of a line and angle between two lines",
+          "Various forms of equation of a line — slope-intercept, point-slope, intercept, normal form",
+          "General form of a line and distance from a point to a line",
+          "Angle bisectors and concurrent lines",
+          "Family of lines and its applications"
+        ]
+      },
+      {
+        "topic_name": "Circles",
+        "section": "Coordinate Geometry",
+        "class": "Class 11",
+        "weightage": "~4%",
+        "sub_topics": [
+          "Standard and general equations of a circle",
+          "Centre and radius from general equation",
+          "Position of a point with respect to a circle",
+          "Tangent to a circle — length of tangent, condition of tangency",
+          "Normal to a circle",
+          "Chord of contact",
+          "Family of circles — common chord and radical axis"
+        ]
+      },
+      {
+        "topic_name": "Conic Sections",
+        "section": "Coordinate Geometry",
+        "class": "Class 11",
+        "weightage": "~5%",
+        "sub_topics": [
+          "Parabola — standard equations, focus, directrix, vertex, latus rectum",
+          "Ellipse — standard equations, major and minor axes, eccentricity, foci, latus rectum",
+          "Hyperbola — standard equations, conjugate hyperbola, asymptotes, eccentricity",
+          "Tangent and normal to parabola, ellipse, and hyperbola",
+          "Chord of contact and polar line",
+          "Position of a point relative to conics"
+        ]
+      },
+      {
+        "topic_name": "Vector Algebra",
+        "section": "Vector and 3D Geometry",
+        "class": "Class 12",
+        "weightage": "~4%",
+        "sub_topics": [
+          "Types of vectors — collinear, coplanar, equal, unit vectors",
+          "Addition and subtraction of vectors — triangle and parallelogram law",
+          "Position vector of a point dividing a line segment",
+          "Dot product (scalar product) — properties and geometric interpretation",
+          "Cross product (vector product) — properties and geometric interpretation",
+          "Triple product — scalar triple product and its applications"
+        ]
+      },
+      {
+        "topic_name": "Three-Dimensional Geometry",
+        "section": "Vector and 3D Geometry",
+        "class": "Class 12",
+        "weightage": "~6%",
+        "sub_topics": [
+          "Direction cosines and direction ratios of a line",
+          "Equation of a line in 3D — Cartesian and vector forms",
+          "Angle between two lines",
+          "Skew lines — shortest distance between two skew lines",
+          "Equation of a plane — general, normal, and intercept forms",
+          "Angle between a line and a plane",
+          "Angle between two planes",
+          "Distance of a point from a plane",
+          "Intersection of a line and a plane",
+          "Family of planes"
+        ]
+      },
+      {
+        "topic_name": "Trigonometry",
+        "section": "Trigonometry",
+        "class": "Class 11",
+        "weightage": "~5%",
+        "sub_topics": [
+          "Trigonometric functions — definition, domain, range, and graphs",
+          "Trigonometric identities and their proofs",
+          "Signs and values of trigonometric functions",
+          "Periodicity of trigonometric functions",
+          "Transformations — sum and product formulae",
+          "Trigonometric equations — general solutions",
+          "Inverse trigonometric functions — domain, range, and principal values",
+          "Properties of inverse trigonometric functions",
+          "Applications — solutions of triangles using sine and cosine rules"
+        ]
+      },
+      {
+        "topic_name": "Statistics and Probability",
+        "section": "Statistics & Probability",
+        "class": "Class 11 & 12",
+        "weightage": "~5%",
+        "sub_topics": [
+          "Measures of dispersion — range, mean deviation, variance, and standard deviation",
+          "Analysis of frequency distributions",
+          "Probability — random experiment, sample space, events",
+          "Axiomatic definition of probability",
+          "Addition theorem of probability",
+          "Mutually exclusive and exhaustive events",
+          "Conditional probability and multiplication theorem",
+          "Independent events",
+          "Bayes' theorem and its applications",
+          "Random variables and probability distributions",
+          "Binomial distribution — mean and variance"
+        ]
+      }
+    ]
+  }
+]

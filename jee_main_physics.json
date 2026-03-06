@@ -1,0 +1,325 @@
+[
+  {
+    "exam": "JEE Main",
+    "paper": "Paper 1 (B.E. / B.Tech)",
+    "subject": "Physics",
+    "reference": "JEE Main 2026 / National Testing Agency (NTA) / jeemain.nta.nic.in",
+    "notes": "30 questions | 120 marks | Section A: 20 MCQs, Section B: 10 Numericals (attempt any 5) | Based on NCERT Class 11 & 12",
+    "major_topics": [
+      {
+        "topic_name": "Physics and Measurement",
+        "class": "Class 11",
+        "weightage": "~3%",
+        "sub_topics": [
+          "Physics, technology and society",
+          "SI units and fundamental and derived units",
+          "Dimensions of physical quantities and dimensional analysis",
+          "Least count, accuracy and precision of measuring instruments",
+          "Errors in measurement — absolute, relative, and percentage error",
+          "Significant figures and rounding off",
+          "Applications of dimensional analysis — checking equations and unit conversion"
+        ]
+      },
+      {
+        "topic_name": "Kinematics",
+        "class": "Class 11",
+        "weightage": "~3%",
+        "sub_topics": [
+          "Frame of reference and types of motion",
+          "Motion in a straight line — position-time graph, speed and velocity",
+          "Uniform and non-uniform motion, average speed and instantaneous velocity",
+          "Uniformly accelerated motion — equations of motion",
+          "Position-time and velocity-time graphs",
+          "Relative velocity",
+          "Motion in a plane — projectile motion",
+          "Uniform circular motion — centripetal acceleration"
+        ]
+      },
+      {
+        "topic_name": "Laws of Motion",
+        "class": "Class 11",
+        "weightage": "~3%",
+        "sub_topics": [
+          "Newton's first law of motion — concept of inertia",
+          "Newton's second law of motion — momentum and force",
+          "Newton's third law of motion",
+          "Impulse and its applications",
+          "Law of conservation of linear momentum",
+          "Equilibrium of concurrent forces",
+          "Static and kinetic friction — laws of friction",
+          "Rolling friction and its applications",
+          "Dynamics of uniform circular motion — banking of curves, circular motion on a flat road"
+        ]
+      },
+      {
+        "topic_name": "Work, Energy and Power",
+        "class": "Class 11",
+        "weightage": "~3%",
+        "sub_topics": [
+          "Work done by a constant force and variable force",
+          "Kinetic energy and work-energy theorem",
+          "Power — definition and applications",
+          "Potential energy — gravitational and spring potential energy",
+          "Conservative and non-conservative forces",
+          "Elastic and inelastic collisions in one and two dimensions",
+          "Law of conservation of mechanical energy"
+        ]
+      },
+      {
+        "topic_name": "Rotational Motion",
+        "class": "Class 11",
+        "weightage": "~5%",
+        "sub_topics": [
+          "Centre of mass of a two-particle system and a rigid body",
+          "Basic concepts of rotational motion",
+          "Moment of a force — torque",
+          "Angular momentum and its conservation",
+          "Moment of inertia — definition and physical significance",
+          "Radius of gyration",
+          "Theorems of parallel and perpendicular axes",
+          "Moment of inertia of uniform bodies (ring, disc, sphere, rod)",
+          "Equilibrium of rigid bodies",
+          "Rolling motion without slipping"
+        ]
+      },
+      {
+        "topic_name": "Gravitation",
+        "class": "Class 11",
+        "weightage": "~2%",
+        "sub_topics": [
+          "Newton's law of universal gravitation",
+          "Gravitational constant G",
+          "Acceleration due to gravity and its variation with altitude, depth, and latitude",
+          "Gravitational potential energy",
+          "Gravitational potential",
+          "Escape velocity",
+          "Orbital velocity of satellites",
+          "Geostationary satellites and polar satellites",
+          "Kepler's laws of planetary motion"
+        ]
+      },
+      {
+        "topic_name": "Properties of Solids and Liquids",
+        "class": "Class 11",
+        "weightage": "~3%",
+        "sub_topics": [
+          "Elastic behaviour of solids — stress, strain, and Hooke's law",
+          "Stress-strain diagram — elastic moduli (Young's, Bulk, and Shear modulus)",
+          "Pressure in a fluid — Pascal's law and its applications",
+          "Buoyancy and Archimedes' principle",
+          "Viscosity — Stokes' law, terminal velocity, streamlined and turbulent flow",
+          "Bernoulli's principle and its applications",
+          "Surface energy and surface tension — drops, bubbles, and capillary action",
+          "Heat and temperature — thermal expansion of solids, liquids, and gases",
+          "Specific heat capacity, calorimetry",
+          "Change of state — latent heat",
+          "Heat transfer — conduction, convection, and radiation",
+          "Newton's law of cooling",
+          "Blackbody radiation — Stefan's law and Wien's displacement law"
+        ]
+      },
+      {
+        "topic_name": "Thermodynamics",
+        "class": "Class 11",
+        "weightage": "~5%",
+        "sub_topics": [
+          "Thermal equilibrium and zeroth law of thermodynamics",
+          "First law of thermodynamics — internal energy, heat, and work",
+          "Isothermal and adiabatic processes",
+          "Second law of thermodynamics — reversible and irreversible processes",
+          "Carnot engine and its efficiency",
+          "Heat engines and refrigerators — coefficient of performance"
+        ]
+      },
+      {
+        "topic_name": "Kinetic Theory of Gases",
+        "class": "Class 11",
+        "weightage": "~3%",
+        "sub_topics": [
+          "Equation of state of a perfect gas",
+          "Kinetic theory of gases — assumptions and pressure of an ideal gas",
+          "Kinetic energy and temperature",
+          "RMS speed, mean speed, and most probable speed",
+          "Degrees of freedom and the law of equipartition of energy",
+          "Mean free path",
+          "Avogadro's number and Boltzmann constant"
+        ]
+      },
+      {
+        "topic_name": "Oscillations and Waves",
+        "class": "Class 11",
+        "weightage": "~5%",
+        "sub_topics": [
+          "Periodic motion — period, frequency, displacement as a function of time",
+          "Simple harmonic motion (SHM) — definition, conditions, and equations",
+          "SHM of a spring — restoring force and force constant",
+          "Energy in SHM — kinetic and potential energy",
+          "Simple pendulum — derivation of time period",
+          "Damped and forced oscillations — resonance (conceptual)",
+          "Wave motion — transverse and longitudinal waves",
+          "Speed of a wave — relationship between wavelength, frequency, and velocity",
+          "Displacement relation in a progressive wave",
+          "Principle of superposition of waves — reflection of waves",
+          "Standing waves in strings and pipes — harmonics and overtones",
+          "Beats",
+          "Doppler effect"
+        ]
+      },
+      {
+        "topic_name": "Electrostatics",
+        "class": "Class 12",
+        "weightage": "~7%",
+        "sub_topics": [
+          "Electric charges — conservation of charge, Coulomb's law",
+          "Electric field — electric field lines, electric field due to a point charge",
+          "Electric flux and Gauss's theorem — applications to uniform charge distributions",
+          "Electric potential — potential due to a point charge, dipole, and system of charges",
+          "Equipotential surfaces",
+          "Electrical potential energy of a system of two point charges",
+          "Electric dipole — electric field and potential due to a dipole",
+          "Conductors and insulators — redistribution of charges",
+          "Dielectrics and polarisation",
+          "Capacitance — parallel plate capacitor with and without dielectric",
+          "Series and parallel combinations of capacitors",
+          "Energy stored in a capacitor",
+          "Van de Graaff generator (conceptual)"
+        ]
+      },
+      {
+        "topic_name": "Current Electricity",
+        "class": "Class 12",
+        "weightage": "~8%",
+        "sub_topics": [
+          "Electric current and drift velocity",
+          "Ohm's law — resistance and resistivity",
+          "Electrical energy and power",
+          "Series and parallel combinations of resistors",
+          "Temperature dependence of resistance",
+          "Internal resistance of a cell — EMF and terminal voltage",
+          "Kirchhoff's laws — loop and junction rules",
+          "Wheatstone bridge and metre bridge",
+          "Potentiometer — principle and applications (EMF comparison, internal resistance measurement)"
+        ]
+      },
+      {
+        "topic_name": "Magnetic Effects of Current and Magnetism",
+        "class": "Class 12",
+        "weightage": "~6%",
+        "sub_topics": [
+          "Biot-Savart law — magnetic field due to a current-carrying conductor",
+          "Ampere's circuital law and its applications (solenoid, toroid)",
+          "Force on a moving charge in a magnetic field — Lorentz force",
+          "Force on a current-carrying conductor in a magnetic field",
+          "Force between two parallel current-carrying conductors",
+          "Torque on a current loop — magnetic dipole",
+          "Moving coil galvanometer — conversion to ammeter and voltmeter",
+          "Bar magnet — magnetic field lines, magnetic dipole moment",
+          "Earth's magnetic field — horizontal component, angle of declination and dip",
+          "Paramagnetism, diamagnetism, and ferromagnetism",
+          "Cyclotron (principle and working)"
+        ]
+      },
+      {
+        "topic_name": "Electromagnetic Induction and Alternating Currents",
+        "class": "Class 12",
+        "weightage": "~8%",
+        "sub_topics": [
+          "Electromagnetic induction — Faraday's laws",
+          "Lenz's law and conservation of energy",
+          "Self and mutual inductance",
+          "Energy stored in an inductor",
+          "Eddy currents and their applications",
+          "Alternating current — peak and RMS values",
+          "AC circuits with resistor, capacitor, and inductor",
+          "Series LCR circuit — impedance and phase relations",
+          "Resonance in AC circuits — quality factor",
+          "Power in AC circuits — power factor",
+          "Transformers — principle and efficiency",
+          "AC generator — working principle"
+        ]
+      },
+      {
+        "topic_name": "Electromagnetic Waves",
+        "class": "Class 12",
+        "weightage": "~2%",
+        "sub_topics": [
+          "Displacement current and its significance",
+          "Maxwell's equations (conceptual)",
+          "Electromagnetic waves — nature and properties",
+          "Electromagnetic spectrum — radio waves, microwaves, infrared, visible, ultraviolet, X-rays, gamma rays",
+          "Applications of electromagnetic waves in daily life and technology"
+        ]
+      },
+      {
+        "topic_name": "Optics",
+        "class": "Class 12",
+        "weightage": "~8%",
+        "sub_topics": [
+          "Reflection of light — spherical mirrors and mirror formula",
+          "Refraction of light — Snell's law and refractive index",
+          "Total internal reflection and its applications (optical fibres)",
+          "Refraction at spherical surfaces and by lenses",
+          "Thin lens formula and lens maker's equation",
+          "Power of a lens",
+          "Combination of thin lenses in contact",
+          "Refraction and dispersion through a prism",
+          "Scattering of light — blue colour of sky and reddish appearance of sun at sunrise/sunset",
+          "Optical instruments — microscope, telescope",
+          "Wave optics — wavefront and Huygens' principle",
+          "Reflection and refraction using Huygens' principle",
+          "Young's double slit experiment — interference and fringe width",
+          "Coherent sources and conditions for sustained interference",
+          "Diffraction — single slit diffraction pattern",
+          "Polarisation — Brewster's law, polaroids and their uses"
+        ]
+      },
+      {
+        "topic_name": "Dual Nature of Matter and Radiation",
+        "class": "Class 12",
+        "weightage": "~5%",
+        "sub_topics": [
+          "Photoelectric effect — Hertz and Lenard's observations",
+          "Einstein's photoelectric equation — particle nature of light",
+          "Matter waves — wave nature of particles, de Broglie relation",
+          "Davisson-Germer experiment",
+          "Particle nature of light — photon and its properties",
+          "Work function, threshold frequency, stopping potential"
+        ]
+      },
+      {
+        "topic_name": "Atoms and Nuclei",
+        "class": "Class 12",
+        "weightage": "~6%",
+        "sub_topics": [
+          "Alpha particle scattering — Rutherford's nuclear model",
+          "Bohr's model of the hydrogen atom — energy levels and spectral lines",
+          "Hydrogen spectrum — Lyman, Balmer, Paschen series",
+          "Atomic masses and composition of the nucleus",
+          "Size of the nucleus",
+          "Radioactivity — alpha, beta and gamma decay",
+          "Law of radioactive decay and half-life",
+          "Mass-energy equivalence — mass defect and binding energy",
+          "Nuclear reactions — fission and fusion",
+          "Energy released in nuclear fission and fusion"
+        ]
+      },
+      {
+        "topic_name": "Electronic Devices",
+        "class": "Class 12",
+        "weightage": "~5%",
+        "sub_topics": [
+          "Semiconductors — energy band structure, intrinsic and extrinsic semiconductors",
+          "p-type and n-type semiconductors",
+          "p-n junction — forward and reverse bias characteristics",
+          "Junction diode — half-wave and full-wave rectifiers",
+          "Zener diode as a voltage regulator",
+          "Transistor — PNP and NPN, action and characteristics",
+          "Transistor as an amplifier — common emitter configuration",
+          "Transistor as a switch",
+          "Logic gates — OR, AND, NOT, NAND, NOR gates",
+          "Boolean algebra and De Morgan's theorems (basic)"
+        ]
+      }
+    ]
+  }
+]

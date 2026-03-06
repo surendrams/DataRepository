@@ -5,13 +5,13 @@
     "reference": "Digital SAT / College Board / sat.collegeboard.org",
     "major_topics": [
       {
-        "topic_name": "Algebra (Heart of Algebra)",
+        "topic_name": "Algebra",
         "sub_topics": [
           "Solving linear equations in one variable",
           "Solving linear inequalities in one variable",
           "Writing linear equations from word problems",
           "Interpreting linear equations and their components",
-          "Systems of two linear equations — solving by substitution and elimination",
+          "Systems of two linear equations",
           "Systems of linear inequalities and their graphs",
           "Linear functions — slope, intercepts, and rate of change",
           "Graphing linear equations on the coordinate plane",
@@ -38,7 +38,7 @@
         ]
       },
       {
-        "topic_name": "Problem-Solving & Data Analysis",
+        "topic_name": "Problem Solving and Data Analysis",
         "sub_topics": [
           "Ratios, rates, and proportions",
           "Percentages — calculating, increasing, decreasing, and percent change",
@@ -55,7 +55,7 @@
         ]
       },
       {
-        "topic_name": "Geometry & Trigonometry",
+        "topic_name": "Geometry and Trigonometry",
         "sub_topics": [
           "Area and perimeter of triangles, quadrilaterals, and polygons",
           "Area and circumference of circles",

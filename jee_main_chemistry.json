@@ -1,0 +1,328 @@
+[
+  {
+    "exam": "JEE Main",
+    "paper": "Paper 1 (B.E. / B.Tech)",
+    "subject": "Chemistry",
+    "reference": "JEE Main 2026 / National Testing Agency (NTA) / jeemain.nta.nic.in",
+    "notes": "30 questions | 120 marks | Section A: 20 MCQs, Section B: 10 Numericals (attempt any 5) | Divided into Physical, Inorganic, and Organic Chemistry",
+    "major_topics": [
+      {
+        "topic_name": "Some Basic Concepts of Chemistry",
+        "section": "Physical Chemistry",
+        "class": "Class 11",
+        "weightage": "~2%",
+        "sub_topics": [
+          "Importance and scope of chemistry",
+          "Laws of chemical combination — law of conservation of mass, law of definite proportions, law of multiple proportions",
+          "Dalton's atomic theory",
+          "Mole concept and molar mass",
+          "Atomic and molecular masses",
+          "Percentage composition and empirical and molecular formulas",
+          "Chemical reactions — stoichiometry and limiting reagents",
+          "Concentration terms — molarity, molality, normality, mole fraction"
+        ]
+      },
+      {
+        "topic_name": "Atomic Structure",
+        "section": "Physical Chemistry",
+        "class": "Class 11",
+        "weightage": "~3%",
+        "sub_topics": [
+          "Discovery of electron, proton, and neutron",
+          "Thomson's model and Rutherford's nuclear model",
+          "Bohr's model — quantised energy levels and spectral lines",
+          "Quantum mechanical model — Heisenberg's uncertainty principle",
+          "Wave-particle duality — de Broglie relation",
+          "Quantum numbers — principal, azimuthal, magnetic, and spin",
+          "Aufbau principle, Hund's rule, and Pauli exclusion principle",
+          "Electron configurations of atoms and ions",
+          "Shapes of s, p, and d orbitals"
+        ]
+      },
+      {
+        "topic_name": "Thermodynamics",
+        "section": "Physical Chemistry",
+        "class": "Class 11",
+        "weightage": "~6%",
+        "sub_topics": [
+          "System and surroundings — types of systems",
+          "First law of thermodynamics — internal energy and enthalpy",
+          "Enthalpy changes in chemical reactions — standard enthalpy of formation, combustion, and neutralisation",
+          "Hess's law of constant heat summation",
+          "Entropy and the second law of thermodynamics",
+          "Gibbs free energy — spontaneity and equilibrium",
+          "Relationship between ΔG, ΔH, ΔS, and temperature",
+          "Bond enthalpies and their applications"
+        ]
+      },
+      {
+        "topic_name": "Chemical Equilibrium",
+        "section": "Physical Chemistry",
+        "class": "Class 11",
+        "weightage": "~4%",
+        "sub_topics": [
+          "Dynamic nature of equilibrium",
+          "Equilibrium constant — Kc and Kp, relationship between them",
+          "Factors affecting equilibrium — Le Chatelier's principle",
+          "Reaction quotient Q and predicting direction of reaction",
+          "Applications of equilibrium constant",
+          "Degree of dissociation"
+        ]
+      },
+      {
+        "topic_name": "Ionic Equilibrium",
+        "section": "Physical Chemistry",
+        "class": "Class 11",
+        "weightage": "~4%",
+        "sub_topics": [
+          "Electrolytes and non-electrolytes",
+          "Ionisation of acids and bases — weak and strong acids/bases",
+          "Acid-base equilibria — Ostwald's dilution law",
+          "pH scale and pH calculations",
+          "Buffer solutions and their importance",
+          "Hydrolysis of salts and degree of hydrolysis",
+          "Solubility product constant (Ksp)",
+          "Common ion effect and its applications"
+        ]
+      },
+      {
+        "topic_name": "Redox Reactions",
+        "section": "Physical Chemistry",
+        "class": "Class 11",
+        "weightage": "~2%",
+        "sub_topics": [
+          "Concept of oxidation and reduction",
+          "Oxidation number — rules and calculation",
+          "Balancing redox equations — oxidation number method and half-reaction method",
+          "Identifying oxidising and reducing agents",
+          "Applications of redox reactions in everyday life"
+        ]
+      },
+      {
+        "topic_name": "Solutions",
+        "section": "Physical Chemistry",
+        "class": "Class 12",
+        "weightage": "~4%",
+        "sub_topics": [
+          "Types of solutions — solute, solvent",
+          "Concentration units — molarity, molality, normality, mole fraction, ppm",
+          "Solubility — Henry's law",
+          "Vapour pressure of solutions — Raoult's law and its applications",
+          "Ideal and non-ideal solutions — positive and negative deviations",
+          "Colligative properties — relative lowering of vapour pressure, elevation of boiling point, depression of freezing point, osmotic pressure",
+          "van't Hoff factor and its significance",
+          "Abnormal molecular masses"
+        ]
+      },
+      {
+        "topic_name": "Electrochemistry",
+        "section": "Physical Chemistry",
+        "class": "Class 12",
+        "weightage": "~5%",
+        "sub_topics": [
+          "Electrochemical cells — galvanic and electrolytic cells",
+          "Electrode potential and standard electrode potential",
+          "Nernst equation and its applications",
+          "Electrochemical series",
+          "Conductance in electrolytic solutions — specific, molar and equivalent conductance",
+          "Kohlrausch's law",
+          "Faraday's laws of electrolysis",
+          "Dry cell, lead acid battery, and fuel cells",
+          "Corrosion — causes and prevention"
+        ]
+      },
+      {
+        "topic_name": "Chemical Kinetics",
+        "section": "Physical Chemistry",
+        "class": "Class 12",
+        "weightage": "~5%",
+        "sub_topics": [
+          "Rate of a chemical reaction — average and instantaneous rate",
+          "Factors affecting rate — concentration, temperature, catalyst",
+          "Order and molecularity of a reaction",
+          "Rate law and rate constant",
+          "Integrated rate equations — zero order and first order reactions",
+          "Half-life of zero and first order reactions",
+          "Collision theory of reaction rates",
+          "Arrhenius equation — activation energy and frequency factor",
+          "Effect of catalyst on activation energy"
+        ]
+      },
+      {
+        "topic_name": "Periodic Table and Periodicity in Properties",
+        "section": "Inorganic Chemistry",
+        "class": "Class 11",
+        "weightage": "~3%",
+        "sub_topics": [
+          "Historical development — Mendeleev's and modern periodic law",
+          "Electronic configuration and periodic table",
+          "Types of elements — s, p, d, and f block elements",
+          "Periodic trends — atomic and ionic radii",
+          "Periodic trends — ionisation enthalpy",
+          "Periodic trends — electron gain enthalpy",
+          "Periodic trends — electronegativity",
+          "Valence, oxidation states, and diagonal relationships"
+        ]
+      },
+      {
+        "topic_name": "Chemical Bonding and Molecular Structure",
+        "section": "Inorganic Chemistry",
+        "class": "Class 11",
+        "weightage": "~5%",
+        "sub_topics": [
+          "Kossel-Lewis approach to chemical bonding",
+          "Ionic bond — lattice energy and Born-Haber cycle",
+          "Covalent bond — Lewis structures and formal charge",
+          "Valence Shell Electron Pair Repulsion (VSEPR) theory",
+          "Valence bond theory — hybridisation (sp, sp2, sp3, sp3d, sp3d2)",
+          "Molecular orbital theory — bonding, antibonding MOs, bond order",
+          "MO diagrams of homonuclear diatomic molecules (H2, N2, O2, F2)",
+          "Resonance and its significance",
+          "Polarity of bonds and molecules — dipole moment",
+          "Intermolecular forces — hydrogen bonding, van der Waals forces"
+        ]
+      },
+      {
+        "topic_name": "p-Block Elements",
+        "section": "Inorganic Chemistry",
+        "class": "Class 11 & 12",
+        "weightage": "~6%",
+        "sub_topics": [
+          "Group 13 elements — physical and chemical properties, uses and compounds of boron (borax, boric acid, diborane)",
+          "Group 14 elements — properties, allotropes of carbon, compounds of silicon and carbon",
+          "Group 15 elements — properties and compounds of nitrogen (ammonia, oxides of nitrogen, nitric acid), phosphorus allotropes and compounds",
+          "Group 16 elements — properties and compounds of oxygen and sulphur (H2S, SO2, SO3, H2SO4, ozone)",
+          "Group 17 elements (Halogens) — properties, compounds of fluorine, chlorine, and interhalogen compounds",
+          "Group 18 elements (Noble gases) — properties and uses"
+        ]
+      },
+      {
+        "topic_name": "d- and f-Block Elements",
+        "section": "Inorganic Chemistry",
+        "class": "Class 12",
+        "weightage": "~4%",
+        "sub_topics": [
+          "General introduction and electronic configuration of d-block elements",
+          "Physical and chemical properties of transition metals",
+          "Variable oxidation states and colour of transition metal compounds",
+          "Magnetic properties and catalytic behaviour",
+          "Important compounds — KMnO4, K2Cr2O7 (preparation, properties, and uses)",
+          "Lanthanides — electronic configuration and lanthanide contraction",
+          "Actinides — electronic configuration and comparison with lanthanides"
+        ]
+      },
+      {
+        "topic_name": "Coordination Compounds and Environmental Chemistry",
+        "section": "Inorganic Chemistry",
+        "class": "Class 12",
+        "weightage": "~5%",
+        "sub_topics": [
+          "Coordination compounds — ligands, central atom, coordination number",
+          "IUPAC nomenclature of coordination compounds",
+          "Isomerism — structural and stereoisomerism in coordination compounds",
+          "Bonding in coordination compounds — Werner's theory, VBT, and CFT (introductory)",
+          "Colour and magnetic properties of coordination compounds",
+          "Importance and applications of coordination compounds",
+          "Environmental Chemistry — environmental pollution (air, water, soil)",
+          "Atmospheric reactions — greenhouse effect and global warming",
+          "Acid rain — causes and effects",
+          "Ozone depletion — causes and effects",
+          "Industrial waste and its management"
+        ]
+      },
+      {
+        "topic_name": "General Organic Chemistry",
+        "section": "Organic Chemistry",
+        "class": "Class 11",
+        "weightage": "~5%",
+        "sub_topics": [
+          "Tetravalency of carbon and catenation",
+          "Structural representations — structural, condensed, and bond-line formulas",
+          "Classification of organic compounds",
+          "IUPAC nomenclature — rules and applications",
+          "Isomerism — structural and stereoisomerism (optical and geometric)",
+          "Electronic displacement effects — inductive, resonance, hyperconjugation",
+          "Electrophiles and nucleophiles",
+          "Types of organic reactions — substitution, addition, elimination",
+          "Reaction intermediates — carbocations, carbanions, free radicals",
+          "Purification techniques — distillation, crystallisation, sublimation, chromatography"
+        ]
+      },
+      {
+        "topic_name": "Hydrocarbons",
+        "section": "Organic Chemistry",
+        "class": "Class 11",
+        "weightage": "~4%",
+        "sub_topics": [
+          "Alkanes — nomenclature, isomerism, conformations, physical and chemical properties",
+          "Alkenes — nomenclature, isomerism, structure, methods of preparation, chemical reactions",
+          "Alkynes — nomenclature, isomerism, structure, acidic character, preparation and reactions",
+          "Aromatic hydrocarbons — benzene, structure and aromaticity",
+          "Electrophilic aromatic substitution reactions",
+          "Directive influence of substituents",
+          "Carcinogenicity and toxicity of aromatic compounds"
+        ]
+      },
+      {
+        "topic_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "section": "Organic Chemistry",
+        "class": "Class 12",
+        "weightage": "~5%",
+        "sub_topics": [
+          "Nomenclature and physical properties of aldehydes and ketones",
+          "Preparation of aldehydes and ketones",
+          "Nucleophilic addition reactions — mechanisms",
+          "Reactivity of carbonyl group",
+          "Aldol condensation and Cannizzaro reaction",
+          "Oxidation and reduction of aldehydes and ketones",
+          "Nomenclature, preparation, and physical properties of carboxylic acids",
+          "Chemical reactions of carboxylic acids — acidity, esterification",
+          "Formic acid and acetic acid — special properties"
+        ]
+      },
+      {
+        "topic_name": "Organic Compounds Containing Nitrogen",
+        "section": "Organic Chemistry",
+        "class": "Class 12",
+        "weightage": "~3%",
+        "sub_topics": [
+          "Amines — nomenclature, classification, and physical properties",
+          "Preparation and chemical reactions of amines",
+          "Diazonium salts — preparation and synthetic applications",
+          "Cyanides and isocyanides",
+          "Amides — preparation and hydrolysis"
+        ]
+      },
+      {
+        "topic_name": "Biomolecules",
+        "section": "Organic Chemistry",
+        "class": "Class 12",
+        "weightage": "~4%",
+        "sub_topics": [
+          "Carbohydrates — classification, structure of glucose and fructose",
+          "Reducing and non-reducing sugars",
+          "Disaccharides and polysaccharides — sucrose, starch, cellulose, glycogen",
+          "Proteins — amino acids, peptide bond, polypeptides, and proteins",
+          "Structure of proteins — primary, secondary, tertiary, and quaternary",
+          "Denaturation of proteins",
+          "Enzymes — nature and mechanism of enzyme action",
+          "Nucleic acids — DNA and RNA structure",
+          "Biological functions of nucleic acids",
+          "Vitamins — classification and functions",
+          "Hormones — general introduction"
+        ]
+      },
+      {
+        "topic_name": "Chemistry in Everyday Life",
+        "section": "Organic Chemistry",
+        "class": "Class 12",
+        "weightage": "~2%",
+        "sub_topics": [
+          "Chemicals in medicines — analgesics, tranquilisers, antiseptics, antibiotics, antifertility drugs",
+          "Chemicals in food — preservatives, artificial sweeteners",
+          "Cleansing agents — soaps and detergents, mechanism of cleansing action"
+        ]
+      }
+    ]
+  }
+]
